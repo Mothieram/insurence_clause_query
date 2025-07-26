@@ -1,0 +1,1670 @@
+2025-07-26 19:54:19,188 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 19:54:19,256 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 19:54:19,262 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 19:54:19,262 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 19:54:19,263 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 19:54:19,287 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 19:54:19,295 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 19:54:19,330 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 19:54:19,331 - __main__ - INFO - Verifying components...
+2025-07-26 19:54:22,859 - __main__ - INFO - All components verified successfully
+2025-07-26 19:54:22,861 - __main__ - INFO - Processor initialized successfully
+2025-07-26 19:54:22,862 - __main__ - INFO - 
+--- Processing Claim: '23F,car accident,chennai' ---
+2025-07-26 19:54:22,863 - __main__ - INFO - Generating expanded search queries for: '23F,car accident,chennai'
+2025-07-26 19:54:22,864 - __main__ - INFO - Rate limiting - waiting 0.1 seconds
+2025-07-26 19:54:23,901 - __main__ - INFO - Generated queries: ['car accident medical coverage chennai 23F', 'policy exclusions for motor vehicle accidents chennai', 'waiting period for medical treatment car accident insurance']
+2025-07-26 19:54:23,902 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 19:54:26,975 - __main__ - INFO - Retrieved 5 unique candidate clauses
+2025-07-26 19:54:26,976 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 19:54:27,829 - __main__ - WARNING - No relevant clauses found after re-ranking
+2025-07-26 19:54:27,854 - __main__ - INFO - 
+--- Processing Claim: '45M,knee replacement surgery,delhi' ---
+2025-07-26 19:54:27,855 - __main__ - INFO - Generating expanded search queries for: '45M,knee replacement surgery,delhi'
+2025-07-26 19:54:27,855 - __main__ - INFO - Rate limiting - waiting 1.1 seconds
+2025-07-26 19:54:29,844 - __main__ - INFO - Generated queries: ['knee replacement surgery coverage 45 year old male Delhi', 'orthopedic procedure exclusions and waiting periods India', 'policy clause for total knee arthroplasty Delhi region']
+2025-07-26 19:54:29,844 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 19:54:32,944 - __main__ - INFO - Retrieved 4 unique candidate clauses
+2025-07-26 19:54:32,949 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 19:54:33,943 - __main__ - WARNING - No relevant clauses found after re-ranking
+2025-07-26 19:54:33,947 - __main__ - INFO - 
+--- Processing Claim: '32F,dental implant procedure,mumbai' ---
+2025-07-26 19:54:33,947 - __main__ - INFO - Generating expanded search queries for: '32F,dental implant procedure,mumbai'
+2025-07-26 19:54:33,947 - __main__ - INFO - Rate limiting - waiting 1.0 seconds
+2025-07-26 19:54:35,845 - __main__ - INFO - Generated queries: ['dental implant coverage policy clause 32F female Mumbai', 'exclusions for dental implant procedures in Mumbai insurance policies', 'waiting period dental implant surgery India']
+2025-07-26 19:54:35,845 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 19:54:38,945 - __main__ - INFO - Retrieved 4 unique candidate clauses
+2025-07-26 19:54:38,946 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 19:54:39,856 - __main__ - WARNING - No relevant clauses found after re-ranking
+2025-07-26 20:02:30,848 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:02:30,908 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:02:30,914 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:02:30,914 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:02:30,914 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:02:30,939 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:02:30,950 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:02:30,960 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:02:30,960 - __main__ - INFO - Verifying components...
+2025-07-26 20:02:33,285 - __main__ - INFO - All components verified successfully
+2025-07-26 20:02:33,285 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:02:33,287 - __main__ - INFO - 
+--- Processing Claim: '23F,car accident,chennai' ---
+2025-07-26 20:02:33,287 - __main__ - INFO - Generating expanded search queries for: '23F,car accident,chennai'
+2025-07-26 20:02:33,288 - __main__ - INFO - Rate limiting - waiting 0.2 seconds
+2025-07-26 20:02:34,335 - __main__ - INFO - Generated queries: ['car accident medical coverage chennai 23F', 'policy exclusions for motor vehicle accidents chennai', 'waiting period for medical treatment car accident insurance']
+2025-07-26 20:02:34,336 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:02:37,454 - __main__ - INFO - Retrieved 5 unique candidate clauses
+2025-07-26 20:02:37,455 - __main__ - INFO - Retrieved 5 clauses:
+2025-07-26 20:02:37,456 - __main__ - INFO - 1. 2. Explosion or Implosion -... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:02:37,456 - __main__ - INFO - 2. 1. Any claims where the loss can or could have been recovered from any other source.... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:02:37,457 - __main__ - INFO - 3. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:37,457 - __main__ - INFO - 4. SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:37,458 - __main__ - INFO - 5. 1. Accident:-
+An Accident means sudden, unforeseen and involuntary event caused by external, visible... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:37,459 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:02:39,042 - __main__ - INFO - Generating final decision...
+2025-07-26 20:02:39,044 - __main__ - INFO - Rate limiting - waiting 0.4 seconds
+2025-07-26 20:02:41,026 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:02:41,027 - __main__ - INFO - 
+--- Processing Claim: '45M,knee replacement surgery,delhi' ---
+2025-07-26 20:02:41,028 - __main__ - INFO - Generating expanded search queries for: '45M,knee replacement surgery,delhi'
+2025-07-26 20:02:41,028 - __main__ - INFO - Rate limiting - waiting 0.4 seconds
+2025-07-26 20:02:42,384 - __main__ - INFO - Generated queries: ['knee replacement surgery coverage 45 year old male Delhi', 'orthopedic procedure exclusions and waiting periods India', 'policy clause for total knee arthroplasty Delhi, pre-existing condition considerations']
+2025-07-26 20:02:42,385 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:02:45,475 - __main__ - INFO - Retrieved 6 unique candidate clauses
+2025-07-26 20:02:45,476 - __main__ - INFO - Retrieved 6 clauses:
+2025-07-26 20:02:45,476 - __main__ - INFO - 1. 1. Any existing physical disability.... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:02:45,477 - __main__ - INFO - 2. 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:02:45,477 - __main__ - INFO - 3. 6. Living Donor Medical Costs
+We will pay expenses up to the limits specified in the Policy Schedule... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:45,478 - __main__ - INFO - 4. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:45,478 - __main__ - INFO - 5. Additional to individual each bonus/ • The Annual Sum insured;
+SumI nsured policies with individual ... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:02:45,479 - __main__ - INFO - 6. 1. Our toll-free number 1-800-209- 5858 or 020-30305858, say Say “Hi” on WhatsApp on +91 7507245858... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:45,479 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:02:46,975 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:02:46,977 - __main__ - INFO - Output saved to output\query_result_2.json
+2025-07-26 20:02:46,978 - __main__ - INFO - 
+--- Processing Claim: '32F,dental implant procedure,mumbai' ---
+2025-07-26 20:02:46,979 - __main__ - INFO - Generating expanded search queries for: '32F,dental implant procedure,mumbai'
+2025-07-26 20:02:46,980 - __main__ - INFO - Rate limiting - waiting 0.5 seconds
+2025-07-26 20:02:48,340 - __main__ - INFO - Generated queries: ['dental implant coverage policy clause 32F female Mumbai', 'exclusions for dental implant procedures in Mumbai insurance policies', 'waiting period dental implant surgery India']
+2025-07-26 20:02:48,342 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:02:51,415 - __main__ - INFO - Retrieved 6 unique candidate clauses
+2025-07-26 20:02:51,415 - __main__ - INFO - Retrieved 6 clauses:
+2025-07-26 20:02:51,415 - __main__ - INFO - 1.  During the first year of Global Health Care Policy with Us, 30 days waiting period would be applic... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:51,416 - __main__ - INFO - 2. 1. Any type gastrointestinal ulcers 2. Cataracts,... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:51,416 - __main__ - INFO - 3. 1. Accident Death (AD) 100%... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:02:51,416 - __main__ - INFO - 4. SECTION C) BENEFITS COVERED UNDER THE POLICY
+We do not cover the following expenses unless indicated... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:51,416 - __main__ - INFO - 5. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:02:51,416 - __main__ - INFO - 6. consent and after You provide us with contact details of
+2 Injection including Intramuscular
+family ... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:02:51,416 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:02:53,200 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:02:53,202 - __main__ - INFO - Output saved to output\query_result_3.json
+2025-07-26 20:03:21,000 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:03:21,061 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:03:21,067 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:03:21,067 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:03:21,068 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:03:21,097 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:03:21,106 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:03:21,121 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:03:21,122 - __main__ - INFO - Verifying components...
+2025-07-26 20:03:24,574 - __main__ - INFO - All components verified successfully
+2025-07-26 20:03:24,575 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:03:24,576 - __main__ - INFO - 
+--- Processing Claim: '23F,car accident,chennai' ---
+2025-07-26 20:03:24,576 - __main__ - INFO - Generating expanded search queries for: '23F,car accident,chennai'
+2025-07-26 20:03:24,577 - __main__ - INFO - Rate limiting - waiting 0.2 seconds
+2025-07-26 20:03:25,615 - __main__ - INFO - Generated queries: ['car accident medical coverage chennai 23F', 'policy exclusions for motor vehicle accidents chennai', 'waiting period for medical treatment car accident insurance']
+2025-07-26 20:03:25,616 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:03:28,704 - __main__ - INFO - Retrieved 5 unique candidate clauses
+2025-07-26 20:03:28,704 - __main__ - INFO - Retrieved 5 clauses:
+2025-07-26 20:03:28,705 - __main__ - INFO - 1. 2. Explosion or Implosion -... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:03:28,705 - __main__ - INFO - 2. 1. Any claims where the loss can or could have been recovered from any other source.... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:03:28,705 - __main__ - INFO - 3. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:28,705 - __main__ - INFO - 4. SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:28,705 - __main__ - INFO - 5. 1. Accident:-
+An Accident means sudden, unforeseen and involuntary event caused by external, visible... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:28,705 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:03:30,416 - __main__ - INFO - Generating final decision...
+2025-07-26 20:03:30,417 - __main__ - INFO - Rate limiting - waiting 0.3 seconds
+2025-07-26 20:03:32,317 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:03:32,347 - __main__ - INFO - 
+--- Processing Claim: '45M,knee replacement surgery,delhi' ---
+2025-07-26 20:03:32,355 - __main__ - INFO - Generating expanded search queries for: '45M,knee replacement surgery,delhi'
+2025-07-26 20:03:32,356 - __main__ - INFO - Rate limiting - waiting 0.4 seconds
+2025-07-26 20:03:33,734 - __main__ - INFO - Generated queries: ['knee replacement surgery coverage 45 year old male Delhi', 'orthopedic procedure exclusions and waiting periods India', 'policy clause for total knee arthroplasty Delhi region']
+2025-07-26 20:03:33,735 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:03:36,855 - __main__ - INFO - Retrieved 6 unique candidate clauses
+2025-07-26 20:03:36,855 - __main__ - INFO - Retrieved 6 clauses:
+2025-07-26 20:03:36,856 - __main__ - INFO - 1. 1. Any existing physical disability.... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:03:36,856 - __main__ - INFO - 2. 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:03:36,856 - __main__ - INFO - 3. 6. Living Donor Medical Costs
+We will pay expenses up to the limits specified in the Policy Schedule... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:36,857 - __main__ - INFO - 4. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:36,857 - __main__ - INFO - 5. 1. Our toll-free number 1-800-209- 5858 or 020-30305858, say Say “Hi” on WhatsApp on +91 7507245858... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:36,857 - __main__ - INFO - 6. Additional to individual each bonus/ • The Annual Sum insured;
+SumI nsured policies with individual ... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:03:36,857 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:03:38,404 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:03:38,405 - __main__ - INFO - Output saved to output\query_result_2.json
+2025-07-26 20:03:38,406 - __main__ - INFO - 
+--- Processing Claim: '32F,dental implant procedure,mumbai' ---
+2025-07-26 20:03:38,406 - __main__ - INFO - Generating expanded search queries for: '32F,dental implant procedure,mumbai'
+2025-07-26 20:03:38,406 - __main__ - INFO - Rate limiting - waiting 0.5 seconds
+2025-07-26 20:03:39,740 - __main__ - INFO - Generated queries: ['dental implant coverage policy clause 32F female Mumbai', 'exclusions for dental implant procedures in Mumbai insurance policies', 'waiting period dental implant surgery India']
+2025-07-26 20:03:39,742 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:03:42,798 - __main__ - INFO - Retrieved 6 unique candidate clauses
+2025-07-26 20:03:42,799 - __main__ - INFO - Retrieved 6 clauses:
+2025-07-26 20:03:42,799 - __main__ - INFO - 1.  During the first year of Global Health Care Policy with Us, 30 days waiting period would be applic... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:42,800 - __main__ - INFO - 2. 1. Any type gastrointestinal ulcers 2. Cataracts,... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:42,800 - __main__ - INFO - 3. 1. Accident Death (AD) 100%... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:03:42,800 - __main__ - INFO - 4. SECTION C) BENEFITS COVERED UNDER THE POLICY
+We do not cover the following expenses unless indicated... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:42,800 - __main__ - INFO - 5. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:03:42,800 - __main__ - INFO - 6. consent and after You provide us with contact details of
+2 Injection including Intramuscular
+family ... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:03:42,801 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:03:44,567 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:03:44,568 - __main__ - INFO - Output saved to output\query_result_3.json
+2025-07-26 20:08:26,341 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:08:26,399 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:08:26,405 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:08:26,405 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:08:26,405 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:08:26,434 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:08:26,442 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:08:26,451 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:08:26,452 - __main__ - INFO - Verifying components...
+2025-07-26 20:08:30,110 - __main__ - INFO - All components verified successfully
+2025-07-26 20:08:30,111 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:08:30,112 - __main__ - INFO - 
+--- Processing Claim: '25M,road accident injuries,lucknow33F,burn treatment,visakhapatnam8M,pediatric fever emergency,patna70F,stroke treatment,guwahati45M,heart attack emergency,thiruvananthapuram' ---
+2025-07-26 20:08:30,113 - __main__ - INFO - Generating expanded search queries for: '25M,road accident injuries,lucknow33F,burn treatment,visakhapatnam8M,pediatric fever emergency,patna70F,stroke treatment,guwahati45M,heart attack emergency,thiruvananthapuram'
+2025-07-26 20:08:31,066 - __main__ - INFO - Generated queries: ['policy coverage for burn treatment and road accident injuries', 'exclusions related to emergency medical treatment in different cities', 'waiting periods for stroke, heart attack, and pediatric fever treatments']
+2025-07-26 20:08:31,067 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:08:34,175 - __main__ - INFO - Retrieved 8 unique candidate clauses
+2025-07-26 20:08:34,176 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:08:34,176 - __main__ - INFO - 1. respective cover.
+Sl. No. BASE COVERS
+1 Emergency Accidental Hospitalization
+2 OPD Treatment
+Persona... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:08:34,176 - __main__ - INFO - 2. 2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during
+... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:08:34,176 - __main__ - INFO - 3. 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:08:34,176 - __main__ - INFO - 4. The claim amount assessed above would be deducted from the authorization by providing Your Policy nu... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:08:34,176 - __main__ - INFO - 5. SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO INTERNATIONAL COVER UNDER... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:08:34,176 - __main__ - INFO - 6. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:08:34,176 - __main__ - INFO - 7. necessary treatment subject to availability of services in
+that particular city/ location. Kindly vi... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:08:34,177 - __main__ - INFO - 8. for day, day, Maximum Rs.24,000
+Not Covered
+accompanying Maximum Maximum
+an insured child Rs.9,000 R... (Source: HDFHLIP23024V072223.pdf)
+2025-07-26 20:08:34,177 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:08:35,746 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:08:35,748 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:09:20,402 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:09:20,453 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:09:20,458 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:09:20,459 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:09:20,459 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:09:20,479 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:09:20,487 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:09:20,495 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:09:20,496 - __main__ - INFO - Verifying components...
+2025-07-26 20:09:23,916 - __main__ - INFO - All components verified successfully
+2025-07-26 20:09:23,917 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:09:23,918 - __main__ - INFO - 
+--- Processing Claim: '25M,road accident injuries,lucknow33F,burn treatment,visakhapatnam8M,pediatric fever emergency,patna70F,stroke treatment,guwahati45M,heart attack emergency,thiruvananthapuram' ---
+2025-07-26 20:09:23,918 - __main__ - INFO - Generating expanded search queries for: '25M,road accident injuries,lucknow33F,burn treatment,visakhapatnam8M,pediatric fever emergency,patna70F,stroke treatment,guwahati45M,heart attack emergency,thiruvananthapuram'
+2025-07-26 20:09:23,920 - __main__ - INFO - Rate limiting - waiting 0.2 seconds
+2025-07-26 20:09:25,325 - __main__ - INFO - Generated queries: ['policy coverage for burn treatment and road accident injuries', 'exclusions related to emergency medical treatment in different cities', 'waiting periods for stroke, heart attack, and pediatric fever treatments']
+2025-07-26 20:09:25,326 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:09:28,455 - __main__ - INFO - Retrieved 8 unique candidate clauses
+2025-07-26 20:09:28,455 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:09:28,456 - __main__ - INFO - 1. respective cover.
+Sl. No. BASE COVERS
+1 Emergency Accidental Hospitalization
+2 OPD Treatment
+Persona... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:09:28,456 - __main__ - INFO - 2. 2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during
+... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:09:28,456 - __main__ - INFO - 3. 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:09:28,456 - __main__ - INFO - 4. The claim amount assessed above would be deducted from the authorization by providing Your Policy nu... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:09:28,456 - __main__ - INFO - 5. SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO INTERNATIONAL COVER UNDER... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:09:28,457 - __main__ - INFO - 6. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:09:28,457 - __main__ - INFO - 7. necessary treatment subject to availability of services in
+that particular city/ location. Kindly vi... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:09:28,457 - __main__ - INFO - 8. for day, day, Maximum Rs.24,000
+Not Covered
+accompanying Maximum Maximum
+an insured child Rs.9,000 R... (Source: HDFHLIP23024V072223.pdf)
+2025-07-26 20:09:28,457 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:09:30,049 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:09:30,051 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:10:02,658 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:10:02,711 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:10:02,717 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:10:02,717 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:10:02,717 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:10:02,739 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:10:02,747 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:10:02,757 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:10:02,758 - __main__ - INFO - Verifying components...
+2025-07-26 20:10:03,945 - __main__ - INFO - All components verified successfully
+2025-07-26 20:10:03,946 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:10:03,947 - __main__ - INFO - 
+--- Processing Claim: '25M,road accident injuries,lucknow33F,burn treatment,visakhapatnam8M,pediatric fever emergency,patna70F,stroke treatment,guwahati45M,heart attack emergency,thiruvananthapuram' ---
+2025-07-26 20:10:03,947 - __main__ - INFO - Generating expanded search queries for: '25M,road accident injuries,lucknow33F,burn treatment,visakhapatnam8M,pediatric fever emergency,patna70F,stroke treatment,guwahati45M,heart attack emergency,thiruvananthapuram'
+2025-07-26 20:10:03,948 - __main__ - INFO - Rate limiting - waiting 1.3 seconds
+2025-07-26 20:10:06,184 - __main__ - INFO - Generated queries: ['policy coverage for burn treatment and road accident injuries', 'exclusions related to emergency medical treatment in different cities', 'waiting periods for stroke, heart attack, and pediatric fever treatments']
+2025-07-26 20:10:06,185 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:10:09,294 - __main__ - INFO - Retrieved 8 unique candidate clauses
+2025-07-26 20:10:09,295 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:10:09,295 - __main__ - INFO - 1. respective cover.
+Sl. No. BASE COVERS
+1 Emergency Accidental Hospitalization
+2 OPD Treatment
+Persona... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:10:09,296 - __main__ - INFO - 2. 2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during
+... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:10:09,296 - __main__ - INFO - 3. 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag... (Source: CHOTGDP23004V012223.pdf)
+2025-07-26 20:10:09,297 - __main__ - INFO - 4. The claim amount assessed above would be deducted from the authorization by providing Your Policy nu... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:10:09,297 - __main__ - INFO - 5. SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO INTERNATIONAL COVER UNDER... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:10:09,297 - __main__ - INFO - 6. SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS... (Source: BAJHLIP23020V012223.pdf)
+2025-07-26 20:10:09,298 - __main__ - INFO - 7. necessary treatment subject to availability of services in
+that particular city/ location. Kindly vi... (Source: ICIHLIP22012V012223.pdf)
+2025-07-26 20:10:09,298 - __main__ - INFO - 8. for day, day, Maximum Rs.24,000
+Not Covered
+accompanying Maximum Maximum
+an insured child Rs.9,000 R... (Source: HDFHLIP23024V072223.pdf)
+2025-07-26 20:10:09,298 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:10:10,892 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:10:10,895 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:38:01,968 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:38:01,969 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:38:01,970 - __main__ - INFO - 
+--- Processing Claim 1: '25M,road accident injuries,lucknow' ---
+2025-07-26 20:38:01,970 - __main__ - ERROR - Failed to process query '25M,road accident injuries,lucknow': 'InsuranceQueryProcessor' object has no attribute 'process_query'
+2025-07-26 20:38:01,970 - __main__ - INFO - 
+--- Processing Claim 2: '33F,burn treatment,visakhapatnam' ---
+2025-07-26 20:38:01,970 - __main__ - ERROR - Failed to process query '33F,burn treatment,visakhapatnam': 'InsuranceQueryProcessor' object has no attribute 'process_query'
+2025-07-26 20:38:01,970 - __main__ - INFO - 
+--- Processing Claim 3: '8M,pediatric fever emergency,patna' ---
+2025-07-26 20:38:01,970 - __main__ - ERROR - Failed to process query '8M,pediatric fever emergency,patna': 'InsuranceQueryProcessor' object has no attribute 'process_query'
+2025-07-26 20:38:01,971 - __main__ - INFO - 
+--- Processing Claim 4: '70F,stroke treatment,guwahati' ---
+2025-07-26 20:38:01,971 - __main__ - ERROR - Failed to process query '70F,stroke treatment,guwahati': 'InsuranceQueryProcessor' object has no attribute 'process_query'
+2025-07-26 20:38:01,971 - __main__ - INFO - 
+--- Processing Claim 5: '45M,heart attack emergency,thiruvananthapuram' ---
+2025-07-26 20:38:01,971 - __main__ - ERROR - Failed to process query '45M,heart attack emergency,thiruvananthapuram': 'InsuranceQueryProcessor' object has no attribute 'process_query'
+2025-07-26 20:41:56,055 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:41:56,145 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:41:56,150 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:41:56,151 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:41:56,151 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:41:56,223 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:41:56,230 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:41:56,246 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:41:56,247 - __main__ - INFO - Verifying components...
+2025-07-26 20:41:59,865 - __main__ - INFO - All components verified successfully
+2025-07-26 20:41:59,867 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:41:59,867 - __main__ - INFO - 
+--- Processing Claim 1: '25M,road accident injuries,lucknow' ---
+2025-07-26 20:41:59,868 - __main__ - INFO - Generating expanded search queries for: '25M,road accident injuries,lucknow'
+2025-07-26 20:41:59,869 - __main__ - INFO - Rate limiting - waiting 0.2 seconds
+2025-07-26 20:42:00,913 - __main__ - INFO - Generated queries: ['road accident injury coverage 25M male Lucknow', 'policy exclusions for motor vehicle accidents medical expenses', 'waiting period for accident-related medical treatment Lucknow']
+2025-07-26 20:42:00,914 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:42:04,007 - __main__ - INFO - Retrieved 8 unique clauses
+2025-07-26 20:42:04,008 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:42:04,008 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:42:04,009 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:42:04,009 - __main__ - ERROR - Unexpected error processing query: unsupported format string passed to NoneType.__format__
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 201, in process_query
+    logger.info(f"   Score: {clause['score']:.3f}")
+                            ^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-07-26 20:42:04,012 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:42:04,012 - __main__ - INFO - 
+--- Processing Claim 2: '33F,burn treatment,visakhapatnam' ---
+2025-07-26 20:42:04,012 - __main__ - INFO - Generating expanded search queries for: '33F,burn treatment,visakhapatnam'
+2025-07-26 20:42:04,913 - __main__ - INFO - Generated queries: ['burn treatment coverage for female patients aged 30-39', 'policy exclusions related to burns and dermatological treatments', 'waiting period for inpatient treatment of burns in Visakhapatnam']
+2025-07-26 20:42:04,914 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:42:08,008 - __main__ - INFO - Retrieved 8 unique clauses
+2025-07-26 20:42:08,009 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:42:08,010 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:42:08,011 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:42:08,011 - __main__ - ERROR - Unexpected error processing query: unsupported format string passed to NoneType.__format__
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 201, in process_query
+    logger.info(f"   Score: {clause['score']:.3f}")
+                            ^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-07-26 20:42:08,012 - __main__ - INFO - Output saved to output\query_result_2.json
+2025-07-26 20:42:08,012 - __main__ - INFO - 
+--- Processing Claim 3: '8M,pediatric fever emergency,patna' ---
+2025-07-26 20:42:08,013 - __main__ - INFO - Generating expanded search queries for: '8M,pediatric fever emergency,patna'
+2025-07-26 20:42:08,831 - __main__ - INFO - Generated queries: ['pediatric fever emergency coverage', 'policy exclusions for infectious diseases in children', 'waiting period for emergency room visits under pediatric care']
+2025-07-26 20:42:08,831 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:42:11,940 - __main__ - INFO - Retrieved 4 unique clauses
+2025-07-26 20:42:11,941 - __main__ - INFO - Retrieved 4 clauses:
+2025-07-26 20:42:11,941 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:42:11,941 - __main__ - INFO -    Text: 2. Preventive Maintenance...
+2025-07-26 20:42:11,942 - __main__ - ERROR - Unexpected error processing query: unsupported format string passed to NoneType.__format__
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 201, in process_query
+    logger.info(f"   Score: {clause['score']:.3f}")
+                            ^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-07-26 20:42:11,943 - __main__ - INFO - Output saved to output\query_result_3.json
+2025-07-26 20:42:11,943 - __main__ - INFO - 
+--- Processing Claim 4: '70F,stroke treatment,guwahati' ---
+2025-07-26 20:42:11,943 - __main__ - INFO - Generating expanded search queries for: '70F,stroke treatment,guwahati'
+2025-07-26 20:42:12,849 - __main__ - INFO - Generated queries: ['stroke treatment coverage for 70 year old female', 'policy exclusions related to cerebrovascular events in Guwahati', 'waiting period for inpatient stroke rehabilitation']
+2025-07-26 20:42:12,849 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:42:15,919 - __main__ - INFO - Retrieved 5 unique clauses
+2025-07-26 20:42:15,920 - __main__ - INFO - Retrieved 5 clauses:
+2025-07-26 20:42:15,920 - __main__ - INFO - 1. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:42:15,920 - __main__ - INFO -    Text: 1. Myocardial Infarction
+may refer the Insured Person to another specialist...
+2025-07-26 20:42:15,920 - __main__ - ERROR - Unexpected error processing query: unsupported format string passed to NoneType.__format__
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 201, in process_query
+    logger.info(f"   Score: {clause['score']:.3f}")
+                            ^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-07-26 20:42:15,922 - __main__ - INFO - Output saved to output\query_result_4.json
+2025-07-26 20:42:15,922 - __main__ - INFO - 
+--- Processing Claim 5: '45M,heart attack emergency,thiruvananthapuram' ---
+2025-07-26 20:42:15,923 - __main__ - INFO - Generating expanded search queries for: '45M,heart attack emergency,thiruvananthapuram'
+2025-07-26 20:42:16,815 - __main__ - INFO - Generated queries: ['emergency cardiac care coverage for myocardial infarction', 'policy exclusions for pre-existing heart conditions and cardiovascular events', 'waiting period for critical illness coverage, specifically heart attack in Thiruvananthapuram']
+2025-07-26 20:42:16,816 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:42:19,945 - __main__ - INFO - Retrieved 8 unique clauses
+2025-07-26 20:42:19,945 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:42:19,946 - __main__ - INFO - 1. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:42:19,946 - __main__ - INFO -    Text: The claim amount assessed above would be deducted from the authorization by providing Your Policy nu...
+2025-07-26 20:42:19,946 - __main__ - ERROR - Unexpected error processing query: unsupported format string passed to NoneType.__format__
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 201, in process_query
+    logger.info(f"   Score: {clause['score']:.3f}")
+                            ^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-07-26 20:42:19,948 - __main__ - INFO - Output saved to output\query_result_5.json
+2025-07-26 20:46:25,595 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:46:25,648 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:46:25,654 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:46:25,654 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:46:25,654 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:46:25,680 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:46:25,689 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:46:25,700 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:46:25,700 - __main__ - INFO - Verifying components...
+2025-07-26 20:46:29,322 - __main__ - INFO - All components verified successfully
+2025-07-26 20:46:29,323 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:46:29,324 - __main__ - INFO - 
+--- Processing Claim 1: '25M,road accident injuries,lucknow' ---
+2025-07-26 20:46:29,325 - __main__ - INFO - Generating expanded search queries for: '25M,road accident injuries,lucknow'
+2025-07-26 20:46:29,326 - __main__ - INFO - Rate limiting - waiting 0.1 seconds
+2025-07-26 20:46:30,279 - __main__ - INFO - Generated queries: ['road accident injury coverage 25M male Lucknow', 'policy exclusions for motor vehicle accidents medical expenses', 'waiting period for accident-related medical treatment Lucknow']
+2025-07-26 20:46:30,280 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:46:33,357 - __main__ - INFO - Retrieved 8 unique clauses
+2025-07-26 20:46:33,358 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:46:33,358 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:46:33,359 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:46:33,359 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:46:33,360 - __main__ - INFO -    Text: 1. Any claims where the loss can or could have been recovered from any other source....
+2025-07-26 20:46:33,360 - __main__ - INFO - 3. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:46:33,361 - __main__ - INFO -    Text: 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag...
+2025-07-26 20:46:33,361 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:33,361 - __main__ - INFO -    Text: 1. Accidental shall be construed as per definition of Accident in Standard Definitions....
+2025-07-26 20:46:33,361 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:33,361 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:46:33,362 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:46:35,231 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:46:35,233 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:46:35,233 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 25M,road accident injuries,lucknow
+2025-07-26 20:46:35,234 - __main__ - INFO - 
+--- Processing Claim 2: '33F,burn treatment,visakhapatnam' ---
+2025-07-26 20:46:35,235 - __main__ - INFO - Generating expanded search queries for: '33F,burn treatment,visakhapatnam'
+2025-07-26 20:46:35,236 - __main__ - INFO - Rate limiting - waiting 0.1 seconds
+2025-07-26 20:46:36,263 - __main__ - INFO - Generated queries: ['burn treatment coverage for female patients aged 30-39', 'policy exclusions related to burn injuries and treatment in Visakhapatnam', 'waiting period for hospitalization and treatment of burns under health insurance']
+2025-07-26 20:46:36,264 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:46:39,404 - __main__ - INFO - Retrieved 7 unique clauses
+2025-07-26 20:46:39,404 - __main__ - INFO - Retrieved 7 clauses:
+2025-07-26 20:46:39,405 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:46:39,405 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:46:39,406 - __main__ - INFO - 2. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:39,406 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:46:39,406 - __main__ - INFO - 3. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:46:39,406 - __main__ - INFO -    Text: 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag...
+2025-07-26 20:46:39,406 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:39,407 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:46:39,407 - __main__ - INFO - 5. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:46:39,407 - __main__ - INFO -    Text: 2. Charges in excess of reasonable and customary charges incurred for emergency treatment on account...
+2025-07-26 20:46:39,407 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:46:41,152 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:46:41,154 - __main__ - INFO - Output saved to output\query_result_2.json
+2025-07-26 20:46:41,155 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 33F,burn treatment,visakhapatnam
+2025-07-26 20:46:41,155 - __main__ - INFO - 
+--- Processing Claim 3: '8M,pediatric fever emergency,patna' ---
+2025-07-26 20:46:41,156 - __main__ - INFO - Generating expanded search queries for: '8M,pediatric fever emergency,patna'
+2025-07-26 20:46:41,156 - __main__ - INFO - Rate limiting - waiting 0.3 seconds
+2025-07-26 20:46:42,306 - __main__ - INFO - Generated queries: ['pediatric fever emergency coverage', 'policy exclusions for infectious diseases in children', 'waiting period for emergency room visits under pediatric care']
+2025-07-26 20:46:42,306 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:46:45,398 - __main__ - INFO - Retrieved 4 unique clauses
+2025-07-26 20:46:45,398 - __main__ - INFO - Retrieved 4 clauses:
+2025-07-26 20:46:45,399 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:46:45,399 - __main__ - INFO -    Text: 2. Preventive Maintenance...
+2025-07-26 20:46:45,399 - __main__ - INFO - 2. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:45,399 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:46:45,400 - __main__ - INFO - 3. Source: HDFHLIP23024V072223.pdf
+2025-07-26 20:46:45,400 - __main__ - INFO -    Text: - The condition of the patient is such that he/she is not in a condition to be removed to a
+hospital...
+2025-07-26 20:46:45,400 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:45,400 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:46:45,401 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:46:47,083 - __main__ - INFO - Generating final decision...
+2025-07-26 20:46:47,085 - __main__ - INFO - Rate limiting - waiting 0.3 seconds
+2025-07-26 20:46:49,337 - __main__ - INFO - Output saved to output\query_result_3.json
+2025-07-26 20:46:49,338 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 8M,pediatric fever emergency,patna
+2025-07-26 20:46:49,338 - __main__ - INFO - 
+--- Processing Claim 4: '70F,stroke treatment,guwahati' ---
+2025-07-26 20:46:49,339 - __main__ - INFO - Generating expanded search queries for: '70F,stroke treatment,guwahati'
+2025-07-26 20:46:49,339 - __main__ - INFO - Rate limiting - waiting 0.1 seconds
+2025-07-26 20:46:50,236 - __main__ - INFO - Generated queries: ['stroke treatment coverage for 70 year old female', 'policy exclusions related to cerebrovascular events in Guwahati', 'waiting period for inpatient stroke rehabilitation']
+2025-07-26 20:46:50,236 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:46:53,336 - __main__ - INFO - Retrieved 5 unique clauses
+2025-07-26 20:46:53,337 - __main__ - INFO - Retrieved 5 clauses:
+2025-07-26 20:46:53,337 - __main__ - INFO - 1. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:46:53,338 - __main__ - INFO -    Text: 1. Myocardial Infarction
+may refer the Insured Person to another specialist...
+2025-07-26 20:46:53,339 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:46:53,339 - __main__ - INFO -    Text: 2. Treatment of orthopaedic, degenerative or oncological diseases,...
+2025-07-26 20:46:53,340 - __main__ - INFO - 3. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:53,340 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:46:53,341 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:53,341 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:46:53,341 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:46:53,341 - __main__ - INFO -    Text: 1. Any type gastrointestinal ulcers 2. Cataracts,...
+2025-07-26 20:46:53,342 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:46:53,614 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+].
+2025-07-26 20:46:55,886 - __main__ - ERROR - API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-07-26 20:46:55,888 - __main__ - ERROR - Unexpected error processing query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 203, in process_query
+    relevant_clauses = self._rerank_clauses(query, initial_clauses)
+  File "G:\project\life_insurence_query\upgraded\query.py", line 261, in _rerank_clauses
+    response_json = self._rate_limited_invoke(prompt)
+  File "G:\project\life_insurence_query\upgraded\query.py", line 162, in _rate_limited_invoke
+    response = self.llm.invoke(prompt)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 395, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 980, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 799, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1045, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 961, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+                                        ~~~~~~~~~~~~~~~~^
+        request=request,
+        ^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        metadata=self.default_metadata,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\mothi\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\mothi\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+        request,
+    ...<2 lines>...
+        metadata=metadata,
+    )
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+        target,
+    ...<3 lines>...
+        on_error=on_error,
+    )
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-07-26 20:46:56,003 - __main__ - INFO - Output saved to output\query_result_4.json
+2025-07-26 20:46:56,003 - __main__ - INFO - 
+--- Processing Claim 5: '45M,heart attack emergency,thiruvananthapuram' ---
+2025-07-26 20:46:56,003 - __main__ - INFO - Generating expanded search queries for: '45M,heart attack emergency,thiruvananthapuram'
+2025-07-26 20:46:57,028 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+].
+2025-07-26 20:46:59,918 - __main__ - INFO - Generated queries: ['emergency cardiac care coverage for myocardial infarction', 'policy exclusions for pre-existing heart conditions and cardiovascular events', 'waiting period for critical illness coverage, specifically heart attack in Thiruvananthapuram']
+2025-07-26 20:46:59,919 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:47:03,001 - __main__ - INFO - Retrieved 8 unique clauses
+2025-07-26 20:47:03,001 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:47:03,001 - __main__ - INFO - 1. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:47:03,002 - __main__ - INFO -    Text: The claim amount assessed above would be deducted from the authorization by providing Your Policy nu...
+2025-07-26 20:47:03,002 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:47:03,002 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:47:03,002 - __main__ - INFO - 3. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:47:03,002 - __main__ - INFO -    Text: d. The waiting period for listed conditions shall apply even if contracted after the Policy or decla...
+2025-07-26 20:47:03,002 - __main__ - INFO - 4. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:47:03,002 - __main__ - INFO -    Text: 2. Any Pre-existing Condition and / or any complication arising from it
+a) This policy is not design...
+2025-07-26 20:47:03,002 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:47:03,003 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO INTERNATIONAL COVER UNDER...
+2025-07-26 20:47:03,003 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:47:05,965 - __main__ - INFO - Generating final decision...
+2025-07-26 20:47:06,249 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+].
+2025-07-26 20:47:08,542 - __main__ - ERROR - API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-07-26 20:47:08,543 - __main__ - ERROR - Unexpected error processing query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 209, in process_query
+    decision = self._generate_decision(query, relevant_clauses)
+  File "G:\project\life_insurence_query\upgraded\query.py", line 316, in _generate_decision
+    response_json = self._rate_limited_invoke(formatted_prompt)
+  File "G:\project\life_insurence_query\upgraded\query.py", line 162, in _rate_limited_invoke
+    response = self.llm.invoke(prompt)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 395, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 980, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 799, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1045, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 961, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+                                        ~~~~~~~~~~~~~~~~^
+        request=request,
+        ^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        metadata=self.default_metadata,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\mothi\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\mothi\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+        request,
+    ...<2 lines>...
+        metadata=metadata,
+    )
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+        target,
+    ...<3 lines>...
+        on_error=on_error,
+    )
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-07-26 20:47:08,551 - __main__ - INFO - Output saved to output\query_result_5.json
+2025-07-26 20:49:10,219 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:49:10,272 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:49:10,277 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:49:10,277 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:49:10,277 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:49:10,299 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:49:10,308 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:49:10,317 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:49:10,318 - __main__ - INFO - Verifying components...
+2025-07-26 20:49:31,063 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:49:31,209 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:49:31,214 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:49:31,214 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:49:31,214 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:49:31,256 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:49:31,265 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:49:31,272 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:49:31,273 - __main__ - INFO - Verifying components...
+2025-07-26 20:49:34,984 - __main__ - INFO - All components verified successfully
+2025-07-26 20:49:34,985 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:49:34,992 - __main__ - INFO - 
+--- Processing Claim 1: '25M,road accident injuries,lucknow' ---
+2025-07-26 20:49:34,993 - __main__ - INFO - Generating expanded search queries for: '25M,road accident injuries,lucknow'
+2025-07-26 20:49:35,872 - __main__ - INFO - Generated queries: ['road accident coverage medical expenses 25M male Lucknow', 'policy exclusions for accidental injuries Lucknow region', 'waiting period for hospitalization accidental injury claim']
+2025-07-26 20:49:35,873 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:49:38,935 - __main__ - INFO - Retrieved 8 unique clauses
+2025-07-26 20:49:38,935 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:49:38,936 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:49:38,936 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:49:38,936 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:49:38,936 - __main__ - INFO -    Text: 1. Any claims where the loss can or could have been recovered from any other source....
+2025-07-26 20:49:38,937 - __main__ - INFO - 3. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:49:38,937 - __main__ - INFO -    Text: 2. Additional Sum Insured/Cumulative Bonus (if accrued and
+complete information for the Illness or I...
+2025-07-26 20:49:38,937 - __main__ - INFO - 4. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:49:38,937 - __main__ - INFO -    Text: 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag...
+2025-07-26 20:49:38,937 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:49:38,937 - __main__ - INFO -    Text: 1. Accidental shall be construed as per definition of Accident in Standard Definitions....
+2025-07-26 20:49:38,938 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:49:40,861 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:49:40,863 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:49:40,863 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 25M,road accident injuries,lucknow
+2025-07-26 20:49:40,864 - __main__ - INFO - 
+--- Processing Claim 2: '33F,burn treatment,visakhapatnam' ---
+2025-07-26 20:49:40,864 - __main__ - INFO - Generating expanded search queries for: '33F,burn treatment,visakhapatnam'
+2025-07-26 20:49:40,865 - __main__ - INFO - Rate limiting - waiting 0.1 seconds
+2025-07-26 20:49:41,859 - __main__ - INFO - Generated queries: ['burn treatment coverage for female patients aged 30-39', 'policy exclusions related to burn injuries and treatment in Visakhapatnam', 'waiting period for hospitalization and treatment of burns under health insurance']
+2025-07-26 20:49:41,859 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:49:44,986 - __main__ - INFO - Retrieved 7 unique clauses
+2025-07-26 20:49:44,986 - __main__ - INFO - Retrieved 7 clauses:
+2025-07-26 20:49:44,987 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:49:44,987 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:49:44,987 - __main__ - INFO - 2. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:49:44,988 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:49:44,988 - __main__ - INFO - 3. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:49:44,988 - __main__ - INFO -    Text: 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag...
+2025-07-26 20:49:44,988 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:49:44,988 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:49:44,988 - __main__ - INFO - 5. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:49:44,988 - __main__ - INFO -    Text: 2. Charges in excess of reasonable and customary charges incurred for emergency treatment on account...
+2025-07-26 20:49:44,989 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:49:46,810 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:49:46,811 - __main__ - INFO - Output saved to output\query_result_2.json
+2025-07-26 20:49:46,812 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 33F,burn treatment,visakhapatnam
+2025-07-26 20:49:46,812 - __main__ - INFO - 
+--- Processing Claim 3: '8M,pediatric fever emergency,patna' ---
+2025-07-26 20:49:46,812 - __main__ - INFO - Generating expanded search queries for: '8M,pediatric fever emergency,patna'
+2025-07-26 20:49:46,813 - __main__ - INFO - Rate limiting - waiting 0.2 seconds
+2025-07-26 20:49:47,787 - __main__ - INFO - Generated queries: ['pediatric fever treatment coverage', 'policy exclusions for emergency room visits related to infectious diseases', 'waiting period for pediatric emergency care']
+2025-07-26 20:49:47,787 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:49:50,868 - __main__ - INFO - Retrieved 4 unique clauses
+2025-07-26 20:49:50,873 - __main__ - INFO - Retrieved 4 clauses:
+2025-07-26 20:49:50,877 - __main__ - INFO - 1. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:49:50,879 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:49:50,881 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:49:50,883 - __main__ - INFO -    Text: 2. Preventive Maintenance...
+2025-07-26 20:49:50,886 - __main__ - INFO - 3. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:49:50,889 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO INTERNATIONAL COVER UNDER...
+2025-07-26 20:49:50,890 - __main__ - INFO - 4. Source: HDFHLIP23024V072223.pdf
+2025-07-26 20:49:50,890 - __main__ - INFO -    Text: - The condition of the patient is such that he/she is not in a condition to be removed to a
+hospital...
+2025-07-26 20:49:50,890 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:49:52,089 - __main__ - INFO - Re-ranking response: None of the provided clauses are directly relevant to the claim '8M, pediatric fever emergency, Patna'.  Clause 2 (Preventive Maintenance) is irrelevant as it relates to maintenance, not emergency medical treatment. The exclusion clause regarding patient removal might be relevant if the claim involved a refusal to transport, but this is not stated.  More information about the claim and the policy is needed to identify relevant clauses.
+2025-07-26 20:49:52,089 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:49:52,090 - __main__ - INFO - Output saved to output\query_result_3.json
+2025-07-26 20:49:52,091 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 8M,pediatric fever emergency,patna
+2025-07-26 20:49:52,091 - __main__ - INFO - 
+--- Processing Claim 4: '70F,stroke treatment,guwahati' ---
+2025-07-26 20:49:52,091 - __main__ - INFO - Generating expanded search queries for: '70F,stroke treatment,guwahati'
+2025-07-26 20:49:52,091 - __main__ - INFO - Rate limiting - waiting 0.8 seconds
+2025-07-26 20:49:53,715 - __main__ - INFO - Generated queries: ['stroke treatment coverage for 70 year old female', 'policy exclusions related to cerebrovascular events in Guwahati', 'waiting period for inpatient stroke rehabilitation']
+2025-07-26 20:49:53,715 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:49:56,844 - __main__ - INFO - Retrieved 5 unique clauses
+2025-07-26 20:49:56,845 - __main__ - INFO - Retrieved 5 clauses:
+2025-07-26 20:49:56,845 - __main__ - INFO - 1. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:49:56,846 - __main__ - INFO -    Text: 1. Myocardial Infarction
+may refer the Insured Person to another specialist...
+2025-07-26 20:49:56,847 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:49:56,848 - __main__ - INFO -    Text: 2. Treatment of orthopaedic, degenerative or oncological diseases,...
+2025-07-26 20:49:56,848 - __main__ - INFO - 3. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:49:56,849 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:49:56,850 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:49:56,852 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:49:56,853 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:49:56,853 - __main__ - INFO -    Text: 1. Any type gastrointestinal ulcers 2. Cataracts,...
+2025-07-26 20:49:56,854 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:49:58,054 - __main__ - INFO - Re-ranking response: None of the provided clauses are directly relevant to the claim details ('70F, stroke treatment, Guwahati').  Clause 1 mentions myocardial infarction (heart attack), which is different from a stroke. Clause 2 covers orthopedic, degenerative, or oncological diseases, none of which are directly related to a stroke. The remaining clauses are section headers or lists of exclusions and definitions, not specific coverage details.
+2025-07-26 20:49:58,055 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:49:58,057 - __main__ - INFO - Output saved to output\query_result_4.json
+2025-07-26 20:49:58,058 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 70F,stroke treatment,guwahati
+2025-07-26 20:49:58,059 - __main__ - INFO - 
+--- Processing Claim 5: '45M,heart attack emergency,thiruvananthapuram' ---
+2025-07-26 20:49:58,060 - __main__ - INFO - Generating expanded search queries for: '45M,heart attack emergency,thiruvananthapuram'
+2025-07-26 20:49:58,061 - __main__ - INFO - Rate limiting - waiting 0.8 seconds
+2025-07-26 20:49:59,777 - __main__ - INFO - Generated queries: ['emergency cardiac care coverage for myocardial infarction', 'policy exclusions for pre-existing heart conditions and cardiovascular emergencies', 'waiting period for critical illness coverage, specifically heart attack in Thiruvananthapuram']
+2025-07-26 20:49:59,778 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:50:02,933 - __main__ - INFO - Retrieved 7 unique clauses
+2025-07-26 20:50:02,933 - __main__ - INFO - Retrieved 7 clauses:
+2025-07-26 20:50:02,934 - __main__ - INFO - 1. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:50:02,935 - __main__ - INFO -    Text: The claim amount assessed above would be deducted from the authorization by providing Your Policy nu...
+2025-07-26 20:50:02,935 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:50:02,936 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:50:02,936 - __main__ - INFO - 3. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:50:02,937 - __main__ - INFO -    Text: d. The waiting period for listed conditions shall apply even if contracted after the Policy or decla...
+2025-07-26 20:50:02,937 - __main__ - INFO - 4. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:50:02,937 - __main__ - INFO -    Text: 2. Any Pre-existing Condition and / or any complication arising from it
+a) This policy is not design...
+2025-07-26 20:50:02,937 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:50:02,937 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO INTERNATIONAL COVER UNDER...
+2025-07-26 20:50:02,937 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:50:05,445 - __main__ - INFO - Generating final decision...
+2025-07-26 20:50:07,782 - __main__ - INFO - Output saved to output\query_result_5.json
+2025-07-26 20:50:07,783 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 45M,heart attack emergency,thiruvananthapuram
+2025-07-26 20:51:06,901 - __main__ - INFO - Initializing InsuranceQueryProcessor...
+2025-07-26 20:51:06,958 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 20:51:06,963 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 20:51:06,964 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 20:51:06,964 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 20:51:06,986 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 20:51:06,992 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 20:51:07,002 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 20:51:07,002 - __main__ - INFO - Verifying components...
+2025-07-26 20:51:10,478 - __main__ - INFO - All components verified successfully
+2025-07-26 20:51:10,480 - __main__ - INFO - Processor initialized successfully
+2025-07-26 20:51:10,481 - __main__ - INFO - 
+--- Processing Claim 1: '25M,road accident injuries,lucknow' ---
+2025-07-26 20:51:10,482 - __main__ - INFO - Generating expanded search queries for: '25M,road accident injuries,lucknow'
+2025-07-26 20:51:10,484 - __main__ - INFO - Rate limiting - waiting 0.2 seconds
+2025-07-26 20:51:11,512 - __main__ - INFO - Generated queries: ['road accident coverage medical expenses 25M male Lucknow', 'policy exclusions for accidental injuries Lucknow region', 'waiting period for hospitalization accidental injury claim']
+2025-07-26 20:51:11,513 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:51:14,601 - __main__ - INFO - Retrieved 8 unique clauses
+2025-07-26 20:51:14,601 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:51:14,602 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:14,602 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:51:14,603 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:14,603 - __main__ - INFO -    Text: 1. Any claims where the loss can or could have been recovered from any other source....
+2025-07-26 20:51:14,604 - __main__ - INFO - 3. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:51:14,604 - __main__ - INFO -    Text: 2. Additional Sum Insured/Cumulative Bonus (if accrued and
+complete information for the Illness or I...
+2025-07-26 20:51:14,604 - __main__ - INFO - 4. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:14,604 - __main__ - INFO -    Text: 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag...
+2025-07-26 20:51:14,604 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:14,604 - __main__ - INFO -    Text: 1. Accidental shall be construed as per definition of Accident in Standard Definitions....
+2025-07-26 20:51:14,605 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:51:16,642 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:51:16,643 - __main__ - INFO - Output saved to output\query_result_1.json
+2025-07-26 20:51:16,644 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 25M,road accident injuries,lucknow
+2025-07-26 20:51:16,644 - __main__ - INFO - 
+--- Processing Claim 2: '33F,burn treatment,visakhapatnam' ---
+2025-07-26 20:51:16,644 - __main__ - INFO - Generating expanded search queries for: '33F,burn treatment,visakhapatnam'
+2025-07-26 20:51:17,556 - __main__ - INFO - Generated queries: ['burn treatment coverage for female patients aged 30-39', 'policy exclusions related to burn injuries and treatment in Visakhapatnam', 'waiting period for hospitalization and treatment of burns under health insurance']
+2025-07-26 20:51:17,556 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:51:20,632 - __main__ - INFO - Retrieved 7 unique clauses
+2025-07-26 20:51:20,633 - __main__ - INFO - Retrieved 7 clauses:
+2025-07-26 20:51:20,633 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:20,633 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:51:20,633 - __main__ - INFO - 2. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:20,633 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:51:20,633 - __main__ - INFO - 3. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:20,634 - __main__ - INFO -    Text: 2. Applicability of covers:
+Of the covers indicated in this Policy Wording and Endorsements, coverag...
+2025-07-26 20:51:20,634 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:20,634 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:51:20,634 - __main__ - INFO - 5. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:20,634 - __main__ - INFO -    Text: 2. Charges in excess of reasonable and customary charges incurred for emergency treatment on account...
+2025-07-26 20:51:20,634 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:51:22,383 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:51:22,386 - __main__ - INFO - Output saved to output\query_result_2.json
+2025-07-26 20:51:22,386 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 33F,burn treatment,visakhapatnam
+2025-07-26 20:51:22,387 - __main__ - INFO - 
+--- Processing Claim 3: '8M,pediatric fever emergency,patna' ---
+2025-07-26 20:51:22,387 - __main__ - INFO - Generating expanded search queries for: '8M,pediatric fever emergency,patna'
+2025-07-26 20:51:22,387 - __main__ - INFO - Rate limiting - waiting 0.2 seconds
+2025-07-26 20:51:23,435 - __main__ - INFO - Generated queries: ['pediatric fever emergency coverage', 'policy exclusions for infectious diseases in children', 'waiting period for emergency room visits under pediatric care']
+2025-07-26 20:51:23,436 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:51:26,523 - __main__ - INFO - Retrieved 4 unique clauses
+2025-07-26 20:51:26,524 - __main__ - INFO - Retrieved 4 clauses:
+2025-07-26 20:51:26,524 - __main__ - INFO - 1. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:26,525 - __main__ - INFO -    Text: 2. Preventive Maintenance...
+2025-07-26 20:51:26,525 - __main__ - INFO - 2. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:26,526 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:51:26,527 - __main__ - INFO - 3. Source: HDFHLIP23024V072223.pdf
+2025-07-26 20:51:26,527 - __main__ - INFO -    Text: - The condition of the patient is such that he/she is not in a condition to be removed to a
+hospital...
+2025-07-26 20:51:26,528 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:26,529 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:51:26,530 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:51:27,818 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:51:27,819 - __main__ - INFO - Output saved to output\query_result_3.json
+2025-07-26 20:51:27,820 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 8M,pediatric fever emergency,patna
+2025-07-26 20:51:27,820 - __main__ - INFO - 
+--- Processing Claim 4: '70F,stroke treatment,guwahati' ---
+2025-07-26 20:51:27,821 - __main__ - INFO - Generating expanded search queries for: '70F,stroke treatment,guwahati'
+2025-07-26 20:51:27,822 - __main__ - INFO - Rate limiting - waiting 0.7 seconds
+2025-07-26 20:51:29,391 - __main__ - INFO - Generated queries: ['stroke treatment coverage for 70 year old female', 'policy exclusions related to cerebrovascular events in Guwahati', 'waiting period for inpatient stroke rehabilitation']
+2025-07-26 20:51:29,391 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:51:32,485 - __main__ - INFO - Retrieved 5 unique clauses
+2025-07-26 20:51:32,486 - __main__ - INFO - Retrieved 5 clauses:
+2025-07-26 20:51:32,486 - __main__ - INFO - 1. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:51:32,486 - __main__ - INFO -    Text: 1. Myocardial Infarction
+may refer the Insured Person to another specialist...
+2025-07-26 20:51:32,486 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:32,487 - __main__ - INFO -    Text: 2. Treatment of orthopaedic, degenerative or oncological diseases,...
+2025-07-26 20:51:32,487 - __main__ - INFO - 3. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:32,488 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER...
+2025-07-26 20:51:32,488 - __main__ - INFO - 4. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:32,488 - __main__ - INFO -    Text: SECTION B) DEFINITIONS - SPECIFIC DEFINITIONS...
+2025-07-26 20:51:32,488 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:32,488 - __main__ - INFO -    Text: 1. Any type gastrointestinal ulcers 2. Cataracts,...
+2025-07-26 20:51:32,488 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:51:33,644 - __main__ - INFO - Re-ranking response: None of the provided clauses are directly relevant to the claim details ('70F, stroke treatment, Guwahati').  Clause 1 mentions myocardial infarction (heart attack), which is different from a stroke. Clause 2 covers orthopedic, degenerative, or oncological diseases, none of which are directly related to a stroke. The remaining clauses are section headers or lists of exclusions and definitions, not specific coverage details.
+2025-07-26 20:51:33,645 - __main__ - WARNING - No clauses deemed relevant after re-ranking
+2025-07-26 20:51:33,645 - __main__ - INFO - Output saved to output\query_result_4.json
+2025-07-26 20:51:33,646 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 70F,stroke treatment,guwahati
+2025-07-26 20:51:33,646 - __main__ - INFO - 
+--- Processing Claim 5: '45M,heart attack emergency,thiruvananthapuram' ---
+2025-07-26 20:51:33,646 - __main__ - INFO - Generating expanded search queries for: '45M,heart attack emergency,thiruvananthapuram'
+2025-07-26 20:51:33,647 - __main__ - INFO - Rate limiting - waiting 0.8 seconds
+2025-07-26 20:51:35,418 - __main__ - INFO - Generated queries: ['emergency cardiac care coverage for myocardial infarction', 'policy exclusions for pre-existing heart conditions and cardiovascular events', 'waiting period for critical illness coverage, specifically heart attack in Thiruvananthapuram']
+2025-07-26 20:51:35,420 - __main__ - INFO - Retrieving clauses for 4 queries...
+2025-07-26 20:51:38,571 - __main__ - INFO - Retrieved 8 unique clauses
+2025-07-26 20:51:38,571 - __main__ - INFO - Retrieved 8 clauses:
+2025-07-26 20:51:38,572 - __main__ - INFO - 1. Source: ICIHLIP22012V012223.pdf
+2025-07-26 20:51:38,572 - __main__ - INFO -    Text: The claim amount assessed above would be deducted from the authorization by providing Your Policy nu...
+2025-07-26 20:51:38,573 - __main__ - INFO - 2. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:38,574 - __main__ - INFO -    Text: 1. Accident Death (AD) 100%...
+2025-07-26 20:51:38,574 - __main__ - INFO - 3. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:38,575 - __main__ - INFO -    Text: d. The waiting period for listed conditions shall apply even if contracted after the Policy or decla...
+2025-07-26 20:51:38,576 - __main__ - INFO - 4. Source: CHOTGDP23004V012223.pdf
+2025-07-26 20:51:38,577 - __main__ - INFO -    Text: 2. Any Pre-existing Condition and / or any complication arising from it
+a) This policy is not design...
+2025-07-26 20:51:38,577 - __main__ - INFO - 5. Source: BAJHLIP23020V012223.pdf
+2025-07-26 20:51:38,578 - __main__ - INFO -    Text: SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO INTERNATIONAL COVER UNDER...
+2025-07-26 20:51:38,578 - __main__ - INFO - Re-ranking retrieved clauses...
+2025-07-26 20:51:41,493 - __main__ - INFO - Generating final decision...
+2025-07-26 20:51:45,184 - __main__ - INFO - Output saved to output\query_result_5.json
+2025-07-26 20:51:45,185 - __main__ - WARNING - EMERGENCY CASE PROCESSED: 45M,heart attack emergency,thiruvananthapuram
+2025-07-26 21:02:32,749 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:02:32,755 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:02:32,756 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:02:32,756 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:02:32,823 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:02:32,830 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:02:32,844 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:02:32,844 - __main__ - ERROR - Initialization failed: 'InsuranceQueryProcessor' object has no attribute '_verify_components'
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 63, in __init__
+    self._verify_components()
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'InsuranceQueryProcessor' object has no attribute '_verify_components'
+2025-07-26 21:02:32,846 - __main__ - ERROR - Test failed: Initialization failed: 'InsuranceQueryProcessor' object has no attribute '_verify_components'
+2025-07-26 21:08:13,831 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:08:13,837 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:08:13,838 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:08:13,839 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:08:13,866 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:08:13,875 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:08:13,889 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:08:19,466 - __main__ - WARNING - Query expansion failed, using original
+2025-07-26 21:08:19,467 - __main__ - WARNING - Search failed for '46M, knee surgery, Pune, 3-month policy': InsuranceVectorDB.search() got an unexpected keyword argument 'policy_age'
+2025-07-26 21:08:23,040 - __main__ - WARNING - Query expansion failed, using original
+2025-07-26 21:08:23,041 - __main__ - WARNING - Search failed for '33F, cosmetic surgery, Mumbai, 1-year policy': InsuranceVectorDB.search() got an unexpected keyword argument 'policy_age'
+2025-07-26 21:12:13,260 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:12:13,265 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:12:13,266 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:12:13,266 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:12:13,297 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:12:13,306 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:12:13,316 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:12:18,531 - __main__ - WARNING - Query expansion failed, using original
+2025-07-26 21:17:02,575 - __main__ - ERROR - Initialization failed: [E050] Can't find model 'en_core_web_sm'. It doesn't seem to be a Python package or a valid path to a data directory.
+Traceback (most recent call last):
+  File "G:\project\life_insurence_query\upgraded\query.py", line 37, in __init__
+    self.nlp = spacy.load("en_core_web_sm")  # Using smaller model for reliability
+               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\spacy\__init__.py", line 52, in load
+    return util.load_model(
+           ~~~~~~~~~~~~~~~^
+        name,
+        ^^^^^
+    ...<4 lines>...
+        config=config,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "G:\project\life_insurence_query\venv\Lib\site-packages\spacy\util.py", line 484, in load_model
+    raise IOError(Errors.E050.format(name=name))
+OSError: [E050] Can't find model 'en_core_web_sm'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-07-26 21:17:52,821 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:17:52,827 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:17:52,827 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:17:52,827 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:17:52,913 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:17:52,922 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:17:52,964 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:17:55,901 - __main__ - WARNING - Failed to parse query expansion response
+2025-07-26 21:17:58,862 - __main__ - ERROR - Decision failed: Expecting value: line 1 column 1 (char 0)
+2025-07-26 21:18:01,559 - __main__ - WARNING - Failed to parse query expansion response
+2025-07-26 21:18:03,108 - __main__ - ERROR - Decision failed: Expecting value: line 1 column 1 (char 0)
+2025-07-26 21:18:06,448 - __main__ - WARNING - Failed to parse query expansion response
+2025-07-26 21:18:08,392 - __main__ - ERROR - Decision failed: Expecting value: line 1 column 1 (char 0)
+2025-07-26 21:21:44,423 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:21:44,428 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:21:44,428 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:21:44,429 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:21:44,474 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:21:44,489 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:21:44,516 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:25:23,925 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:25:23,931 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:25:23,931 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:25:23,932 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:25:23,971 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:25:23,982 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:25:24,009 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:25:24,011 - __main__ - ERROR - Error processing query: 'InsuranceQueryProcessor' object has no attribute '_extract_claim_details'
+2025-07-26 21:25:24,012 - __main__ - INFO - Saved results to insurance_query_results\query_result_20250726_212524_error.json
+2025-07-26 21:25:24,013 - __main__ - ERROR - Error processing query: 'InsuranceQueryProcessor' object has no attribute '_extract_claim_details'
+2025-07-26 21:25:24,015 - __main__ - INFO - Saved results to insurance_query_results\query_result_20250726_212524_error.json
+2025-07-26 21:25:24,016 - __main__ - ERROR - Error processing query: 'InsuranceQueryProcessor' object has no attribute '_extract_claim_details'
+2025-07-26 21:25:24,017 - __main__ - INFO - Saved results to insurance_query_results\query_result_20250726_212524_error.json
+2025-07-26 21:25:52,532 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:25:52,538 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:25:52,539 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:25:52,539 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:25:52,572 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:25:52,581 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:25:52,606 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:28:43,864 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:28:43,869 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:28:43,870 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:28:43,870 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:28:43,903 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:28:43,920 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:28:43,954 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:29:22,537 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+].
+2025-07-26 21:29:25,094 - __main__ - ERROR - Decision failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-07-26 21:31:19,995 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:31:20,000 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:31:20,001 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:31:20,001 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:31:20,037 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:31:20,044 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:31:20,068 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:31:21,590 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+].
+2025-07-26 21:31:34,999 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+].
+2025-07-26 21:31:39,995 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 21
+}
+].
+2025-07-26 21:31:42,305 - __main__ - WARNING - Query expansion failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-07-26 21:31:43,438 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+].
+2025-07-26 21:31:45,740 - __main__ - ERROR - Decision failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-07-26 21:31:46,891 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 15
+}
+].
+2025-07-26 21:31:49,167 - __main__ - WARNING - Query expansion failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2025-07-26 21:31:50,321 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 11
+}
+].
+2025-07-26 21:31:52,613 - __main__ - ERROR - Decision failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2025-07-26 21:32:42,102 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:32:42,107 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:32:42,108 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:32:42,108 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:32:42,140 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:32:42,149 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:32:42,172 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:32:43,662 - __main__ - WARNING - Query expansion failed: Invalid argument provided to Gemini: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:32:45,124 - vectordb - ERROR - Search failed: Error embedding content: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:32:45,126 - __main__ - WARNING - Search failed for '46M, knee surgery, Pune, 3-month policy': Search error: Error embedding content: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:32:45,402 - __main__ - WARNING - Query expansion failed: Invalid argument provided to Gemini: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:32:45,681 - vectordb - ERROR - Search failed: Error embedding content: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:32:45,682 - __main__ - WARNING - Search failed for '33F, cosmetic surgery, Mumbai, 1-year policy': Search error: Error embedding content: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:32:46,511 - __main__ - WARNING - Query expansion failed: Invalid argument provided to Gemini: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:32:46,811 - vectordb - ERROR - Search failed: Error embedding content: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:32:46,812 - __main__ - WARNING - Search failed for '60M, emergency heart bypass, Delhi, 6-month policy': Search error: Error embedding content: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-07-26 21:33:42,350 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:33:42,355 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:33:42,356 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:33:42,356 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:33:42,385 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:33:42,394 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:33:42,421 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:36:05,364 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:36:05,372 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:36:05,372 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:36:05,372 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:36:05,406 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:36:05,412 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:36:05,434 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:49:38,570 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:49:38,576 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:49:38,576 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:49:38,577 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:49:38,656 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:49:38,663 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:49:38,695 - vectordb - INFO - Database loaded from insurance_vector_db
+2025-07-26 21:49:38,721 - __main__ - ERROR - Error processing query: 'InsuranceQueryProcessor' object has no attribute '_generate_queries'
+2025-07-26 21:49:38,726 - __main__ - ERROR - Error processing query: 'InsuranceQueryProcessor' object has no attribute '_generate_queries'
+2025-07-26 21:49:38,731 - __main__ - ERROR - Error processing query: 'InsuranceQueryProcessor' object has no attribute '_generate_queries'
+2025-07-26 21:57:00,586 - vectordb - INFO - Loaded embedding cache with 1080 entries
+2025-07-26 21:57:00,592 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-07-26 21:57:00,592 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-07-26 21:57:00,592 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 21:57:00,667 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 21:57:00,675 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 21:57:00,711 - vectordb - INFO - Database loaded from insurance_vector_db

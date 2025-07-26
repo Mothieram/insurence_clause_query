@@ -1,0 +1,125 @@
+{
+  "success": [
+    {
+      "file": "G:\\project\\life_insurence_query\\file_inputs\\BAJHLIP23020V012223.pdf",
+      "status": "success",
+      "output_path": "G:\\project\\life_insurence_query\\processed_clauses\\BAJHLIP23020V012223_clauses.json",
+      "error": null,
+      "metadata": {
+        "source_file": "BAJHLIP23020V012223.pdf",
+        "policy_number": "look",
+        "effective_date": null,
+        "coverage_types": [
+          "health",
+          "accident",
+          "property",
+          "liability"
+        ],
+        "file_info": {
+          "path": "G:\\project\\life_insurence_query\\file_inputs\\BAJHLIP23020V012223.pdf",
+          "last_modified": "2025-07-25 15:55:19.278732"
+        }
+      }
+    },
+    {
+      "file": "G:\\project\\life_insurence_query\\file_inputs\\CHOTGDP23004V012223.pdf",
+      "status": "success",
+      "output_path": "G:\\project\\life_insurence_query\\processed_clauses\\CHOTGDP23004V012223_clauses.json",
+      "error": null,
+      "metadata": {
+        "source_file": "CHOTGDP23004V012223.pdf",
+        "policy_number": "etc",
+        "effective_date": null,
+        "coverage_types": [
+          "health",
+          "accident",
+          "property",
+          "liability",
+          "auto"
+        ],
+        "file_info": {
+          "path": "G:\\project\\life_insurence_query\\file_inputs\\CHOTGDP23004V012223.pdf",
+          "last_modified": "2025-07-25 16:00:57.861813"
+        }
+      }
+    },
+    {
+      "file": "G:\\project\\life_insurence_query\\file_inputs\\EDLHLGA23009V012223.pdf",
+      "status": "success",
+      "output_path": "G:\\project\\life_insurence_query\\processed_clauses\\EDLHLGA23009V012223_clauses.json",
+      "error": null,
+      "metadata": {
+        "source_file": "EDLHLGA23009V012223.pdf",
+        "policy_number": null,
+        "effective_date": null,
+        "coverage_types": [
+          "health",
+          "accident",
+          "liability"
+        ],
+        "file_info": {
+          "path": "G:\\project\\life_insurence_query\\file_inputs\\EDLHLGA23009V012223.pdf",
+          "last_modified": "2025-07-25 16:01:10.543792"
+        }
+      }
+    },
+    {
+      "file": "G:\\project\\life_insurence_query\\file_inputs\\HDFHLIP23024V072223.pdf",
+      "status": "success",
+      "output_path": "G:\\project\\life_insurence_query\\processed_clauses\\HDFHLIP23024V072223_clauses.json",
+      "error": null,
+      "metadata": {
+        "source_file": "HDFHLIP23024V072223.pdf",
+        "policy_number": null,
+        "effective_date": null,
+        "coverage_types": [
+          "health",
+          "accident",
+          "property",
+          "liability",
+          "auto"
+        ],
+        "file_info": {
+          "path": "G:\\project\\life_insurence_query\\file_inputs\\HDFHLIP23024V072223.pdf",
+          "last_modified": "2025-07-25 16:01:24.315145"
+        }
+      }
+    },
+    {
+      "file": "G:\\project\\life_insurence_query\\file_inputs\\ICIHLIP22012V012223.pdf",
+      "status": "success",
+      "output_path": "G:\\project\\life_insurence_query\\processed_clauses\\ICIHLIP22012V012223_clauses.json",
+      "error": null,
+      "metadata": {
+        "source_file": "ICIHLIP22012V012223.pdf",
+        "policy_number": "t",
+        "effective_date": null,
+        "coverage_types": [
+          "health",
+          "accident",
+          "property",
+          "liability",
+          "auto"
+        ],
+        "file_info": {
+          "path": "G:\\project\\life_insurence_query\\file_inputs\\ICIHLIP22012V012223.pdf",
+          "last_modified": "2025-07-26 00:12:55.415467"
+        }
+      }
+    }
+  ],
+  "failed": [],
+  "summary": {
+    "total_files": 5,
+    "successful": 5,
+    "failed": 0,
+    "clause_stats": {
+      "GENERAL": 136,
+      "CONDITION": 442,
+      "EXCLUSION": 127,
+      "DEFINITION": 42,
+      "COVERAGE": 74,
+      "LIMITATION": 284
+    }
+  }
+}

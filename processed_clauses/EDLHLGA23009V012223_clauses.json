@@ -1,0 +1,709 @@
+{
+  "metadata": {
+    "source_file": "EDLHLGA23009V012223.pdf",
+    "policy_number": null,
+    "effective_date": null,
+    "coverage_types": [
+      "health",
+      "accident",
+      "liability"
+    ],
+    "file_info": {
+      "path": "G:\\project\\life_insurence_query\\file_inputs\\EDLHLGA23009V012223.pdf",
+      "last_modified": "2025-07-25 16:01:10.543792"
+    }
+  },
+  "clauses": [
+    {
+      "text": "Well Baby Well Mother- Add On Wordings\nAir Ambulance Cover\nIn consideration of the payment of additional premium to Us, We will cover the expenses incurred on air\nambulance services in respect of an Insured Person which are offered by a healthcare or an air\nambulance service provider and which have been used during the Policy Period to transfer the Insured\nPerson to a Hospital or transfer from one hospital to another with adequate emergency facilities for the\nprovision of Emergency Care, provided that:\ni. Our maximum liability under this Benefit for any and all claims arising during the Policy\nYear will be restricted to the Sum insured as stated in the Policy Schedule;\nii. The maximum distance of travel undertaken is 150 kms. In case of distance travelled is\nmore than 150 kms, proportionate amount of expenses upto 150 kms shall be payable.\nExample: If insured has travelled a distance of 300kms using an air ambulance we will pay",
+      "type": "LIMITATION",
+      "subtypes": [
+        "COVERAGE",
+        "CONDITION",
+        "LIMITATION"
+      ],
+      "entities": [
+        {
+          "text": "Us",
+          "type": "GPE",
+          "start": 116,
+          "end": 118
+        },
+        {
+          "text": "the Policy Period",
+          "type": "LAW",
+          "start": 317,
+          "end": 334
+        },
+        {
+          "text": "one",
+          "type": "CARDINAL",
+          "start": 397,
+          "end": 400
+        },
+        {
+          "text": "150",
+          "type": "CARDINAL",
+          "start": 727,
+          "end": 730
+        },
+        {
+          "text": "more than 150",
+          "type": "CARDINAL",
+          "start": 769,
+          "end": 782
+        },
+        {
+          "text": "150",
+          "type": "CARDINAL",
+          "start": 826,
+          "end": 829
+        },
+        {
+          "text": "300kms",
+          "type": "CARDINAL",
+          "start": 900,
+          "end": 906
+        }
+      ],
+      "confidence": 0.3333333333333333
+    },
+    {
+      "text": "Example: If insured has travelled a distance of 300kms using an air ambulance we will pay\n50% of the total cost or Sum Insured whichever is lower. (Eligibility/Actual distance travelled\n: 150kms/300kms = 0.5)\niii. It is for a life threatening emergency health condition/s of the Insured Person which requires\nimmediate and rapid ambulance transportation from the place where the Insured Person is\nsituated at the time of requiring Emergency Care to a hospital provided that the\ntransportation is for Medically Necessary Treatment, is certified in writing by a Medical\nPractitioner, and road ambulance services cannot be provided.\niv. Such air ambulance providing the services, should be duly licensed to operate as such by a\ncompetent government Authority.\nv. This cover is limited to transportation from the area of emergency to a Hospital providing\nemergency care which is not available at the place of origin and from one medical centre to\nanother. ;\nWe will not cover:",
+      "type": "CONDITION",
+      "subtypes": [
+        "COVERAGE",
+        "CONDITION"
+      ],
+      "entities": [
+        {
+          "text": "300kms",
+          "type": "CARDINAL",
+          "start": 48,
+          "end": 54
+        },
+        {
+          "text": "50%",
+          "type": "PERCENT",
+          "start": 90,
+          "end": 93
+        },
+        {
+          "text": "Sum Insured",
+          "type": "ORG",
+          "start": 115,
+          "end": 126
+        },
+        {
+          "text": "150kms/300kms",
+          "type": "CARDINAL",
+          "start": 188,
+          "end": 201
+        },
+        {
+          "text": "0.5",
+          "type": "CARDINAL",
+          "start": 204,
+          "end": 207
+        },
+        {
+          "text": "the Insured Person",
+          "type": "ORG",
+          "start": 375,
+          "end": 393
+        },
+        {
+          "text": "Authority",
+          "type": "ORG",
+          "start": 746,
+          "end": 755
+        },
+        {
+          "text": "one",
+          "type": "CARDINAL",
+          "start": 921,
+          "end": 924
+        }
+      ],
+      "confidence": 0.6666666666666666
+    },
+    {
+      "text": "emergency care which is not available at the place of origin and from one medical centre to\nanother. ;\nWe will not cover:\na. Transfer of the Insured Person from one medical facility to another medical facility of\nsimilar capabilities which provides a similar level of care.\nb. Any transportation of the Insured Person from Hospital to the Insured Person\u2019s\nresidence after he/she has been discharged from the Hospital\nc. Any transportation or air ambulance expenses incurred outside the geographical scope\nof India.\nd. Attempt at suicide\ne. Injuries resulting from participation in acts of war or insurrection\nf. commission of unlawful acts\ng. Incidents involving use of drugs unless prescribed by a medical practitioner\nh. We have accepted a claim under Section II.A.1 in respect of the Insured Person for the\nsame Accident/Illness for which air ambulance services were availed.\ni. We shall not be liable if Medically Necessary Treatment can be provided at the Hospital",
+      "type": "CONDITION",
+      "subtypes": [
+        "CONDITION"
+      ],
+      "entities": [
+        {
+          "text": "one",
+          "type": "CARDINAL",
+          "start": 70,
+          "end": 73
+        },
+        {
+          "text": "the Insured Person",
+          "type": "ORG",
+          "start": 137,
+          "end": 155
+        },
+        {
+          "text": "one",
+          "type": "CARDINAL",
+          "start": 161,
+          "end": 164
+        },
+        {
+          "text": "the Insured Person from Hospital",
+          "type": "ORG",
+          "start": 299,
+          "end": 331
+        },
+        {
+          "text": "the Insured Person\u2019s",
+          "type": "ORG",
+          "start": 335,
+          "end": 355
+        },
+        {
+          "text": "Hospital",
+          "type": "ORG",
+          "start": 408,
+          "end": 416
+        },
+        {
+          "text": "India",
+          "type": "GPE",
+          "start": 508,
+          "end": 513
+        },
+        {
+          "text": "Section",
+          "type": "ORG",
+          "start": 754,
+          "end": 761
+        },
+        {
+          "text": "the Insured Person for the\nsame",
+          "type": "ORG",
+          "start": 783,
+          "end": 814
+        },
+        {
+          "text": "Accident/Illness",
+          "type": "ORG",
+          "start": 815,
+          "end": 831
+        }
+      ],
+      "confidence": 0.3333333333333333
+    },
+    {
+      "text": "i. We shall not be liable if Medically Necessary Treatment can be provided at the Hospital\nwhere the Insured Person is situated at the time of requiring Emergency Care.\nClaims towards Air Ambulance expenses will be payable by mode of Reimbursement only\nAdd On Wordings- Well Baby Well Mother\nBase Product UIN: EDLHLGP21462V032021\nAdd On UIN: EDLHLGA23009V012223\nEdelweiss General Insurance Company Limited,\nCorporate Office: 5th Floor, Tower 3, Kohinoor City Mall, Kohinoor City, Kirol Road, Kurla (West), Mumbai - 400 070, Registered Office:\nEdelweiss House, Off CST Road, Kalina, Mumbai -400 098, IRDAI Regn. No.: 159, CIN: U66000MH2016PLC273758, Reach us on: 1800\n12000, Email: support@edelweissinsurance.com, Website: www.edelweissinsurance.com, Issuing/Corporate Office: +91 22 4272 2200,\nGrievance Redressal Officer: +91 22 4931 4422, Dedicated Toll-Free Number for Grievance: 1800 120 216216. Trade logo displayed above",
+      "type": "CONDITION",
+      "subtypes": [
+        "COVERAGE",
+        "CONDITION"
+      ],
+      "entities": [
+        {
+          "text": "i. We",
+          "type": "PERSON",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "text": "the Insured Person",
+          "type": "ORG",
+          "start": 97,
+          "end": 115
+        },
+        {
+          "text": "Emergency Care",
+          "type": "ORG",
+          "start": 153,
+          "end": 167
+        },
+        {
+          "text": "Air Ambulance",
+          "type": "ORG",
+          "start": 184,
+          "end": 197
+        },
+        {
+          "text": "Add On Wordings-",
+          "type": "WORK_OF_ART",
+          "start": 253,
+          "end": 269
+        },
+        {
+          "text": "EDLHLGP21462V032021\nAdd On UIN",
+          "type": "ORG",
+          "start": 310,
+          "end": 340
+        },
+        {
+          "text": "Edelweiss General Insurance Company Limited",
+          "type": "ORG",
+          "start": 362,
+          "end": 405
+        },
+        {
+          "text": "Corporate Office",
+          "type": "ORG",
+          "start": 407,
+          "end": 423
+        },
+        {
+          "text": "5th",
+          "type": "CARDINAL",
+          "start": 425,
+          "end": 428
+        },
+        {
+          "text": "Kohinoor City Mall",
+          "type": "GPE",
+          "start": 445,
+          "end": 463
+        },
+        {
+          "text": "Kohinoor City",
+          "type": "GPE",
+          "start": 465,
+          "end": 478
+        },
+        {
+          "text": "Kirol Road",
+          "type": "FAC",
+          "start": 480,
+          "end": 490
+        },
+        {
+          "text": "Kurla",
+          "type": "GPE",
+          "start": 492,
+          "end": 497
+        },
+        {
+          "text": "Mumbai",
+          "type": "GPE",
+          "start": 506,
+          "end": 512
+        },
+        {
+          "text": "Registered Office",
+          "type": "ORG",
+          "start": 524,
+          "end": 541
+        },
+        {
+          "text": "Edelweiss House",
+          "type": "ORG",
+          "start": 543,
+          "end": 558
+        },
+        {
+          "text": "Off CST Road",
+          "type": "WORK_OF_ART",
+          "start": 560,
+          "end": 572
+        },
+        {
+          "text": "Kalina",
+          "type": "GPE",
+          "start": 574,
+          "end": 580
+        },
+        {
+          "text": "Mumbai",
+          "type": "GPE",
+          "start": 582,
+          "end": 588
+        },
+        {
+          "text": "098",
+          "type": "CARDINAL",
+          "start": 594,
+          "end": 597
+        },
+        {
+          "text": "IRDAI Regn",
+          "type": "ORG",
+          "start": 599,
+          "end": 609
+        },
+        {
+          "text": "159",
+          "type": "CARDINAL",
+          "start": 616,
+          "end": 619
+        },
+        {
+          "text": "CIN",
+          "type": "ORG",
+          "start": 621,
+          "end": 624
+        },
+        {
+          "text": "1800",
+          "type": "CARDINAL",
+          "start": 662,
+          "end": 666
+        },
+        {
+          "text": "12000",
+          "type": "CARDINAL",
+          "start": 667,
+          "end": 672
+        },
+        {
+          "text": "+91 22 4272 2200",
+          "type": "DATE",
+          "start": 776,
+          "end": 792
+        },
+        {
+          "text": "4931 4422",
+          "type": "DATE",
+          "start": 830,
+          "end": 839
+        },
+        {
+          "text": "1800 120 216216",
+          "type": "DATE",
+          "start": 883,
+          "end": 898
+        }
+      ],
+      "confidence": 0.3333333333333333
+    },
+    {
+      "text": "Grievance Redressal Officer: +91 22 4931 4422, Dedicated Toll-Free Number for Grievance: 1800 120 216216. Trade logo displayed above\nbelongs to Edelweiss Financial Services Limited and is used by Edelweiss General Insurance Company Limited under license. Insurance is\nthe subject matter of solicitation.\nWell Baby Well Mother- Add On Wordings\nWell mother Cover\nCovers routine medical care provided to an insured female (expectant mothers and mothers who have\ndelivered new born baby), which includes routine preventive care services and immunizations (within the\nmaternity hospitalization period), during the period as opted by insured and specified in the policy\nschedule",
+      "type": "COVERAGE",
+      "subtypes": [],
+      "entities": [
+        {
+          "text": "4931 4422",
+          "type": "DATE",
+          "start": 36,
+          "end": 45
+        },
+        {
+          "text": "1800 120 216216",
+          "type": "DATE",
+          "start": 89,
+          "end": 104
+        },
+        {
+          "text": "Edelweiss Financial Services Limited",
+          "type": "ORG",
+          "start": 144,
+          "end": 180
+        },
+        {
+          "text": "Edelweiss General Insurance Company Limited",
+          "type": "ORG",
+          "start": 196,
+          "end": 239
+        }
+      ],
+      "confidence": 0.3333333333333333
+    },
+    {
+      "text": "\u2022 Routine Medical Care would include expenses recommended by a doctor and incurred on \u2013\nPharmacy, Diagnostics, Doctor Consultations and Therapy.\n\u2022 Routine Preventive Care Services will include expenses recommended by a doctor and incurred\non \u2013 Pharmacy and Diagnostic Tests.\nThe insured shall have option to opt for this cover for any one of the below mentioned period:\ni) At the onset of pregnancy and up to pre-hospitalization period for maternity.\nii) At the onset of pregnancy and maternity hospitalization (only routine preventive care services and\nimmunizations) up to first discharge from hospital.\niii) At the onset of pregnancy, maternity hospitalization (only routine preventive care services and\nimmunizations) and until 30 days following birth of new born baby.\nWe will not cover",
+      "type": "LIMITATION",
+      "subtypes": [
+        "CONDITION",
+        "LIMITATION"
+      ],
+      "entities": [
+        {
+          "text": "\u2022",
+          "type": "CARDINAL",
+          "start": 0,
+          "end": 1
+        },
+        {
+          "text": "Pharmacy, Diagnostics, Doctor Consultations",
+          "type": "ORG",
+          "start": 88,
+          "end": 131
+        },
+        {
+          "text": "\u2022",
+          "type": "CARDINAL",
+          "start": 145,
+          "end": 146
+        },
+        {
+          "text": "Preventive Care Services",
+          "type": "ORG",
+          "start": 155,
+          "end": 179
+        },
+        {
+          "text": "first",
+          "type": "ORDINAL",
+          "start": 575,
+          "end": 580
+        },
+        {
+          "text": "30 days",
+          "type": "DATE",
+          "start": 732,
+          "end": 739
+        }
+      ],
+      "confidence": 0.0
+    },
+    {
+      "text": "1. Any infertility treatments",
+      "type": "GENERAL",
+      "subtypes": [],
+      "entities": [
+        {
+          "text": "1",
+          "type": "CARDINAL",
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "confidence": 0.5
+    },
+    {
+      "text": "2. Any charges payable under the maternity section (if opted as an optional cover) of the policy\nHealthy baby expenses / well baby care expenses\nCover for expenses incurred for a New born baby after the birth until first discharge from hospital.\nCovers routine medical care provided to a new born baby, which includes limited to appropriate customary\nexaminations required to assess the integrity and basic functions of child\u2019s organs and skeletal structure\ncarried out immediately following birth, routine preventive care services and immunizations (within the\nhospitalization period).\nThe sum insured limit shall be as opted for and specified in the policy schedule. For multiple born babies\nsum insured shall be subject to limit in place.\nRoutine Preventive Care Services will include expenses recommended by a doctor and incurred on \u2013\nPharmacy and Diagnostic Tests.\nAdd On Wordings- Well Baby Well Mother\nBase Product UIN: EDLHLGP21462V032021\nAdd On UIN: EDLHLGA23009V012223",
+      "type": "LIMITATION",
+      "subtypes": [
+        "COVERAGE",
+        "CONDITION",
+        "LIMITATION"
+      ],
+      "entities": [
+        {
+          "text": "2",
+          "type": "CARDINAL",
+          "start": 0,
+          "end": 1
+        },
+        {
+          "text": "first",
+          "type": "ORDINAL",
+          "start": 215,
+          "end": 220
+        },
+        {
+          "text": "Preventive Care Services",
+          "type": "ORG",
+          "start": 750,
+          "end": 774
+        },
+        {
+          "text": "Add On Wordings-",
+          "type": "WORK_OF_ART",
+          "start": 870,
+          "end": 886
+        },
+        {
+          "text": "EDLHLGP21462V032021\nAdd On UIN",
+          "type": "ORG",
+          "start": 927,
+          "end": 957
+        }
+      ],
+      "confidence": 0.3333333333333333
+    },
+    {
+      "text": "Pharmacy and Diagnostic Tests.\nAdd On Wordings- Well Baby Well Mother\nBase Product UIN: EDLHLGP21462V032021\nAdd On UIN: EDLHLGA23009V012223\nEdelweiss General Insurance Company Limited,\nCorporate Office: 5th Floor, Tower 3, Kohinoor City Mall, Kohinoor City, Kirol Road, Kurla (West), Mumbai - 400 070, Registered Office:\nEdelweiss House, Off CST Road, Kalina, Mumbai -400 098, IRDAI Regn. No.: 159, CIN: U66000MH2016PLC273758, Reach us on: 1800\n12000, Email: support@edelweissinsurance.com, Website: www.edelweissinsurance.com, Issuing/Corporate Office: +91 22 4272 2200,\nGrievance Redressal Officer: +91 22 4931 4422, Dedicated Toll-Free Number for Grievance: 1800 120 216216. Trade logo displayed above\nbelongs to Edelweiss Financial Services Limited and is used by Edelweiss General Insurance Company Limited under license. Insurance is\nthe subject matter of solicitation.",
+      "type": "LIMITATION",
+      "subtypes": [],
+      "entities": [
+        {
+          "text": "Add On Wordings-",
+          "type": "WORK_OF_ART",
+          "start": 31,
+          "end": 47
+        },
+        {
+          "text": "EDLHLGP21462V032021\nAdd On UIN",
+          "type": "ORG",
+          "start": 88,
+          "end": 118
+        },
+        {
+          "text": "Edelweiss General Insurance Company Limited",
+          "type": "ORG",
+          "start": 140,
+          "end": 183
+        },
+        {
+          "text": "Corporate Office",
+          "type": "ORG",
+          "start": 185,
+          "end": 201
+        },
+        {
+          "text": "5th",
+          "type": "CARDINAL",
+          "start": 203,
+          "end": 206
+        },
+        {
+          "text": "Kohinoor City Mall",
+          "type": "GPE",
+          "start": 223,
+          "end": 241
+        },
+        {
+          "text": "Kohinoor City",
+          "type": "GPE",
+          "start": 243,
+          "end": 256
+        },
+        {
+          "text": "Kirol Road",
+          "type": "FAC",
+          "start": 258,
+          "end": 268
+        },
+        {
+          "text": "Kurla",
+          "type": "GPE",
+          "start": 270,
+          "end": 275
+        },
+        {
+          "text": "Mumbai",
+          "type": "GPE",
+          "start": 284,
+          "end": 290
+        },
+        {
+          "text": "Registered Office",
+          "type": "ORG",
+          "start": 302,
+          "end": 319
+        },
+        {
+          "text": "Edelweiss House",
+          "type": "ORG",
+          "start": 321,
+          "end": 336
+        },
+        {
+          "text": "Off CST Road",
+          "type": "WORK_OF_ART",
+          "start": 338,
+          "end": 350
+        },
+        {
+          "text": "Kalina",
+          "type": "GPE",
+          "start": 352,
+          "end": 358
+        },
+        {
+          "text": "Mumbai",
+          "type": "GPE",
+          "start": 360,
+          "end": 366
+        },
+        {
+          "text": "098",
+          "type": "CARDINAL",
+          "start": 372,
+          "end": 375
+        },
+        {
+          "text": "IRDAI Regn",
+          "type": "ORG",
+          "start": 377,
+          "end": 387
+        },
+        {
+          "text": "159",
+          "type": "CARDINAL",
+          "start": 394,
+          "end": 397
+        },
+        {
+          "text": "CIN",
+          "type": "ORG",
+          "start": 399,
+          "end": 402
+        },
+        {
+          "text": "1800",
+          "type": "CARDINAL",
+          "start": 440,
+          "end": 444
+        },
+        {
+          "text": "12000",
+          "type": "CARDINAL",
+          "start": 445,
+          "end": 450
+        },
+        {
+          "text": "+91 22 4272 2200",
+          "type": "DATE",
+          "start": 554,
+          "end": 570
+        },
+        {
+          "text": "4931 4422",
+          "type": "DATE",
+          "start": 608,
+          "end": 617
+        },
+        {
+          "text": "1800 120 216216",
+          "type": "DATE",
+          "start": 661,
+          "end": 676
+        },
+        {
+          "text": "Edelweiss Financial Services Limited",
+          "type": "ORG",
+          "start": 716,
+          "end": 752
+        },
+        {
+          "text": "Edelweiss General Insurance Company Limited",
+          "type": "ORG",
+          "start": 768,
+          "end": 811
+        }
+      ],
+      "confidence": 0.3333333333333333
+    }
+  ],
+  "analysis": {
+    "clause_distribution": {
+      "LIMITATION": 4,
+      "CONDITION": 3,
+      "COVERAGE": 1,
+      "GENERAL": 1
+    },
+    "coverage_analysis": {
+      "coverage_items": [
+        "Wordings\nAir Ambulance Cover",
+        "this cover",
+        "an optional cover",
+        "well baby care expenses",
+        "Cover"
+      ],
+      "total_coverages": 1,
+      "total_exclusions": 0,
+      "total_limitations": 4
+    },
+    "risk_keywords": [
+      "accident",
+      "claim",
+      "liability"
+    ],
+    "document_stats": {
+      "sentences": 49,
+      "avg_sentence_length": 133.73469387755102,
+      "readability": 0
+    }
+  }
+}

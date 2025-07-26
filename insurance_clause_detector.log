@@ -1,0 +1,44 @@
+2025-07-26 18:19:43,031 - __main__ - ERROR - Input directory not found: G:\project\life_insurence_query\insurance_docs
+2025-07-26 18:19:43,031 - __main__ - INFO - Current working directory: G:\project\life_insurence_query
+2025-07-26 18:22:11,060 - __main__ - INFO - 
+Starting processing of 5 insurance documents
+2025-07-26 18:22:11,209 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\BAJHLIP23020V012223.pdf
+2025-07-26 18:22:43,741 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\CHOTGDP23004V012223.pdf
+2025-07-26 18:23:45,974 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\EDLHLGA23009V012223.pdf
+2025-07-26 18:23:47,028 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\HDFHLIP23024V072223.pdf
+2025-07-26 18:24:10,337 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\ICIHLIP22012V012223.pdf
+2025-07-26 18:24:34,900 - __main__ - INFO - 
+Processing completed in 143.84 seconds
+2025-07-26 18:24:34,901 - __main__ - INFO - Successful: 5
+2025-07-26 18:24:34,901 - __main__ - INFO - Failed: 0
+2025-07-26 18:24:34,902 - __main__ - INFO - 
+Clause Statistics:
+2025-07-26 18:24:34,902 - __main__ - INFO - GENERAL: 136
+2025-07-26 18:24:34,902 - __main__ - INFO - CONDITION: 442
+2025-07-26 18:24:34,903 - __main__ - INFO - EXCLUSION: 127
+2025-07-26 18:24:34,903 - __main__ - INFO - DEFINITION: 42
+2025-07-26 18:24:34,903 - __main__ - INFO - COVERAGE: 74
+2025-07-26 18:24:34,903 - __main__ - INFO - LIMITATION: 284
+2025-07-26 18:24:34,904 - __main__ - INFO - 
+Full report saved to: G:\project\life_insurence_query\processed_clauses\clause_analysis_report.json
+2025-07-26 19:16:55,225 - __main__ - INFO - 
+Starting processing of 5 insurance documents
+2025-07-26 19:16:55,379 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\BAJHLIP23020V012223.pdf
+2025-07-26 19:17:45,541 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\CHOTGDP23004V012223.pdf
+2025-07-26 19:19:09,601 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\EDLHLGA23009V012223.pdf
+2025-07-26 19:19:11,420 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\HDFHLIP23024V072223.pdf
+2025-07-26 19:19:43,415 - __main__ - INFO - Processing document: G:\project\life_insurence_query\file_inputs\ICIHLIP22012V012223.pdf
+2025-07-26 19:20:12,338 - __main__ - INFO - 
+Processing completed in 197.11 seconds
+2025-07-26 19:20:12,339 - __main__ - INFO - Successful: 5
+2025-07-26 19:20:12,339 - __main__ - INFO - Failed: 0
+2025-07-26 19:20:12,339 - __main__ - INFO - 
+Clause Statistics:
+2025-07-26 19:20:12,340 - __main__ - INFO - GENERAL: 136
+2025-07-26 19:20:12,340 - __main__ - INFO - CONDITION: 442
+2025-07-26 19:20:12,340 - __main__ - INFO - EXCLUSION: 127
+2025-07-26 19:20:12,340 - __main__ - INFO - DEFINITION: 42
+2025-07-26 19:20:12,341 - __main__ - INFO - COVERAGE: 74
+2025-07-26 19:20:12,341 - __main__ - INFO - LIMITATION: 284
+2025-07-26 19:20:12,342 - __main__ - INFO - 
+Full report saved to: G:\project\life_insurence_query\processed_clauses\clause_analysis_report.json

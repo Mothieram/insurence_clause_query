@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+pdfplumber 
+docx2txt 
+python-pptx
+langchain
+tiktoken
+python-dotenv 
+google-generativeai
+langchain-community 
+faiss-cpu 
+numpy 
+langchain-google-genai

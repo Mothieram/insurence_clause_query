@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "system": "InsuranceQueryProcessor",
+    "version": "1.1",
+    "run_date": "20250726_215751"
+  },
+  "results": [
+    {
+      "query": "46M, knee surgery (Rs. 2,50,000), Pune, 3-month policy",
+      "response": {
+        "decision": "review",
+        "reason": "The claim amount of Rs. 250.0 is significantly lower than what's typically associated with knee surgery.  The provided policy clauses offer limited information to determine coverage. Clause 2 ('X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during hospitalization') is potentially relevant, but the reasonableness of Rs. 250.0 for knee surgery needs further investigation.  More information is needed about the policy's coverage details, specifically the extent of coverage for knee surgery and any applicable deductibles or co-pays. The repetitive nature of the clauses in the input suggests an issue with the data provided.",
+        "confidence": "low",
+        "estimated_amount": {
+          "value": 0,
+          "currency": "INR",
+          "calculation_basis": "Insufficient information to estimate the amount. The claimed amount is unusually low for knee surgery."
+        },
+        "clause_analysis": [
+          {
+            "id": "clause_2_1",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_2",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_3",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_4",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_5",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_6",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_7",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_8",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_9",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_10",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          }
+        ],
+        "next_steps": [
+          "Request complete policy details",
+          "Verify the claimed amount against the policy's coverage for knee surgery",
+          "Clarify any deductibles or co-pays",
+          "Investigate the discrepancy between the claimed amount (Rs. 250.0) and the typical cost of knee surgery",
+          "Review the raw query for additional information"
+        ],
+        "amount_estimate": {
+          "min": 200000,
+          "max": 300000,
+          "currency": "INR"
+        },
+        "timestamp": "2025-07-26T21:57:22.170564"
+      },
+      "processing_time": 21.455055952072144,
+      "timestamp": "2025-07-26T21:57:22.189931"
+    },
+    {
+      "query": "33F, cosmetic surgery, Mumbai, 1-year policy (Max cover: 5L)",
+      "response": {
+        "decision": "rejected",
+        "reason": "The claim is for cosmetic surgery, which is explicitly excluded by clause 2 in CHOTGDP23004V012223.pdf unless medically required as part of treatment for accidents and burns.  The claim provides no indication that the surgery was medically necessary due to an accident or burns.  Therefore, the claim is rejected.",
+        "confidence": "high",
+        "estimated_amount": {
+          "value": 0,
+          "currency": "INR",
+          "calculation_basis": "Cosmetic surgery is not covered under the policy."
+        },
+        "clause_analysis": [
+          {
+            "id": "59490ad7ec64be0d14003c79cfb599cc",
+            "text": "2. Treatment relating to the removal of physical flaws or anomalies (cosmetic treatment or plastic surgery\nin any form or manner unless medically required as part of treatment for accidents and burns).",
+            "source": "policy_document_594.pdf",
+            "relevance": "high",
+            "impact": "negative"
+          }
+        ],
+        "next_steps": [
+          "Inform the claimant that their claim for cosmetic surgery has been rejected due to policy exclusion.",
+          "Provide a copy of the relevant policy clause (clause 2 from CHOTGDP23004V012223.pdf)."
+        ],
+        "amount_estimate": {
+          "min": 300000,
+          "max": 700000,
+          "currency": "INR"
+        },
+        "timestamp": "2025-07-26T21:57:34.682759"
+      },
+      "processing_time": 12.492101192474365,
+      "timestamp": "2025-07-26T21:57:34.684452"
+    },
+    {
+      "query": "60M, emergency heart bypass, Delhi, 6-month policy",
+      "response": {
+        "decision": "review",
+        "reason": "The claim requires further review to determine coverage.  While the policy mentions coverage for diagnostic tests and treatment during hospitalization (clause 2 from CHOTGDP23004V012223.pdf and BAJHLIP23020V012223.pdf), and emergency inpatient hospitalization (clause 10 from BAJHLIP23020V012223.pdf), the specific coverage for an emergency heart bypass and the policy's exclusions for pre-existing conditions need clarification. The policy age of 0 suggests a newly purchased policy, which may impact coverage for pre-existing conditions.  The claimed amount is also missing.  Additional information is needed regarding the policy details, the nature of the emergency, and any pre-existing conditions.",
+        "confidence": "medium",
+        "estimated_amount": {
+          "value": 0,
+          "currency": "INR",
+          "calculation_basis": "Insufficient information to estimate the amount.  Requires policy details, procedure costs, and applicable deductibles/copays."
+        },
+        "clause_analysis": [
+          {
+            "id": "clause_2_CHOTGDP23004V012223",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "high",
+            "impact": "positive"
+          },
+          {
+            "id": "clause_10_BAJHLIP23020V012223",
+            "text": "x. Emergency Inpatient Hospitalization for Dental Treatment arising from an Accident",
+            "source": "policy_document_cla.pdf",
+            "relevance": "medium",
+            "impact": "potentially positive"
+          },
+          {
+            "id": "clause_2_BAJHLIP23020V012223",
+            "text": "2. X-ray, diagnostic tests and all reasonable costs towards diagnostic methods and treatment during\nhospitalisation.",
+            "source": "policy_document_cla.pdf",
+            "relevance": "high",
+            "impact": "positive"
+          },
+          {
+            "id": "clause_preexisting_CHOTGDP23004V012223",
+            "text": "2. Any Pre-existing Condition and / or any complication arising from it\na) This policy is not designed to provide an indemnity with respect to medical services, the need for which\narises out of a pre-existing condition as defined in the policy in normal course of treatment. However in\nany of the threatening situation this exclusion shall not be applied and also that the cover will up to the\nlimit shown under Life threatening condition / situation as defined in this policy",
+            "source": "policy_document_cla.pdf",
+            "relevance": "high",
+            "impact": "potentially negative"
+          }
+        ],
+        "next_steps": [
+          "Obtain complete policy details including policy number and effective date.",
+          "Verify the claimed amount for the emergency heart bypass procedure.",
+          "Determine if the heart bypass surgery was due to a pre-existing condition.",
+          "Review the policy's specific coverage for heart bypass surgery and any applicable exclusions.",
+          "Contact the insurance provider for clarification on coverage."
+        ],
+        "amount_estimate": {
+          "min": 500000,
+          "max": 2000000,
+          "currency": "INR"
+        },
+        "timestamp": "2025-07-26T21:57:51.786779"
+      },
+      "processing_time": 17.10221290588379,
+      "timestamp": "2025-07-26T21:57:51.791293"
+    }
+  ]
+}
