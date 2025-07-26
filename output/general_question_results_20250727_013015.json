@@ -1,0 +1,197 @@
+{
+  "test_questions": [
+    "What is the difference between floater and individual health policies?",
+    "How does the claim settlement ratio affect my policy choice?",
+    "Can I port my existing health insurance to your company?"
+  ],
+  "results": [
+    {
+      "processing_type": "general_question",
+      "question_analysis": {
+        "question_type": "coverage",
+        "complexity": "simple",
+        "information_needs": []
+      },
+      "answer_components": {
+        "direct_answer": "A floater health insurance policy covers multiple individuals (usually family members) under a single policy and a single sum insured.  Claims from any covered individual reduce the overall sum insured. An individual health insurance policy covers only one person, with their own separate sum insured.  Claims against one individual's policy do not affect the coverage of others.",
+        "qualifications": [
+          "The specific coverage details, including the sum insured and covered individuals, vary depending on the policy and insurer.",
+          "Floater policies can be more economical than purchasing individual policies for each family member, but the sum insured is shared.",
+          "Individual policies offer greater flexibility and independent coverage for each person."
+        ],
+        "examples": [
+          "A family of four with a \u20b910 lakh floater policy: If one member uses \u20b95 lakh, only \u20b95 lakh remains for the rest of the family.  Four individual \u20b910 lakh policies would allow each member to use their full \u20b910 lakh.",
+          "A single person might prefer an individual policy for simplicity and to avoid shared sum insured limitations."
+        ],
+        "common_misconceptions": [
+          "Floater policies always save money: This is not always true; it depends on the family's health needs and the cost of individual policies.",
+          "Individual policies are always better:  Individual policies can be more expensive than a floater policy for a family."
+        ]
+      },
+      "source_analysis": {
+        "primary_sources": [],
+        "secondary_sources": [],
+        "source_reliability": "medium"
+      },
+      "recommendations": {
+        "next_questions": [
+          "What is the sum insured for the floater policy?",
+          "What are the waiting periods for pre-existing conditions?",
+          "What are the exclusions in the policy?",
+          "What is the premium for both floater and individual policies?"
+        ],
+        "related_topics": [
+          "Health insurance premiums",
+          "Health insurance claims process",
+          "Types of health insurance plans",
+          "Pre-existing conditions",
+          "Waiting periods"
+        ],
+        "action_items": [
+          "Compare quotes from multiple insurers for both floater and individual health insurance policies.",
+          "Carefully review the policy documents before purchasing."
+        ]
+      },
+      "timestamp": "2025-07-27T01:30:01.810894",
+      "metadata": {
+        "policy_clauses_used": true,
+        "clauses_count": 3
+      }
+    },
+    {
+      "processing_type": "general_question",
+      "question_analysis": {
+        "question_type": "claims",
+        "complexity": "moderate",
+        "information_needs": [
+          "Claim settlement ratio of the insurer",
+          "Insurer's financial stability",
+          "Policy features and coverage details beyond the claim settlement ratio"
+        ]
+      },
+      "answer_components": {
+        "direct_answer": "A higher claim settlement ratio generally indicates a greater likelihood that the insurer will pay out claims efficiently and fairly.  This is a positive factor when choosing a policy, suggesting a more reliable insurer. However, it shouldn't be the sole deciding factor; you should also consider policy features, coverage, premium, and the insurer's overall financial health.",
+        "qualifications": [
+          "A high claim settlement ratio doesn't guarantee a claim will be approved; it reflects the insurer's overall performance in settling valid claims.",
+          "The ratio can be influenced by factors beyond the insurer's control, such as the type of claims received and the accuracy of claim information provided by policyholders.",
+          "A low ratio doesn't automatically mean the insurer is bad; it could indicate stricter claim assessment processes or a higher proportion of fraudulent or invalid claims.",
+          "Compare claim settlement ratios across multiple insurers, considering the types of policies offered and the specific claims data used in the calculation."
+        ],
+        "examples": [
+          "Insurer A has a 95% claim settlement ratio, while Insurer B has an 85% ratio.  All other factors being equal, Insurer A might appear more reliable in terms of claim payouts.",
+          "However, if Insurer B offers significantly better coverage or a lower premium, the lower claim settlement ratio might be acceptable depending on your risk tolerance."
+        ],
+        "common_misconceptions": [
+          "A high claim settlement ratio guarantees claim approval.",
+          "A low claim settlement ratio always indicates a bad insurer.",
+          "Claim settlement ratio is the only factor to consider when choosing an insurance policy."
+        ]
+      },
+      "source_analysis": {
+        "primary_sources": [
+          "Insurer's official website (claim settlement ratio data)",
+          "IRDAI reports (for Indian insurers) or equivalent regulatory bodies in other countries"
+        ],
+        "secondary_sources": [
+          "Independent financial news and rating agencies",
+          "Insurance comparison websites"
+        ],
+        "source_reliability": "medium"
+      },
+      "recommendations": {
+        "next_questions": [
+          "What is the insurer's financial stability rating?",
+          "What is the specific definition of 'claim settled' used by the insurer?",
+          "What are the policy's exclusions and limitations?",
+          "What is the premium cost compared to other insurers offering similar coverage?"
+        ],
+        "related_topics": [
+          "Insurer financial ratings",
+          "Policy coverage details",
+          "Claim process and procedures",
+          "Premium comparison"
+        ],
+        "action_items": [
+          "Compare claim settlement ratios across multiple insurers.",
+          "Verify the claim settlement ratio data from multiple reliable sources.",
+          "Consider other factors beyond the claim settlement ratio when choosing a policy.",
+          "Read the policy document carefully to understand the terms and conditions."
+        ]
+      },
+      "timestamp": "2025-07-27T01:30:09.334045",
+      "metadata": {
+        "policy_clauses_used": true,
+        "clauses_count": 3
+      }
+    },
+    {
+      "processing_type": "general_question",
+      "question_analysis": {
+        "question_type": "eligibility",
+        "complexity": "moderate",
+        "information_needs": [
+          "Policy number of existing health insurance",
+          "Name of existing health insurance provider",
+          "Details of existing coverage (e.g., plan type, benefits)",
+          "Date of inception of existing policy",
+          "Pre-existing conditions (including any physical disabilities)",
+          "Current health status"
+        ]
+      },
+      "answer_components": {
+        "direct_answer": "Whether you can port your existing health insurance to our company depends on several factors, including your current health status, the terms of your existing policy, and our company's underwriting guidelines.  Portability is not always guaranteed.",
+        "qualifications": [
+          "Portability is subject to our company's underwriting process.",
+          "Pre-existing conditions, including physical disabilities, may affect eligibility and coverage.",
+          "Waiting periods may apply for certain conditions.",
+          "Your existing policy's coverage may not be fully replicated in our plans."
+        ],
+        "examples": [
+          "A person with a well-managed chronic condition might be eligible for porting with some limitations.",
+          "A person with a recently diagnosed serious illness might face restrictions or higher premiums.",
+          "A person with a stable condition that is fully covered under their existing plan might find a comparable plan with our company."
+        ],
+        "common_misconceptions": [
+          "All health insurance policies are portable.",
+          "Pre-existing conditions are always excluded from ported policies.",
+          "The porting process is always quick and easy."
+        ]
+      },
+      "source_analysis": {
+        "primary_sources": [
+          "Our company's health insurance policy documents",
+          "Our company's underwriting guidelines"
+        ],
+        "secondary_sources": [
+          "Industry publications on health insurance portability",
+          "Government regulations on health insurance"
+        ],
+        "source_reliability": "high"
+      },
+      "recommendations": {
+        "next_questions": [
+          "Can you provide details of your existing health insurance policy?",
+          "Do you have any pre-existing conditions or ongoing health concerns?",
+          "What are your health insurance needs and priorities?"
+        ],
+        "related_topics": [
+          "Pre-existing conditions",
+          "Health insurance underwriting",
+          "Waiting periods",
+          "Policy exclusions"
+        ],
+        "action_items": [
+          "Contact our customer service department to discuss your specific situation.",
+          "Gather information about your existing health insurance policy.",
+          "Review our company's health insurance plans and eligibility criteria."
+        ]
+      },
+      "timestamp": "2025-07-27T01:30:15.134986",
+      "metadata": {
+        "policy_clauses_used": true,
+        "clauses_count": 3
+      }
+    }
+  ],
+  "timestamp": "20250727_013015"
+}
