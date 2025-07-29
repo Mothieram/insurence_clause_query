@@ -632,8 +632,8 @@
       "text": "personnel.\n11. Day Care Treatment:-\nDay care treatment means medical treatment, and/or surgical procedure which is:\ni. undertaken under General or Local Anesthesia in a Hospital/Day Care Centre in less than 24 hrs because of\ntechnological advancement, and\nii. Which would have otherwise required a Hospitalization of more than 24 hours.\nTreatment normally taken on an out-patient basis is not included in the scope of this definition.\n12. Deductible:-\nDeductible means a cost sharing requirement under a health insurance Policy that provides that the insurer will\nnot be liable for a specified amount in case of indemnity policies and for a specified number of days/hours in case\nof Hospital cash policies which will apply before any benefits are payable by the insurer. A Deductible does not\nreduce the Sum Insured.\n13. Dental Treatment:-\nDental Treatment means a treatment related to teeth or structures supporting teeth including examinations, fillings",
       "type": "COVERAGE",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION"
+        "DEFINITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -968,9 +968,9 @@
       "text": "20. Injury:-\nInjury means Accidental physical bodily harm excluding Illness or disease solely and directly caused by external,\nviolent, visible and evident means which is verified and certified by a Medical Practitioner.\n21. Inpatient Care:-\nInpatient care means treatment for which the Insured has to stay in a Hospital for more than 24 hours for a\ncovered event.\n22. Intensive Care Unit:-\nIntensive Care Unit means an identified section, ward or wing of a Hospital which is under the constant\nsupervision of a dedicated Medical Practitioner(s), and which is specially equipped for the continuous monitoring\nand treatment of patients who are in a critical condition, or require life support facilities and where the level of care\nand supervision is considerably more sophisticated and intensive than in the ordinary and other wards.\n23. ICU Charges:-\nICU (Intensive Care Unit) Charges means the amount charged by a Hospital towards ICU expenses which shall",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -1135,9 +1135,9 @@
       "text": "For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\n25. Maternity expenses:-\nMaternity expenses means;\na. medical treatment expenses traceable to childbirth (including complicated deliveries and caesarean sections\nincurred during Hospitalization);\nb. expenses towards lawful medical termination of pregnancy during the Policy Period.\n26. Medical Advice:-\nMedical Advice means any consultation or advice from a Medical Practitioner including the issuance of any\nprescription or follow up prescription.\n27. Medical Expenses:-\nMedical Expenses means those expenses that an Insured has necessarily and actually incurred for medical\ntreatment on account of Illness or Accident on the advice of a Medical Practitioner, as long as these are no more\nthan would have been payable if the Insured had not been Insured and no more than other Hospitals or Medical",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -1225,9 +1225,9 @@
       "text": "than would have been payable if the Insured had not been Insured and no more than other Hospitals or Medical\nPractitioners in the same locality would have charged for the same medical treatment.\n28. Medical Practitioner/Doctor/ Physician:-\nMedical Practitioner means a person who holds a valid registration from the Medical Council of any State or\nMedical Council of India or Council for Indian Medicine or for Homeopathy set up by the Government of India or a\nState Government and is thereby entitled to practice medicine within its jurisdiction; and is acting within its scope\nand jurisdiction of license.\n29. Medically Necessary Treatment:-\nMedically necessary treatment means any treatment, tests, medication, or stay in Hospital or part of a stay in\nHospital which:\ni. is required for the medical management of the Illness or Injury suffered by the Insured;\nii. must not exceed the level of care necessary to provide safe, adequate and appropriate medical care in\nscope, duration, or intensity;",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -2133,10 +2133,10 @@
       "text": "procedures such as apicoectomy and dental prescription drugs. All investigative procedures that establish the\nneed for dental surgery such as laboratory tests, X-rays, CT scans and MRI(s) are included under this benefit.\nDental surgery does not cover surgical treatment that relates to dental implants.\n9. Dental treatment outside India:-\nDental treatment outside India includes an annual check-up, simple fillings related to cavities or decay, root canal\ntreatment and dental prescription drugs.\n10. Dependent:-\nDependent means a family member who is Your spouse, children and parents/parents-in-law.\n11. Dependent child:-\nA child is considered a dependent for insurance purposes up to the day before his/her 25th birthday. If enrolled in\nfull time education a child is considered as dependent up to the day before his/her 30th birthday provided he is\nfinancially dependent on the proposer.\n12. Diagnostic tests:-",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION",
-        "CONDITION"
+        "DEFINITION",
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -2212,9 +2212,9 @@
       "text": "financially dependent on the proposer.\n12. Diagnostic tests:-\nDiagnostic tests refers to investigations such as x-rays or blood tests, undertaken to determine the cause of the\npresented symptoms.\n13. Emergency and Emergency Treatment\nEmergency Treatment shall be accordingly taken/interpreted as per definition of Emergency Care read with this\ndefinition. Provided however only treatment commencing within 24 hours of the Emergency event will be covered.\n14. Emergency Inpatient Dental Treatment arising from an Accident:-\nEmergency Inpatient Dental Treatment arising from an Accident refers to acute Emergency Dental Treatment that\nis due to a serious Accident and requires admission to Hospital. The treatment must take place within 24 hours of\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 6\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -2320,9 +2320,9 @@
       "text": "Bajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\nthe Emergency event. Cover does not extend to follow-up Dental Treatment, dental surgery, dental prostheses,\northodontics or periodontics.\n15. Emergency Treatment outside area of cover:-\nEmergency treatment outside area of cover is treatment for medical emergencies which occur during business or\nholiday trips outside Your area of cover. Cover is provided for up to six weeks per trip within the maximum benefit\namount. It includes treatment required due to an Accident or the sudden beginning or worsening of a severe\nIllness which presents an immediate threat to Your health. Treatment by a Doctor must start within 24 hours of",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -2463,8 +2463,8 @@
       "text": "treated as Endorsement.\n17. Family history:-\nFamily history exists where a parent, grandparent, sibling, child, aunt or uncle has been previously diagnosed with\nthe medical condition in question.\n18. Home Country:-\nHome country is a country for which You hold a current passport or which is Your principal country of residence.\n19. Hospital (for International Cover):-\nHospital for international practice is any establishment which is licensed as a medical or surgical Hospital in the\ncountry where it operates and where the patient is permanently supervised by a Doctor.\nThe following are not considered Hospitals:\n\u201crest and nursing homes, spas, cure-centres and health resorts.\u201d\n20. Inpatient:- shall be construed as per Standard Definition of Inpatient Care.\n21. Inpatient cash benefit:-\nIn-patient cash benefit is payable when You receive Inpatient treatment free of charge for a medical condition that",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -2516,10 +2516,10 @@
       "text": "21. Inpatient cash benefit:-\nIn-patient cash benefit is payable when You receive Inpatient treatment free of charge for a medical condition that\nis covered by Us. Cover is limited to the amount and maximum number of nights specified in the Table of Benefits\nand is payable after You are discharged from Hospital.\n20. Limit of Indemnity:-\nLimit of Indemnity represents Our maximum liability to make payment for each and every claim per person and\ncollectively for all persons mentioned in the Policy Schedule during the Policy Period and in the aggregate for the\nperson(s) named in the Policy Schedule during the Policy Period, and means the amount stated in the Policy\nSchedule against each Cover.\n21. Living donor medical costs:-\nLiving donor medical costs refer to the expenses We pay up to the limits specified in the Policy Schedule, towards\norgan donor\u2019s treatment for harvesting of the donated organ, provided that,",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "DEFINITION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3359,9 +3359,9 @@
       "text": "following stabilisation of their acute medical issues.\n45. Single Private room:-\nSingle Private Room means a single occupancy air-conditioned room with an attached washroom/toilet. Deluxe,\nexecutive rooms and suites are not covered.\n46. Specialist:-\nSpecialist is a licensed Doctor possessing the additional qualifications and expertise necessary to practise as a\nrecognised specialist in diagnostic techniques, treatment and prevention in a particular field of medicine.\n47. Specialist fees:-\nSpecialist fees refers to non-surgical treatment performed or administered by a specialist.\n48. Speech therapy:-\nSpeech therapy refers to treatment carried out by a qualified speech therapist to treat diagnosed physical\nimpairments. This includes conditions such as nasal obstruction, neurogenic impairment (e.g. lingual paresis,\nbrain Injury) or articulation disorders involving the oral structure (e.g. cleft palate).\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 9",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3567,10 +3567,10 @@
       "text": "SECTION C) BENEFITS COVERED UNDER THE POLICY\nType of Policy: Individual\nTenure of Policy: 1 year\nScope of cover:\nThe Company hereby agrees to pay Reasonable and Customary expenses in respect of an admissible claim, for\nany or all of the following covers subject to the Sum Insured, limits, Deductibles, terms, conditions and definitions,\nexclusions contained or otherwise expressed in this Policy.\nPART A- COVERAGE- Domestic (Within India Only, for Imperial and Imperial Plus Plans)\nI. IN-PATIENT BENEFITS FOR DOMESTIC COVER",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION",
-        "CONDITION"
+        "DEFINITION",
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3604,9 +3604,9 @@
       "text": "1. In-patient Hospitalization Treatment\nIf You are advised Hospitalization within India by a Medical Practitioner as defined under Policy because of Illness\nor Accidental Bodily Injury sustained or contracted during the Policy Period, then We will pay You, Reasonable and\nCustomary Medical Expenses incurred subject to\ni. Room rent and Boarding expenses as provided by the Hospital/Nursing Home without any sub limit\nii. If admitted in ICU, the Company will pay up to actual ICU expenses provided by Hospital.\niii. Nursing Expenses as provided by the Hospital\niv. Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialists Fees.\nv. Anesthesia, Blood, Oxygen, Operation Theatre Charges, surgical appliances,\nvi. Dialysis, Chemotherapy, Radiotherapy, Physiotherapy\nvii. Medicines & Drugs\nviii. Cost of Artificial Limbs, cost of prosthetic devices implanted during surgical procedure like Pacemaker,\northopedic implants, cardiac valve replacements, vascular stents.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3832,8 +3832,8 @@
       "text": "3. Post-Hospitalization\nThe Medical Expenses incurred during the 180 days immediately after You were discharged post Hospitalization\nprovided that: Such costs are incurred in respect of the same Illness/Injury for which the earlier Hospitalization was\nrequired, and We have accepted an Inpatient Hospitalization claim under Inpatient Hospitalization Treatment.\n4. Local (Road) Ambulance\nWe will pay the reasonable cost, specified in the Policy Schedule, incurred on an ambulance offered by a\nhealthcare or ambulance service provider for transferring You to the nearest Hospital with adequate Emergency\nfacilities for the provision of health services following an Emergency or out of medical necessity.\nWe will also reimburse the expenses incurred on an ambulance offered by a healthcare or ambulance service\nprovider for transferring You from the Hospital where You were admitted initially to another Hospital with higher\nmedical facilities.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3867,9 +3867,9 @@
       "text": "provider for transferring You from the Hospital where You were admitted initially to another Hospital with higher\nmedical facilities.\nClaim under this section shall be payable by Us only when:\ni. Such life threatening Emergency condition is certified by the Medical Practitioner, and\nii. We have accepted Your Claim under \"In-patient Hospitalization Treatment\" or \"Day Care Procedures\" section of\nthe Policy.\nSubject otherwise to the terms, conditions and exclusions of the Policy.\n5. Day Care Procedures\nWe will pay You the medical expenses as listed under Section C, Part A I-1- In-patient Hospitalization Treatment\nfor Day care procedures / Surgeries taken as an Inpatient in a Hospital or Day Care Centre but not in the outpatient\ndepartment. List of Day Care Procedures is as given in the Annexure I of Policy wordings.\n6. Living Donor Medical Costs\nWe will pay expenses up to the limits specified in the Policy Schedule, towards organ donor\u2019s treatment for",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3927,9 +3927,9 @@
       "text": "6. Living Donor Medical Costs\nWe will pay expenses up to the limits specified in the Policy Schedule, towards organ donor\u2019s treatment for\nharvesting of the donated organ, provided that,",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3977,8 +3977,8 @@
       "text": "2. We have accepted an Inpatient Hospitalization claim for the Insured under In Patient Hospitalization Treatment\n(Section C, Part A I-1).\n7. Annual Preventive Health Check-up\nAfter each renewal of Global Health Care Policy with Us, You will be entitled for an Annual Preventive Health\nCheck-up. We will reimburse the amount as per the limits specified in the Policy Schedule.\nYou may approach Us for the arrangement of the Health Check up. For the avoidance of doubt, We shall not be\nliable for any other ancillary or peripheral costs or expenses (including but not limited to those for transportation,\naccommodation or sustenance).\nContact Email id- healthcheck@bajajallianz.co.in.\nNote: Payment under this benefit will not reduce the base sum Insured mentioned in Policy Schedule.\n8. Ayurvedic / Homeopathic Hospitalization Expenses\nIf You are Hospitalized for not less than 24 hrs, in an Ayurvedic / Homeopathic Hospital which is a government",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4048,9 +4048,9 @@
       "text": "If You are Hospitalized for not less than 24 hrs, in an Ayurvedic / Homeopathic Hospital which is a government\nHospital or in any institute recognized by government and/or accredited by Quality Council of India/National\nAccreditation Board on Health on the advice of a Medical Practitioner because of Illness or Accidental Bodily Injury\nsustained or contracted during the Policy Period then We will pay You:\nIn-patient Treatment- Medical Expenses for Ayurvedic and Homeopathic treatment:\n\uf0b7 Room rent, boarding expenses\n\uf0b7 Nursing care\n\uf0b7 Consultation fees\n\uf0b7 Medicines, drugs and Medical consumables,\n\uf0b7 Ayurvedic and Homeopathic treatment procedures\nOur maximum liability is up to In-patient Hospitalization Sum Insured.\nThe claim will be admissible under the Policy provided that, the Illness/Injury requires Inpatient admission and the\nprocedure performed on the Insured cannot be carried out on out-patient basis.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 11",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4144,9 +4144,9 @@
       "text": "procedure performed on the Insured cannot be carried out on out-patient basis.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 11\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\n9. Air Ambulance\nWe will pay for ambulance transportation in an airplane or helicopter for Emergency life threatening health\nconditions which require immediate and rapid ambulance transportation from the site of first occurrence of the\nIllness /Accident to the nearest Hospital. The claim would be reimbursed up to the limits specified in the Policy\nSchedule provided that We have accepted an Inpatient Hospitalization claim under Inpatient Hospitalization\nTreatment.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4246,10 +4246,10 @@
       "text": "Schedule provided that We have accepted an Inpatient Hospitalization claim under Inpatient Hospitalization\nTreatment.\nReturn transportation to the client\u2019s home by air ambulance is excluded.\n10. Mental Illness Treatment\nWe will pay the Customary and Reasonable expenses for In-patient treatment of Mental Illness (as specified under\nAnnexure IV), provided this treatment is availed in a recognized psychiatric unit of a Hospital, up to Sum Insured as\nspecified in the Policy Schedule.\nThe above coverage is subject to fulfilment of following conditions:\na. Mental Illness treatment is only covered where patient is diagnosed and treated by a psychiatrist, clinical\npsychologist or licensed psychotherapist.\nb. The Hospitalization is for Medically Necessary Treatment.\nc. All day-care or Inpatient admissions must include prescription medication related to the condition.\nd. The treatment should be taken in Mental Health Establishment either wholly or partly meant for the care of",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4295,9 +4295,9 @@
       "text": "d. The treatment should be taken in Mental Health Establishment either wholly or partly meant for the care of\npersons with mental Illness, where persons with mental Illness are admitted for treatment.\nExclusions: Mental Illness Treatment does not cover:\na. Any expenses for Mental Illness Treatment related to Alcoholism, drug or substance abuse or any addictive\ncondition and consequences thereof.\nb. Any expenses for diagnostic tests, investigations / treatment taken without the psychiatrist advising the same\nand which is not duly supported by his prescriptions\nc. Alternate treatment other than Allopathic treatment are not covered.\nd. For autism spectrum disorder, admissions, stays or day care treatment at specialised educational facilities are\nnot covered.\ne. Out-patient Treatment for Mental Illness\n11. Rehabilitation\nRehabilitation is defined as a set of interventions designed to optimize functioning and reduce disability in",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4331,9 +4331,9 @@
       "text": "11. Rehabilitation\nRehabilitation is defined as a set of interventions designed to optimize functioning and reduce disability in\nindividuals with health conditions in interaction with their environment. It aims to restore original form or function\nafter an acute Illness, Injury or surgery.\nRehabilitation is a treatment that combines therapies such as physical, occupational and speech therapy.\nWe will pay You up to the limits specified in the Policy Schedule for the cost of In-patient Rehabilitation provided\na. it is carried out by a Medical Practitioner specializing in rehabilitation; and\nb. it is carried out in a licensed rehabilitation Hospital or unit;\nc. We have accepted an Inpatient Hospitalization claim for the Insured under In Patient Hospitalization Treatment\nand rehabilitation starts within 14 days of discharge from Hospital following acute medical and/or surgical\ntreatment\nd. the treatment could not be carried out on an out-patient basis.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "DEFINITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4379,10 +4379,10 @@
       "text": "treatment\nd. the treatment could not be carried out on an out-patient basis.\n12. Modern Treatment Methods and Advancement in Technologies\nWe will pay the Customary and Reasonable expenses for the Modern Treatment Methods as mentioned in\nAnnexure III subject to the Sum Insured, terms, conditions and definitions, exclusions contained or otherwise\nexpressed in this Policy.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 12\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\nTABLE OF BENEFITS FOR DOMESTIC COVER\nCOVER IMPERIAL PLAN IMPERIAL PLUS PLAN\nIn-patient Hospitalization INR INR INR INR INR INR\nTreatment Limits 3,750,000 5,600,000 7,500,000 11,200,000 18,750,000 37,500,000\nIn-patient Hospitalization",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION",
-        "CONDITION"
+        "DEFINITION",
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4494,8 +4494,8 @@
       "text": "Treatment Limits 3,750,000 5,600,000 7,500,000 11,200,000 18,750,000 37,500,000\nIn-patient Hospitalization\nUp to Sum Insured\nTreatment\nHospital accommodation\nAt Actual\n(Room rent and ICU)\nPre-hospitalisation 60 days\nPost-hospitalisation 180 days\nLocal (Road) Ambulance Up to Sum Insured\nDay Care Procedures Up to Sum Insured\nLiving Donor Medical Costs INR 500,000\nAnnual Preventive Health Check-\nup INR 5,000\n(only offered at renewal)\nAyurvedic / Homeopathic\nUp to Sum Insured\nHospitalization Expenses\nINR INR INR INR INR INR\nAir Ambulance\n500,000 675,000 750,000 750,000 750,000 750,000\nMental Illness Treatment Up to Sum Insured\nRehabilitation INR 50,000\nModern Treatment Methods and\nUp to Sum Insured\nAdvancement in Technologies\nNote: The total Sum Insured payable under all the above covers will not exceed the In-patient Hospitalization\nTreatment Limits\nPART B- COVERAGE- International\nI. IN-PATIENT BENEFITS FOR INTERNATIONAL COVER",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4619,9 +4619,9 @@
       "text": "1. In-patient Hospitalization Treatment\nIf You are advised Hospitalization by a Medical Practitioner as defined under Policy because of Illness or\nAccidental Bodily Injury sustained or contracted during the Policy Period, then We will pay You, Reasonable and\nCustomary Medical Expenses incurred subject to\ni. Room rent and Boarding expenses up to a Single Private Air Conditioned Room\nii. If admitted in ICU, the Company will pay up to actual ICU expenses provided by Hospital.\niii. Nursing Expenses as provided by the Hospital\niv. Surgeon, Anesthetist, Medical Practitioner, Consultants, Therapist, Specialists Fees.\nv. Anesthesia, Blood, Oxygen, Operation Theatre Charges, surgical appliances,\nvi. Dialysis, Chemotherapy, Radiotherapy, Physiotherapy\nvii. Prescription drugs and materials\nviii. Cost of Artificial Limbs, cost of prosthetic devices implanted during surgical procedure like Pacemaker,\northopedic implants, cardiac valve replacements, vascular stents.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4716,8 +4716,8 @@
       "type": "LIMITATION",
       "subtypes": [
         "DEFINITION",
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -4865,10 +4865,10 @@
       "text": "3. Post-Hospitalization\nThe Medical Expenses incurred during the 90 days immediately after You were discharged post Hospitalization\nprovided that: Such costs are incurred in respect of the same Illness/Injury for which the earlier Hospitalization was\nrequired, and We have accepted an Inpatient Hospitalization claim under Inpatient Hospitalization Treatment. .\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n4. Local (Road) Ambulance\nWe will pay the reasonable cost, specified in the Policy Schedule, incurred on an ambulance offered by a\nhealthcare or ambulance service provider for transferring You to the nearest Hospital with adequate Emergency\nfacilities for the provision of health services following an Emergency or out of medical necessity.\nWe will also reimburse the expenses incurred on an ambulance offered by a healthcare or ambulance service",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
         "CONDITION",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4908,10 +4908,10 @@
       "text": "We will also reimburse the expenses incurred on an ambulance offered by a healthcare or ambulance service\nprovider for transferring You from the Hospital where You were admitted initially to another Hospital with higher\nmedical facilities.\nClaim under this section shall be payable by Us only when:\ni. Such life threatening Emergency condition is certified by the Medical Practitioner, and\nii. We have accepted Your Claim under \"In-patient Hospitalization Treatment\" or \"Day Care Procedures\"\nsection of the Policy.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n5. Day Care Procedures\nWe will pay You the medical expenses as listed under Section C, Part B,I-1 - In-patient Hospitalization Treatment\nfor Day Care Procedures / Surgeries taken as an Inpatient in a Hospital or Day Care Centre but not in the",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "DEFINITION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4963,10 +4963,10 @@
       "text": "for Day Care Procedures / Surgeries taken as an Inpatient in a Hospital or Day Care Centre but not in the\noutpatient department. List of Day Care Procedures is as given in the annexure I of Policy wordings.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n6. Living Donor Medical Costs\nWe will pay expenses up to the limits specified in the Policy Schedule, towards organ donor\u2019s treatment for\nharvesting of the donated organ, provided that,\na) The organ donor is any person whose organ has been made available in accordance and in compliance with\nthe local regulation and the organ donated is for the use of the Insured, and\nb) We have accepted an Inpatient Hospitalization claim for the Insured under In-patient Hospitalization treatment.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5018,10 +5018,10 @@
       "text": "This cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n7. Air Ambulance (Applicable to Imperial Plan only)\nWe will pay for ambulance transportation in an airplane or helicopter for Emergency life threatening health\nconditions which require immediate and rapid ambulance transportation from the site of first occurrence of the\nIllness/Accident to the nearest Hospital. The claim would be reimbursed up to the limits as specified in the Policy\nSchedule provided that We have accepted an Inpatient Hospitalization claim under Inpatient Hospitalization\nTreatment. (Section C, Part B, I-1).\nReturn transportation to the client\u2019s home by any mode of transport is excluded.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 14",
       "type": "EXCLUSION",
       "subtypes": [
-        "EXCLUSION",
-        "CONDITION",
-        "COVERAGE",
         "DEFINITION",
+        "COVERAGE",
+        "CONDITION",
+        "EXCLUSION",
         "LIMITATION"
       ],
       "entities": [
@@ -5092,9 +5092,9 @@
       "text": "otherwise expressed in this Policy.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 14\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\nNOTE: This cover is on cashless basis only. To avail this service, You must contact Us on +353 1 630 1301. From\nthis point onwards, We will organize and coordinate for the Air Ambulance until You arrive safely at Your\ndestination of care. If ambulance services are not organized by Us, We reserve the right to decline all costs\nincurred.\n8. Air Ambulance + Medical Evacuation (Applicable to Imperial Plus Plan only)\nIf You contract any Illness/ sustain any Injury which necessitates Emergency Hospitalization, We will pay",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5212,9 +5212,9 @@
       "text": "If You contract any Illness/ sustain any Injury which necessitates Emergency Hospitalization, We will pay\nreasonable and customary expenses up to the limits specified in the Policy Schedule, for Your Medical Evacuation\nto the nearest appropriate medical centre (which may or may not be in Your home country) by ambulance,\nhelicopter or airplane provided that:\na. The medical evacuation should be requested by Your Doctor, and will be carried out in the most economical\nway that is appropriate to Your medical condition\nb. We have accepted an Inpatient Hospitalization claim under Inpatient Hospitalization Treatment. (Section C, Part\nB ,I-1).\nc. adequately screened blood is unavailable in an Emergency\nd. necessary treatment is not available locally\nIf You can\u2019t travel for medical reasons following discharge from an Inpatient episode of care, We will cover the\nreasonable cost of hotel accommodation in a private en-suite room for up to seven days.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5254,8 +5254,8 @@
       "text": "reasonable cost of hotel accommodation in a private en-suite room for up to seven days.\nIf You are evacuated to the nearest appropriate medical centre for ongoing treatment, We will cover the reasonable\ncost of hotel accommodation in a private en-suite room. This cost must be more economical than the cost of a\nseries of journeys between the nearest appropriate medical centre and Your principal country of residence.\nFollowing completion of treatment, We will also cover the cost of Your return trip (i.e. one way ticket) at economy\nrates to Your principal country of residence.\nExclusions (Applicable to Medical Evacuation):\na. costs for hotel suites, four or five-star hotel accommodation or hotel accommodation for an accompanying\nperson\nb. travel costs for accompanying person\nc. travel costs of Insured family members in the event of an evacuation\nWhere adequately screened blood is not available locally, We will, where appropriate, try to locate and transport",
       "type": "LIMITATION",
       "subtypes": [
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -5337,9 +5337,9 @@
       "text": "all costs incurred.\n9. Mental Illness Treatment\nWe will pay the Customary and Reasonable expenses for In-patient treatment of Mental Illness (as specified under\nAnnexure IV), provided this treatment is availed in a recognized psychiatric unit of a Hospital, up to Sum Insured as\nspecified in the Policy Schedule.\nThe above coverage is subject to fulfilment of following conditions:\na. Mental Illness treatment is only covered where patient is diagnosed and treated by a psychiatrist, clinical\npsychologist or licensed psychotherapist.\nb. The Hospitalization is for Medically Necessary Treatment.\nc. All day-care or Inpatient admissions must include prescription medication related to the condition.\nd. The treatment should be taken in Mental Health Establishment either wholly or partly meant for the care of\npersons with mental Illness, where persons with mental Illness are admitted for treatment.\nExclusions: Mental Illness Treatment does not cover:",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5379,8 +5379,8 @@
       "text": "persons with mental Illness, where persons with mental Illness are admitted for treatment.\nExclusions: Mental Illness Treatment does not cover:\na. Any expenses for Mental Illness Treatment related to Alcoholism, drug or substance abuse or any addictive\ncondition and consequences thereof. .\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 15\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\nb. Any expenses for diagnostic tests, investigations / treatment taken without the psychiatrist advising the same\nand which is not duly supported by his prescriptions\nc. Alternate treatment other than Allopathic treatment are not covered.",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5462,10 +5462,10 @@
       "text": "and which is not duly supported by his prescriptions\nc. Alternate treatment other than Allopathic treatment are not covered.\nd. For autism spectrum disorder, admissions, stays or day care treatment at specialised educational facilities are\nnot covered.\ne. Out-patient Treatment for Mental Illness\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n10. Rehabilitation\nRehabilitation is defined as a set of interventions designed to optimize functioning and reduce disability in\nindividuals with health conditions in interaction with their environment. It aims to restore original form or function\nafter an acute Illness, Injury or surgery.\nRehabilitation is a treatment that combines therapies such as physical, occupational and speech therapy.\nWe will pay You up to the limits specified in the Policy Schedule for the cost of In-patient Rehabilitation provided",
       "type": "EXCLUSION",
       "subtypes": [
+        "DEFINITION",
+        "COVERAGE",
         "CONDITION",
         "EXCLUSION",
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION"
       ],
       "entities": [
@@ -5500,10 +5500,10 @@
       "text": "We will pay You up to the limits specified in the Policy Schedule for the cost of In-patient Rehabilitation provided\na. it is carried out by a Medical Practitioner specializing in rehabilitation; and\nb. it is carried out in a licensed rehabilitation Hospital or unit;\nc. We have accepted an Inpatient Hospitalization claim for the Insured under In Patient Hospitalization Treatment\nand rehabilitation starts within 14 days of discharge from Hospital following acute medical and/or surgical\ntreatment\nd. the treatment could not be carried out on an out-patient basis\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n11. Accommodation costs for one parent staying in Hospital with an Insured child under 18 years of age\n(Applicable to Imperial Plus Plan only)\nWe will pay for reasonable accommodation costs of one parent for the duration of the Insured child\u2019s admission to",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION",
-        "CONDITION"
+        "DEFINITION",
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5585,10 +5585,10 @@
       "text": "We will pay for reasonable accommodation costs of one parent for the duration of the Insured child\u2019s admission to\nHospital for eligible treatment under Section C, Part B.1-Inpatient Hospitalization Treatment, up to the limit\nspecified in the Policy Schedule. If a suitable bed is not available in the Hospital, We will contribute the equivalent\nof the daily room rate in a three-star hotel towards any hotel costs incurred.\nThis benefit would be applicable for the duration of Hospitalization of the Insured child.\nThe Policy will not cover sundry expenses such as meals, phone calls or newspapers.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n12. Emergency treatment outside area of cover (Applicable to Imperial Plus Plan only if \u201cExcluding USA\u201d cover\nis opted)\nWe will pay the Customary and Reasonable expenses, up to the limit specified in the Policy Schedule, incurred for",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION",
-        "CONDITION"
+        "DEFINITION",
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5664,10 +5664,10 @@
       "text": "is opted)\nWe will pay the Customary and Reasonable expenses, up to the limit specified in the Policy Schedule, incurred for\ntreatment of medical emergencies which occur during business or holiday trips outside Your area of cover. Cover is\nprovided for up to six weeks per trip within the Sum Insured limit. It includes treatment required due to an Accident\nor the sudden beginning or worsening of a severe Illness which presents an immediate threat to Your health.\nTreatment by a Doctor must start within 24 hours of the Emergency event.\nExclusion:\nCover is not provided for curative or follow-up non-Emergency treatment, even if You are deemed unable to travel\nto a country within Your geographical area of cover. Nor does it extend to charges relating to maternity, pregnancy,\nchildbirth or any complications of pregnancy or childbirth.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION",
-        "CONDITION"
+        "DEFINITION",
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5707,10 +5707,10 @@
       "text": "This cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n13. Medical repatriation (Applicable to Imperial Plus Plan only)\nIf the necessary treatment for which You are covered isn't available locally You can choose to be medically\nevacuated to Your home country for treatment, instead of to the nearest appropriate medical centre. This only\napplies when Your home country is within Your geographical area of cover. Following completion of treatment, We\nwill also cover the cost of Your return trip (i.e. one way ticket) at economy rates, to the country from where you\nwere repatriated.\nThe return journey must take place within one month after treatment has been completed.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 16\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5798,9 +5798,9 @@
       "text": "Bajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\nIf You contract any Illness/ sustain any Injury which necessitates Hospitalization, We will pay reasonable and\ncustomary expenses up to the limits specified in the Policy Schedule, if You choose to be medically repatriated to\nYour home country for treatment, instead of to the nearest appropriate medical centre, provided that:\na. Your home country is within Your geographical area of cover\nb. Where ongoing treatment is required, We will cover hotel accommodation costs\nc. Repatriation in the event of unavailability of adequately screened blood\nIf medical necessity prevents an immediate return trip following discharge from an Inpatient episode of care, We",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5930,10 +5930,10 @@
       "text": "You arrive safely at Your destination of care. If the repatriation is not organised by Us, We reserve the right to\ndecline all costs incurred.\n14. Repatriation of mortal remains (Applicable to Imperial Plus Plan only)\nRepatriation of mortal remains is the transportation of the Insured deceased remains from the principal country of\nresidence to the country of burial. We cover costs such as: embalming, a container legally appropriate for\ntransportation, shipping and the necessary government authorisations. Cremation costs will only be covered if the\ncremation is required for legal purposes. We do not cover costs incurred by anyone accompanying the remains.\nExclusions:\nExpense incurred for any person accompanying the remains is not covered.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.",
       "type": "EXCLUSION",
       "subtypes": [
-        "EXCLUSION",
-        "CONDITION",
-        "COVERAGE",
         "DEFINITION",
+        "COVERAGE",
+        "CONDITION",
+        "EXCLUSION",
         "LIMITATION"
       ],
       "entities": [
@@ -5974,10 +5974,10 @@
       "text": "This cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\nNOTE: This cover is on cashless basis only. To avail this service, You must contact Us on +353 1 630 1301. From\nthis point onwards, We will organize and coordinate for the Repatriation of Mortal remains. If these services are not\norganized by Us, We reserve the right to decline all costs incurred.\n15. In-patient cash benefit (Applicable to Imperial Plus Plan only)\nWe will pay Daily Cash Benefit as specified in the Policy Schedule for maximum 25 nights when You receive\nInpatient treatment free of charge for a medical condition that is covered by Us.\nThis benefit is payable after You are discharged from Hospital.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n16. Palliative care (Applicable to Imperial Plus Plan only)",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6065,10 +6065,10 @@
       "text": "otherwise expressed in this Policy.\n16. Palliative care (Applicable to Imperial Plus Plan only)\nWe will pay the Reasonable and Customary expenses incurred, up to the limit specified in the Policy Schedule, on\ndiagnosis of a Terminal Illness, for any ongoing treatment, given on the advice of a Medical Practitioner, that aims\nto alleviate the physical/psychological suffering associated with progressive, incurable Illness and to maintain\nquality of life. It includes Inpatient, day-care and out-patient treatment. We will pay for physical care, psychological\ncare, Hospital or hospice accommodation, nursing care and prescription drugs.\nThis cover is subject to the Sum Insured, sub-limits, terms, conditions and definitions, exclusions contained or\notherwise expressed in this Policy.\n17. Modern Treatment Methods and Advancement in Technologies\nWe will pay the Customary and Reasonable expenses for the Modern Treatment Methods as mentioned in",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION",
-        "CONDITION"
+        "DEFINITION",
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6132,10 +6132,10 @@
       "text": "We will pay the Customary and Reasonable expenses for the Modern Treatment Methods as mentioned in\nAnnexure III subject to the Sum Insured, terms, conditions and definitions, exclusions contained or otherwise\nexpressed in this Policy.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 17\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\nII. OUT-PATIENT BENEFITS FOR INTERNATIONAL COVER (Applicable to Imperial Plus Plan only)",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION",
         "LIMITATION",
-        "CONDITION"
+        "DEFINITION",
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6223,9 +6223,9 @@
       "text": "1. Out-patient Treatment\nIf You consult a consultant/Medical Practitioner on Outpatient basis for the Illness/ Injury contracted during the\nPolicy Period, We will pay You Out Patient expenses up to the limits specified in the Policy Schedule for\na. Medical Practitioner fees\nb. Specialist fees\nc. Diagnostic tests\nd. Prescription drugs\nExclusions:\na. During the first year of Global Health Care Policy with Us, 30 days waiting period would be applicable for all\nclaims under out-patient except those arising out of Accidental Injury, however the waiting period would not\nbe applied during subsequent renewals.\nb. Out-patient Dental Treatment expenses will not be covered",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6283,9 +6283,9 @@
       "text": "2. Physiotherapy Benefit\nWe will pay the expenses incurred towards Prescribed Physiotherapy taken on Out-patient basis for Illness/Injury\ncontracted during the Policy Period, maximum up to the limit specified in the Policy Schedule, provided that,\na. The treatment is referred by a Doctor or prescribed by a Specialist consultant for Muskulo- skeletal\n/Neurological diseases / Injuries or other Systemic diseases\nb. The treatment should be carried out by a registered physiotherapist in a Hospital or a clinic as defined under\nthe Policy\nc. Physiotherapy is initially restricted to 12 sessions per condition, after which treatment must be reviewed by the\nDoctor who referred You. If You need further sessions, You must send Us a new progress report after every\nset of 12 sessions, indicating the medical necessity for more treatment.\nExclusion:\na. During the first year of Global Health Care Policy with Us, 90 days waiting period would be applicable for all",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6425,9 +6425,9 @@
       "text": "3. Alternate/Complementary Treatment Expenses\nIf You consult a therapist on Outpatient basis for the Illness/ Injury contracted during the Policy Period, We will pay\nYou Out Patient expenses up to the limits specified in the Policy Schedule for Alternate treatment methods namely\nchiropractic treatment, osteopathy, Chinese herbal medicine, homeopathy, acupuncture and podiatry as practised\nby approved therapists.\nExclusions:\nDuring the first year of Global Health Care Policy with Us, 30 days waiting period would be applicable for all claims\nunder Alternate/Complementary Treatment Expenses except those arising out of Accidental Injury, however the\nwaiting period would not be applied during subsequent renewals.\nIII. DENTAL PLAN BENEFITS (Optional)\nIn consideration of payment of additional premium by the Insured to the Company and realization thereof by the\nCompany, it is hereby agreed and declared that Global Health Care Policy is extended to pay the expenses",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6521,8 +6521,8 @@
       "text": "Company, it is hereby agreed and declared that Global Health Care Policy is extended to pay the expenses\nincurred for the below mentioned Dental related covers with a mandatory Co-Payment of 20% on each and every\nclaim, subject to terms, conditions and definitions, exclusions, up to the limit specified in the Policy Schedule.",
       "type": "LIMITATION",
       "subtypes": [
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -6556,8 +6556,8 @@
       "text": "1. Dental treatment outside India\nWe will pay Customary and Reasonable expenses up to the limits specifies in the Policy Schedule incurred for\nDental Treatment which includes annual check-up, simple fillings related to cavities or decay, root canal\ntreatment and dental prescription drugs.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6585,8 +6585,8 @@
       "text": "2. Dental surgery outside India\nWe will pay Customary and Reasonable expenses up to the limits specified in the Policy Schedule incurred for\nDental Surgery which includes the surgical extraction of teeth, as well as other tooth-related surgical procedures\nsuch as apicoectomy, Surgical removal of cysts, Orthognathic surgeries for the correction of malocclusion and\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 18\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\ndental prescription drugs. All investigative procedures that establish the need for dental surgery such as\nlaboratory tests, X-rays, CT scans and MRI(s) are included under this benefit.\nExclusions:",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6714,8 +6714,8 @@
       "text": "3. Periodontics outside India\nWe will pay Customary and Reasonable expenses up to the limits specified in the Policy Schedule incurred for\ntreatment related to gum disease.\nExclusions applicable to Dental Plan Benefits:\na. During the first year of Global Health Care Policy with Us, 30 days waiting period would be applicable for all\nclaims except those arising out of Accidental Injury, however the waiting period would not be applied during\nsubsequent renewals.\nTABLE OF BENEFITS FOR INTERNATIONAL COVER\nCertain benefits would require You to seek pre-approval at least 72 hours prior to admission or availing the benefit\nin case of planned treatments. For more details, please refer the Section E 45.\nCOVER IMPERIAL PLAN IMPERIAL PLUS PLAN\nIn-patient Hospitalization USD USD USD USD USD USD\nTreatment Limits 100,000 150,000 200,000 300,000 500,000 1,000,000\n0 / USD 500 / USD 1,000\nDeductible options\n(on annual aggregate basis)\nIn-patient benefits\nHospital accommodation",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6803,8 +6803,8 @@
       "text": "0 / USD 500 / USD 1,000\nDeductible options\n(on annual aggregate basis)\nIn-patient benefits\nHospital accommodation\nSingle Private Air Conditioned Room\n(Room rent)\nHospital accommodation\nAt Actual\n(ICU)\nPre-hospitalization 45 days\nPost-hospitalization 90 days\nLocal (Road) Ambulance Up to Sum Insured\nDay Care Procedures Up to Sum Insured\nLiving donor medical costs USD 30,000 USD 50,000\nAir Ambulance* USD 7,500 NA NA NA\nUp to In- Up to In- Up to In-\nAir Ambulance + Medical\nNA patient Sum patient Sum patient Sum\nEvacuation*\nInsured Insured Insured\nMental Illness Treatment Up To Sum Insured\nRehabilitation USD 750 USD 2,300\nAccommodation costs for\none parent staying in\nNA Up to Sum Insured\nHospital with an Insured\nchild under 18 years of age\nEmergency treatment Up to Sum Insured for maximum 6 Weeks\nNA\noutside area of cover per trip\nMedical repatriation* NA Up to Sum Insured\nRepatriation of mortal\nNA USD 13,500\nremains*\nInpatient cash Benefit NA USD 175 Per night up to max 25 nights",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6958,8 +6958,8 @@
       "text": "Repatriation of mortal\nNA USD 13,500\nremains*\nInpatient cash Benefit NA USD 175 Per night up to max 25 nights\nPalliative care NA Up to Sum Insured\nModern Treatment Methods\nand Advancement in Up to Sum Insured\nTechnologies\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 19\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\nNote: The total Sum Insured payable under all the above covers will not exceed the In-patient Hospitalization\nTreatment Limits\n*The covers will be on cashless basis only.\nOut-patient benefits\nCOVER IMPERIAL PLAN IMPERIAL PLUS PLAN\nMaximum out-patient plan\nbenefit for international USD 1,600 USD 2,400 USD 4,200\ntreatments only\nOut-patient Treatment\n(Medical Practitioner fees\nSpecialist fees",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7065,8 +7065,8 @@
       "text": "benefit for international USD 1,600 USD 2,400 USD 4,200\ntreatments only\nOut-patient Treatment\n(Medical Practitioner fees\nSpecialist fees\nDiagnostic tests USD 1,000 USD 1,500 USD 2,500\nPrescription drugs)\nNote: Excluding out-patient\nNA\nDental Treatment\nPhysiotherapy Benefit\nUSD 300 USD 450 USD 850\n(Prescribed Physiotherapy)\nAlternate/Complementary\nTreatment Expenses\n(Chiropractic treatment,\nUSD 300 USD 450 USD 850\nosteopathy, homeopathy,\nChinese herbal medicine,\nacupuncture and podiatry)\nDental plan benefits (optional)\nCOVER IMPERIAL PLAN IMPERIAL PLUS PLAN\nMaximum dental plan\nUSD\nbenefit for international USD 450 USD 600 USD 2,300\n350\ntreatments only\nDental treatment outside India 20% Co-Payment 20% Co-Payment\nDental surgery outside India 20% Co-Payment 20% Co-Payment\nPeriodontics outside India 20% Co-Payment 20% Co-Payment",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7184,10 +7184,10 @@
       "text": "SECTION D) EXCLUSIONS- STANDARD EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER\nUNDER SECTION C) BENEFITS COVERED UNDER THE POLICY\n1) Pre-Existing Diseases (Code -Excl01)\na. Expenses related to the treatment of a Pre-Existing Disease (PED) and its direct complications shall be\nexcluded until the expiry of 36 months of continuous coverage after the date of inception of the first Global\nHealth Care Policy with Us.\nb. In case of enhancement of Sum Insured the exclusion shall apply afresh to the extent of Sum Insured increase.\nc. If the Insured is continuously covered without any break as defined under the Portability norms of the extant\nIRDAI (Health Insurance) Regulations then waiting period for the same would be reduced to the extent of prior\ncoverage.\nd. Coverage under the Policy after the expiry of 36 months for any Pre-Existing Disease is subject to the same\nbeing declared at the time of application and accepted by Insurer.",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7275,9 +7275,9 @@
       "text": "being declared at the time of application and accepted by Insurer.\n2) Specified disease/procedure waiting period (Code - Excl02)\na. Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the\nexpiry of 24 months of continuous coverage after the date of inception of the first Global Health Care Policy\nwith Us. This exclusion shall not be applicable for claims arising due to an Accident.\nb. In case of enhancement of Sum Insured the exclusion shall apply afresh to the extent of Sum Insured increase.\nc. If any of the specified disease/procedure falls under the waiting period specified for Pre-Existing diseases,\nthen the longer of the two waiting periods shall apply.\nd. The waiting period for listed conditions shall apply even if contracted after the Policy or declared and accepted\nwithout a specific exclusion.\ne. If the Insured is continuously covered without any break as defined under the applicable norms on portability",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7353,8 +7353,8 @@
       "text": "without a specific exclusion.\ne. If the Insured is continuously covered without any break as defined under the applicable norms on portability\nstipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage.\nf. List of specific diseases/procedures is as below\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 20\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7628,9 +7628,9 @@
       "text": "28. Surgery for vertebral column\ndisorders (unless necessitated due 29. Surgery to correct deviated nasal septum\nto an Accident)\n30. Hypertrophied turbinate 31. Congenital internal diseases or anomalies\n32. Treatment for correction of eye\nsight due to refractive error\nrecommended by Ophthalmologist 33. Bariatric Surgery\nfor medical reasons with refractive\nerror greater or equal to 7.5\n34. Parkinson\u2019s Disease 35. Genetic disorders\n3) 30-day waiting period (Code - Excl03)\na. Expenses related to the treatment of any Illness within 30 days from the first Policy commencement date shall\nbe excluded except claims arising due to an Accident, provided the same are covered.\nb. This exclusion shall not, however apply if the Insured has Continuous Coverage for more than twelve months.\nc. The within referred waiting period is made applicable to the enhanced Sum Insured in the event of granting\nhigher Sum Insured subsequently.\n4) Investigation & Evaluation (Code- Excl04)",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7956,9 +7956,9 @@
       "text": "Expenses related to any treatment necessitated due to participation as a professional in hazardous or adventure\nsports, including but not limited to, para-jumping, rock climbing, mountaineering, rafting, motor racing, horse racing\nor scuba diving, hand gliding, sky diving, deep-sea diving.\n10) Breach of law (Code -Excl10)\nExpenses for treatment directly arising from or consequent upon any Insured committing or attempting to commit\na breach of law with criminal intent.\n11) Excluded Providers (Code -Excl11)\nExpenses incurred towards treatment in any Hospital or by any Medical Practitioner or any other provider\nspecifically excluded by the Insurer and disclosed in its website / notified to the policyholders are not admissible.\nHowever, in case of life threatening situations or following an Accident, expenses up to the stage of stabilization\nare payable but not the complete claim.",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8474,8 +8474,8 @@
       "text": "treatment.\n21) Treatment required as a result of medical error.\n22) Products that can be purchased without a Doctor\u2019s prescription, except where a specific benefit covering these\ncosts appears in the Table of Benefits.\n23) Treatment of sleep disorders, including insomnia, narcolepsy, snoring and bruxism, except medically necessary\nInpatient treatment for obstructive sleep apnoea.\n24) Travel costs to and from medical facilities (including parking costs) for treatment, except when covered under \"\nLocal (Road) ambulance\", \"Medical evacuation\" and \"Medical repatriation\" benefits.\n25) Tumour marker testing, except for medically necessary testing during the investigation or treatment of cancer.\n26) Medical evacuation/repatriation from a vessel at sea to a medical facility on land.\n27) Organ Transplants that involve animal organs or organs which are manufactured using advanced technology like,",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8533,9 +8533,9 @@
       "text": "27) Organ Transplants that involve animal organs or organs which are manufactured using advanced technology like,\nbut not limited to, 3D Printing. Expenses incurred during the acquisition of an organ relating to stem cell storage\nand banking.\n28) The following benefits or any adverse consequences or complications relating to them, unless otherwise indicated\nin Your Table of Benefits:\n\uf0b7 Dental treatment, dental surgery, periodontics, orthodontics and dental prostheses. The only exception is\noral and maxillofacial surgical procedures, which are covered within the overall limit of Your In-patient Plan\n\uf0b7 Dietician fees\n\uf0b7 Expenses for one person accompanying an evacuated/repatriated person\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 23\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8635,8 +8635,8 @@
       "text": "For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\n\uf0b7 Out-patient treatment\n\uf0b7 Prescribed medical aids\n\uf0b7 Preventive treatment\n\uf0b7 Travel costs of Insured family members in the event of an evacuation/repatriation\n\uf0b7 Travel costs of Insured family members in the event of the repatriation of mortal remains\n\uf0b7 Travel costs of Insured members to be with a family member who is at peril of death or who has died\n29) Exclusions applicable to Mental Illness Treatment:\na. Any expenses for Mental Illness Treatment related to Alcoholism, drug or substance abuse or any addictive\ncondition and consequences thereof..\nb. Any expenses for diagnostic tests, investigations / treatment taken without the psychiatrist advising the\nsame and which is not duly supported by his prescriptions.\nc. Alternate treatment other than Allopathic treatment are not covered.",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8718,9 +8718,9 @@
       "text": "same and which is not duly supported by his prescriptions.\nc. Alternate treatment other than Allopathic treatment are not covered.\nd. For autism spectrum disorder, admissions, stays or day care treatment at specialised educational facilities\nare not covered.\ne. Out-patient Treatment for Mental Illness.\n30) The Standard Exclusion under \u201cInvestigation & Evaluation (Code-Excl04) (a) Expenses related to any\nadmission primarily for diagnostics and evaluation purposes only\u201d are excluded even if the same requires\nconfinement at a Hospital.",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8742,10 +8742,10 @@
       "text": "SECTION D) EXCLUSIONS- STANDARD EXCLUSIONS APPLICABLE TO PART B- INTERNATIONAL COVER\nUNDER SECTION C) BENEFITS COVERED UNDER THE POLICY\nA. Applicable for Part B-I (IN-PATIENT BENEFITS FOR INTERNATIONAL COVER )\n1) Pre-Existing Diseases (Code-Excl01)\na. Expenses related to the treatment of a Pre-Existing Disease (PED) and its direct complications shall be\nexcluded until the expiry of 36 months of continuous coverage after the date of inception of the first Global\nHealth Care Policy with Insurer.\nb. In case of enhancement of Sum Insured the exclusion shall apply afresh to the extent of Sum Insured increase.\nc. If the Insured is continuously covered without any break as defined under the portability norms of the extant\nIRDAI (Health Insurance) Regulations then waiting period for the same would be reduced to the extent of prior\ncoverage.\nd. Coverage under the Policy after the expiry of 36 months for any pre-existing disease is subject to the same",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8822,8 +8822,8 @@
       "type": "EXCLUSION",
       "subtypes": [
         "EXCLUSION",
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -8911,8 +8911,8 @@
       "text": "d. The waiting period for listed conditions shall apply even if contracted after the Policy or declared and accepted\nwithout a specific exclusion.\ne. If the Insured is continuously covered without any break as defined under the applicable norms on portability\nstipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage.\nf. List of specific diseases/procedures is as below",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -9281,9 +9281,9 @@
       "text": "a. Expenses related to the treatment of any Illness within 30 days from the first Policy commencement date shall\nbe excluded except claims arising due to an Accident, provided the same are covered.\nb. This exclusion shall not, however apply if the Insured has Continuous Coverage for more than twelve months.\nc. The within referred waiting period is made applicable to the enhanced Sum Insured in the event of granting\nhigher Sum Insured subsequently.\n4) Investigation & Evaluation (Code-Excl04)\na. Expenses related to any admission primarily for diagnostics and evaluation purposes only are excluded .\nb. Any diagnostic expenses which are not related or not incidental to the current diagnosis and treatment are\nexcluded.\n5) Rest Cure, rehabilitation and respite care (Code-Excl05)\na. Expenses related to any admission primarily for enforced bed rest and not for receiving treatment. This also\nincludes:",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -9601,9 +9601,9 @@
       "text": "Expenses for treatment directly arising from or consequent upon any Insured committing or attempting to commit\na breach of law with criminal intent.\n11) Excluded Providers (Code-Excl11)\nExpenses incurred towards treatment in any Hospital or by any Medical Practitioner or any other provider\nspecifically excluded by the Insurer and disclosed in its website / notified to the policyholders are not admissible.\nHowever, in case of life threatening situations or following an Accident, expenses up to the stage of stabilization\nare payable but not the complete claim.\n12) Treatment for Alcoholism, drug or substance abuse or any addictive condition and consequences thereof. (Code-\nExcl12)\n13) Treatments received in heath hydros, nature cure clinics, spas or similar establishments or private beds registered\nas a nursing home attached to such establishments or where admission is arranged wholly or partly for domestic\nreasons. (Code-Excl13)",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10060,8 +10060,8 @@
       "text": "17) Costs in respect of a family therapist or counsellor for out-patient mental illness treatment.\n18) Doctor\u2019s fees for the completion of a Claim Form or other administration charges.\n19) Care and/or treatment of intentionally caused diseases or self-inflicted injuries, including a suicide attempt.\n20) Investigations into and treatment for loss of hair, including hair replacement unless the loss of hair is due to cancer\ntreatment.\n21) Treatment required as a result of medical error.\n22) Products that can be purchased without a Doctor\u2019s prescription, except where a specific benefit covering these\ncosts appears in the Table of Benefits.\n23) Treatment of sleep disorders, including insomnia, narcolepsy, snoring and bruxism, except medically necessary\nInpatient treatment for obstructive sleep apnoea.\n24) Travel costs to and from medical facilities (including parking costs) for treatment, except when covered under",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10125,8 +10125,8 @@
       "text": "24) Travel costs to and from medical facilities (including parking costs) for treatment, except when covered under\n\"Local (Road) ambulance\", \"Medical evacuation\" and \"Medical repatriation\" benefits.\n25) Treatment in the USA if We believe that cover was taken out with the purpose of travelling to the USA to get\ntreatment for a condition or symptoms You were aware of:\n\uf0b7 before being Insured with Us\n\uf0b7 before having the USA in Your region of cover.\nIf We paid any claims in these circumstances, We reserve the right to seek reimbursement from You.\n26) Treatment outside the geographical area of cover unless for emergencies or authorised by Us.\n27) Tumour marker testing, except for medically necessary testing during the investigation or treatment of cancer.\n28) Medical evacuation/repatriation from a vessel at sea to a medical facility on land.\n29) Organ Transplants that involve animal organs or organs which are manufactured using advanced technology like,",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10220,9 +10220,9 @@
       "text": "29) Organ Transplants that involve animal organs or organs which are manufactured using advanced technology like,\nbut not limited to, 3D Printing. Expenses incurred during the acquisition of an organ relating to stem cell storage\nand banking.\n30) The following benefits or any adverse consequences or complications relating to them, unless otherwise indicated\nin Your Table of Benefits:\n\uf0b7 Dental treatment, dental surgery, periodontics, orthodontics and dental prostheses. The only exception is\noral and maxillofacial surgical procedures, which are covered within the overall limit of Your In-patient Plan\n\uf0b7 Dietician fees\n\uf0b7 Expenses for one person accompanying an evacuated/repatriated person\n\uf0b7 Home delivery\n\uf0b7 Infertility treatment\n\uf0b7 Laser eye treatment.\n\uf0b7 Out-patient treatment\n\uf0b7 Prescribed glasses and contact lenses including eye examination\n\uf0b7 Prescribed medical aids\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 27\nBajaj Allianz General Insurance Co. Ltd.",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10444,8 +10444,8 @@
       "text": "\uf0b7 Vaccinations\n31) Air Ambulance + Medical Evacuation (Applicable to Imperial Plus Plan only)\na. costs for hotel suites, four or five-star hotel accommodation or hotel accommodation for an accompanying\nperson\nb. travel costs for accompanying person\nc. travel costs of Insured family members in the event of an evacuation\n32) Mental Illness Treatment\na. Any expenses for Mental Illness Treatment related to Alcoholism, drug or substance abuse or any addictive\ncondition and consequences thereof. .\nb. Any expenses for diagnostic tests, investigations / treatment taken without the psychiatrist advising the\nsame and which is not duly supported by his prescriptions\nc. Alternate treatment other than Allopathic treatment are not covered\nd. For autism spectrum disorder, admissions, stays or day care treatment at specialised educational facilities\nare not covered.\ne. Out-patient Treatment for Mental Illness.\n33) Emergency treatment outside area of cover",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10515,9 +10515,9 @@
       "text": "are not covered.\ne. Out-patient Treatment for Mental Illness.\n33) Emergency treatment outside area of cover\nCover is not provided for curative or follow-up non-Emergency treatment, even if You are deemed unable to\ntravel to a country within Your geographical area of cover. Nor does it extend to charges relating to maternity,\npregnancy, childbirth or any complications of pregnancy or childbirth.\n34) Medical repatriation\na. travel costs for accompanying person\nb. travel costs of Insured family members in the event of repatriation\nc. travel costs of Insured members to be with a family member who is at peril of death or who has died\n35) Repatriation of mortal remains\nExpense incurred for any person accompanying the remains is not covered.\n36) If the international travel is intentionally undertaken with an intention of taking/undergoing medical\ntreatment/procedure outside India.\n37) The Standard Exclusion under \u201cInvestigation & Evaluation (Code-Excl04) (a) Expenses related to any admission",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -11032,9 +11032,9 @@
       "text": "iv. In case of delay beyond stipulated 45 days, the Company shall be liable to pay interest to the Policyholder at a\nrate 2% above the bank rate from the date of receipt of last necessary document to the date of payment of\nclaim.\n(Explanation: \"Bank rate\" shall mean the rate fixed by the Reserve Bank of lndia (RBl) at the beginning of\nthe financial year in which claim has fallen due)\n4. Complete Discharge\nAny payment to the Policyholder, Insured or his/ her nominees or his/ her legal representative or assignee or to the\nHospital, as the case may be, for any benefit under the Policy shall be a valid discharge towards payment of claim\nby the Company to the extent of that amount for the particular claim.\n5. Multiple Policies\ni. In case of multiple policies taken by an Insured during a period from the same or one or more insurers to\nindemnify treatment costs, the Insured shall have the right to require a settlement of his/her claim in terms of",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -11169,9 +11169,9 @@
       "text": "iv. Where an Insured has policies from more than one insurer to cover the same risk on indemnity basis, the\nInsured shall only be indemnified the treatment costs in accordance with the terms and conditions of the chosen\npolicy.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 29\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\n6. Fraud\nIf any claim made by the Insured, is in any respect fraudulent, or if any false statement, or declaration is made or\nused in support thereof, or if any fraudulent means or devices are used by the Insured or anyone acting on his/her\nbehalf to obtain any benefit under this Policy, all benefits under this Policy and the premium paid shall be forfeited.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -11277,9 +11277,9 @@
       "text": "behalf to obtain any benefit under this Policy, all benefits under this Policy and the premium paid shall be forfeited.\nAny amount already paid against claims made under this Policy but which are found fraudulent later shall be repaid\nby all recipient(s)/Policyholder(s), who has made that particular claim, who shall be jointly and severally liable for\nsuch repayment to the insurer.\nFor the purpose of this clause, the expression \u201cfraud\u201d means any of the following acts committed by the Insured or\nby his agent or the Hospital/Doctor/any other party acting on behalf of the Insured, with intent to deceive the Insurer\nor to induce the Insurer to issue an insurance Policy\na. the suggestion, as a fact of that which is not true and which the Insured does not believe to be true;\nb. the active concealment of a fact by the Insured having knowledge or belief of the fact;\nc. any other act fitted to deceive; and\nd. any such actor omission as the law specially declares to be fraudulent.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -11598,8 +11598,8 @@
       "text": "In case of renewal policies, period is risk \u201cExceeding 15 days but less than 3 months\u201d should be read as \u201cwithin 3\nmonths\u201d.\nNotwithstanding anything contained herein or otherwise, no refunds of premium shall be made in respect of\nCancellation where, any claim has been admitted or has been lodged or any benefit has been availed by the\ninsured person under the Policy.\nThe Company may cancel the Policy at any time on grounds of misrepresentation non-disclosure of material facts,\nfraud by the insured person by giving 15 days\u2019 written notice. There would be no refund of premium on cancellation\non grounds of misrepresentation, non-disclosure of material facts or fraud.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 30\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -11687,8 +11687,8 @@
       "text": "For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\n8. Migration\nThe Insured will have the option to migrate the Policy to other health insurance products/plans offered by the\nCompany by applying for migration of the Policy at least 30 days before the Policy renewal date as per IRDAI\nguidelines on Migration. If such person is presently covered and has been continuously covered without any lapses\nunder any health insurance product/plan offered by the Company, the Insured will get the accrued continuity\nbenefits in waiting periods as per IRDAI guidelines on migration.\nFor Detailed Guidelines on migration, kindly refer the link\nhttps://www.irdai.gov.in/ADMINCMS/cms/Circulars_List.aspx?mid=3.2.3\n9. Portability\nThe Insured will have the option to port the Policy to other insurers by applying to such insurer to port the entire",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -11770,8 +11770,8 @@
       "text": "9. Portability\nThe Insured will have the option to port the Policy to other insurers by applying to such insurer to port the entire\nPolicy along with all the members of the family, if any, at least 45 days before, but not earlier than 60 days from the\nPolicy renewal date as per IRDAI guidelines related to portability. If such person is presently covered and has been\ncontinuously covered without any lapses under any health insurance Policy with an Indian General/Health insurer,\nthe proposed Insured will get the accrued continuity benefits in waiting periods as per IRDAI guidelines on\nportability.\nFor Detailed Guidelines on portability, kindly refer the link\nhttps://www.irdai.gov.in/ADMINCMS/cms/Circulars_List.aspx?mid=3.2.3\n10. Renewal of Policy\nThe Policy shall ordinarily be renewable except on misrepresentation by the insured person, grounds of fraud,\nmisrepresentation by the insured person.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -11993,9 +11993,9 @@
       "text": "except for proven fraud and permanent exclusions specified in the Policy contract. The policies would however be\nsubject to all limits, sub limits, co-payments, deductibles as per the Policy contract.\n13. Premium Payment in Instalments (Wherever applicable)\nIf the Insured has opted for Payment of Premium on an instalment basis i.e., Half Yearly, Quarterly or Monthly, as\nmentioned in the Policy Schedule, the following Conditions shall apply (notwithstanding any terms contrary\nelsewhere in the Policy)\ni. Grace Period of 15 days would be given to pay the instalment premium due for the Policy.\nii. During such grace period, coverage will not be available from the due date of instalment premium till the date of\nreceipt of premium by Company.\niii. The Insured will get the accrued continuity benefit in respect of the \u201cWaiting Periods\u201d, \u201cSpecific Waiting Periods\u201d\nin the event of payment of premium within the stipulated grace Period.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -12095,8 +12095,8 @@
       "text": "in the event of payment of premium within the stipulated grace Period.\niv. No interest will be charged If the instalment premium is not paid on due date.\nv. In case of instalment premium due not received within the grace period, the Policy will get cancelled.\nvi. In the event of a claim, all subsequent premium instalments shall immediately become due and payable.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 31\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\nvii. The Company has the right to recover and deduct all the pending installments from the claim amount due under\nthe Policy.\n14. Possibility of Revision of Terms of the Policy lncluding the Premium Rates:",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -12687,8 +12687,8 @@
       "text": "2. Upon exhaustion of Sum Insured and cumulative bonus, for the Policy year. However, the Policy is subject\nto renewal on the due date as per the applicable terms and conditions.\n21. Territorial Jurisdiction\nAll disputes or differences under or in relation to the interpretation of the terms, conditions, validity, construct,\nlimitations and/or exclusions contained in the Policy shall be determined by the Indian court and according to Indian\nlaw.\n22. Notice & Communication\ni. Any notice, direction, instruction or any other communication related to the Policy should be made in writing.\nii. Such communication shall be sent to the address of the Company or through any other electronic modes\nspecified in the Policy Schedule.\niii. The Company shall communicate to the Insured at the address or through any other electronic mode mentioned\nin the Schedule.\n23. Insured\nOnly those persons named as the Insured in the Policy Schedule shall be covered under this Policy. Cover under",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -12782,8 +12782,8 @@
       "text": "in the Schedule.\n23. Insured\nOnly those persons named as the Insured in the Policy Schedule shall be covered under this Policy. Cover under\nthis Policy shall be withdrawn from any Insured upon such Insured giving 14 days written notice to be received by\nUs.\n24. Communications\nAny communication meant for Us must be in writing and be delivered to Our address shown in the Schedule. Any\ncommunication meant for You will be sent by Us to Your address shown in the Schedule.\n25. Paying a Claim\ni. You agree that We need only make payment when You or someone claiming on Your behalf has provided Us\nwith necessary documentation and information.\nii. We will make payment to You or Your Nominee. If there is no Nominee and You are incapacitated or deceased,\nWe will pay Your heir, executor or validly appointed legal representative and any payment We make in this way\nwill be a complete and final discharge of Our liability to make payment.\n26. Basis of Claims Payment (For Domestic Cover only)",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -12972,8 +12972,8 @@
       "text": "Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\n27. Basis of Claims Payment (For International Cover only)\nCurrency: Please specify the currency You wish to be paid in. On rare occasions, We may not be able to make a\npayment in that currency due to international banking regulations. If this happens, We will identify a suitable\nalternative currency. If We have to make a conversion from one currency to another, We will use the exchange rate\nthat applied on the date the invoices were issued, or on the date that We pay Your claim.\nPlease note that We reserve the right to choose which currency exchange rate to apply.\n28. Cost Sharing\na. You shall bear 20% of Co-Payment for each and every claim payable under Section C Part B III- Dental Plan\nBenefits (Optional cover) and Our liability, if any, shall only be in excess of that sum.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -13663,8 +13663,8 @@
       "text": "v. Your Policy is exclusively governed by the Indian Law and Indian Courts jurisdiction.\nvi. The construction, interpretation and meaning of the provisions of this Policy shall be determined in accordance\nwith Indian law. The section headings of this Policy are included for descriptive purposes only and do not form\npart of this Policy for the purpose of its construction or interpretation\n39. Economic sanctions (for International Cover only):\nCover is not provided if any element of the cover ,benefit, activity, business or underlying business violates any\napplicable sanction law or regulations of the United Nations, the European Union or any other applicable economic\nor trade sanction law or regulations.\n40. Circumstances outside Our control (force majeure):\nWe will always do Our best for You, but We are not liable for delays or failures in Our obligations to You caused by\nthings which are outside of Our reasonable control. Examples are extremely severe weather, floods, landslides,",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -13810,8 +13810,8 @@
       "text": "For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\n42. Additional conditions as to Migration and or Portability:\n\uf0b7 Migration and or Portability will be allowed only if the Insured is having the existing health policy which\ncovers both the Domestic and International health cover.\n\uf0b7 If the Insured has an existing Domestic Health Indemnity Policy and wants to opt for Global Health Care\nPolicy, then the Global Health Care Policy will be provided but accrued continuity benefits such as\ncumulative bonus, waiver of Waiting Period as per IRDAI guidelines, provided the Policy has been\nmaintained without a break will be available only for Domestic Health Indemnity Covers.\n43. Discounts\ni. Employee Discount: 20% discount on published premium rates to employees of Bajaj Allianz & its group",
       "type": "LIMITATION",
       "subtypes": [
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -13923,9 +13923,9 @@
       "text": "43. Discounts\ni. Employee Discount: 20% discount on published premium rates to employees of Bajaj Allianz & its group\ncompanies, this discount is applicable only if the Policy is booked in direct code.\nii. Online/Direct Business Discount: Discount of 5% will be offered in this product for policies underwritten through\ndirect/online channel.\nNote: this discount is not applicable for Employees who get employee discount.\niii. Family Discount: 5% family discount shall be offered if 2 or more eligible Family Members are covered under a\nsingle Policy.\niv. Voluntary Deductible: The customer can opt for aggregate deductible on International Inpatient Benefits and avail\ndiscount as below.\nDeductible Imperial Plan Imperial Plus Plan\nUSD 500 5% 4%\nUSD 1000 9% 6%",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14101,8 +14101,8 @@
       "text": "request pre-authorisation by way of the written form.\nii. After considering Your request and after obtaining any further information or documentation We have sought,\nWe may, if satisfied, send You or the Network Hospital, an authorisation letter. The authorisation letter, the ID\ncard issued to You along with this Policy and any other information or documentation that We have specified\nmust be produced to the Network Hospital identified in the pre-authorization letter at the time of Your admission\nto the same.\niii. If the procedure above is followed, You will not be required to directly pay for the bill amount in the Network\nHospital that We are liable under Section AI-Inpatient Hospitalization Treatment above and the original bills and\nevidence of treatment in respect of the same shall be left with the Network Hospital. Pre-authorisation does not\nguarantee that all costs and expenses will be covered. We reserve the right to review each claim for Medical",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14160,8 +14160,8 @@
       "text": "guarantee that all costs and expenses will be covered. We reserve the right to review each claim for Medical\nExpenses and accordingly coverage will be determined according to the terms and conditions of this Policy.\niv. In case any treatment or procedure is to be taken on an Emergency basis, You or Your representative must\nintimate Us in writing immediately within 24 hours of Hospitalization.\nB. Reimbursement Claims Procedure:\nIf Pre-authorisation as per Cashless Claims Procedure above is denied by Us or if treatment is taken in a Hospital\nother than a Network Hospital or if You do not wish to avail Cashless Facility, then:\ni. You or someone claiming on Your behalf must inform Us in writing immediately within 48 hours of Hospitalization\nin case of Emergency Hospitalization and 48 hours prior to Hospitalization in case of planned Hospitalization\nii. You must immediately consult a Medical Practitioner and follow the advice and treatment that he recommends.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14389,8 +14389,8 @@
       "text": "specifying the availability of the original copies of the specified treatment documents with it.\n**Note: Waiver of conditions (i) and (vi) may be considered in extreme cases of hardship where it is proved to Our\nsatisfaction that under the circumstances in which You were placed, it was not possible for You or any other person\nto give notice or file claim within the prescribed time limit.\nList of Claim documents:\n\uf0b7 Claim form with NEFT details & cancelled cheque duly signed by Insured\n\uf0b7 Original/Attested copies of Discharge Summary / Discharge Certificate / Death Summary with Surgical &\nanesthetics notes\n\uf0b7 Attested copies of Indoor case papers, if available\n\uf0b7 Original/Attested copies Final Hospital Bill with break up of surgical charges, surgeon\u2019s fees, OT charges etc\n\uf0b7 Original Paid Receipt against the final Hospital Bill.\n\uf0b7 Original bills towards Investigations done / Laboratory Bills.\n\uf0b7 Original/Attested copies of Investigation Reports against Investigations done.",
       "type": "LIMITATION",
       "subtypes": [
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -14472,8 +14472,8 @@
       "text": "\uf0b7 Original bills towards Investigations done / Laboratory Bills.\n\uf0b7 Original/Attested copies of Investigation Reports against Investigations done.\n\uf0b7 Original bills and receipts paid for the transportation from Registered Ambulance Service Provider. Treating\nMedical Practitioner certificate to transfer the Injured person to a higher medical centre for further treatment (if\nApplicable).\n\uf0b7 Cashless settlement letter or other Company settlement letter\n\uf0b7 First consultation letter for the current ailment.\n\uf0b7 In case of implant surgery, invoice & sticker.\nPlease send the documents on below address\nBajaj Allianz General Insurance Company Ltd\n2nd Floor, Bajaj Finserv Building,\nBehind Weikfield IT park,\nOff Nagar Road, Viman Nagar\nPune 411014| Toll free: 1800-103-2529, 1800-22-5858\n45. Claims Procedure for International Cover- Reimbursement Claims and Pre-authorization Process for\nInternational Cover\nA. Medical claims\nBefore submitting a claim to Us, please pay attention to the following points:",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14810,9 +14810,9 @@
       "text": "Issuing Office: GLOBAL HEALTH CARE\n\uf0b7 Currency: Please specify the currency You wish to be paid in. On rare occasions, We may not be able to\nmake a payment in that currency due to international banking regulations. If this happens, We will identify a\nsuitable alternative currency. If We have to make a conversion from one currency to another, We will use the\nexchange rate that applied on the date the invoices were issued, or on the date that We pay Your claim.\nPlease note that We reserve the right to choose which currency exchange rate to apply.\n\uf0b7 Reimbursement: We will only reimburse (within the limit of Your Policy) eligible costs after considering any\nTreatment Guarantee requirements, Deductibles or co-payments outlined in the Table of Benefits.\nReasonable and customary cost: We will only reimburse charges that are reasonable and customary in\naccordance with standard and generally accepted medical procedures. If We consider a claim to be",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14886,8 +14886,8 @@
       "text": "You or Your dependants do not support Us in getting the information We need.\nB. Seeking treatment?\nWe understand that seeking treatment can be stressful. Follow the steps below so We can look after the details \u2013\nwhile You concentrate on getting better.\nCheck Your level of cover\nFirst, check that Your plan covers the treatment You are seeking. Your Table of Benefits will confirm what is\ncovered. However, You can always call Our Helpline if You have any queries.\n24/7 International Helpline number +353 1 630 1301\nSome treatments require Our pre-approval\nCertain benefits under this policy for International Cover would require You to seek pre-approval at least 72 hours\nprior to admission or availing the benefit in case of planned treatments. The pre-approval process helps Us assess\neach case, organize everything with the Hospital before Your arrival and make direct payment of Your Hospital bill",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -15284,8 +15284,8 @@
       "text": "You or someone claiming on Your behalf is a precondition to any obligation We have under this Policy. If You or\nsomeone claiming on Your behalf fails to completely satisfy that requirement, then We may refuse to consider Your\nclaim.\n47. Insured\nOnly the Insured mentioned in the Policy Schedule shall be covered under the Policy. Cover under the Policy\nshall be withdrawn from Insured upon such Insured giving 15 days written notice to be received by Us.\n48. Additional Conditions for Fraud: in case of Fraud, the premium paid shall be forfeited\n49. Communications\nAny communication meant for Us must be in writing and be delivered to Our address shown in the Policy Schedule.\nAny communication meant for You will be sent by Us to Your address shown in the Policy Schedule.\n50. Claim Assistance-\nIn event of a claim during the Insured\u2019s overseas trip, He/She shall contact on Our toll-free numbers or email ids",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -21960,9 +21960,9 @@
       "text": "195 Percutaneous Endoscopic Gastrostomy\ncatheter )\n397 Replace PICC cath ( peripherally inserted central\n196 EUS and pancreatic pseudo cyst drainage\ncatheter )\n197 ERCP and choledochoscopy 398 Insertion catheter, intra anterior\n198 Proctosigmoidoscopy volvulus detorsion 399 Insertion of Portacath\n199 ERCP and sphincterotomy\n200 Esophageal stent placement\n201 ERCP + placement of biliary stents\n202 Sigmoidoscopy w / stent\n203 US + coeliac node biopsy\ni) The standard exclusions and waiting periods are applicable to all of the above procedures depending on the\nmedical condition/disease under treatment. Only 24 hours Hospitalization is not mandatory.\nAnnexure II:-\nList I: List of Non-Medical Items\nLIST OF NON-MEDICAL ITEMS NOT PAYABLE\n1 BABY FOOD\n2 BABY UTILITIES CHARGES\n3 BEAUTY SERV ICES\n4 BUDS\n5 CARRY BAGS\n6 EMAIL I INTERNET CHARGES\n7 FOOD CHARGES (OTHER THAN PATIENT's DIET PROVIDED BY HOSPITA L)\n8 LAUNDRY CHARGES\n9 MINERAL WATER\n10 SANITARY PAD\n11 TELEPHONE CHARGES\n12 GUEST SERVICES",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -22176,8 +22176,8 @@
       "text": "8 LAUNDRY CHARGES\n9 MINERAL WATER\n10 SANITARY PAD\n11 TELEPHONE CHARGES\n12 GUEST SERVICES\n13 DIAPER OF ANY TYPE\n14 TELEVISION CHARGES\n15 EXTRA DIET OF PATIENT (OTHER THAN THAT WHICH FORMS PART OF BED CHARGE)\n16 BIRTH CERTIFICATE\n17 CERTIFICATE CHARGES\n18 COURIER CHARGES\n19 MEDICAL CERTIFICATE\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 48\nBajaj Allianz General Insurance Co. Ltd.\nBajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113\nFor more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nIssuing Office: GLOBAL HEALTH CARE\n20 MEDICAL RECORDS\n21 PHOTOCOPIES CHARGES\n22 SUGAR FREE Tablets\n23 CREAMS POWDERS LOTIONS (TOILETRIES ARE NOT PAYABLE, ONLY PRESCRIBED MEDICAL PHARMACEUTICALS PAYABLE)\n24 CONVEYANCE CHARGES\n25 DIABETIC FOOT WEAR\n26 PRIVATE NURSES CHARGES - SPECIAL NURSING CHARGES\n27 ATTENDANT CHARGES",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -22485,8 +22485,8 @@
       "text": "F20-F29 Schizophrenia, schizotypal and delusional disorders\nF30-F39 Mood [affective] disorders\nF40-F48 Neurotic, stress-related and somatoform disorders\nF50-F59 Behavioural syndromes associated with physiological disturbances and physical factors\nF60-F69 Disorders of adult personality and behaviour\nF80-F89 Disorders of psychological development\nBehavioural and emotional disorders with onset usually occurring in childhood and\nF90-F98\nadolescence\nF99 Unspecified mental disorder\n*As per ICD-10 classification of Mental and Behavioral Disorders F10-F19 consist of Mental and behavioral\ndisorders due to psychoactive substance use which are not covered under \"Mental Illness Treatment\" and hence\nnot listed in Annexure IV: ICD codes for Mental Illness.\nUIN- BAJHLIP23020V012223 Global Health Care/ Policy Wordings/Page 49",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -22654,12 +22654,12 @@
     },
     "risk_keywords": [
       "accident",
-      "claim",
-      "damage",
-      "liability",
-      "injury",
       "loss",
-      "risk"
+      "liability",
+      "risk",
+      "damage",
+      "injury",
+      "claim"
     ],
     "document_stats": {
       "sentences": 1449,

@@ -1,0 +1,410 @@
+{
+  "test_claims": [
+    "46M, knee surgery (Rs. 2,50,000), Pune, 3-month policy",
+    "33F, cosmetic surgery, Mumbai, 1-year policy (Max cover: 5L)",
+    "60M, emergency heart bypass, Delhi, 6-month policy"
+  ],
+  "results": [
+    {
+      "processing_type": "claim",
+      "processing_steps": [
+        "Verify patient age (46M)",
+        "Confirm surgery type (knee surgery)",
+        "Validate claim amount (Rs. 2,50,000)",
+        "Check policy details (location: Pune, duration: 3 months)",
+        "Confirm policy coverage for knee surgery",
+        "Assess pre-authorization status (if applicable)",
+        "Review medical records and supporting documents",
+        "Process payment (if approved)"
+      ],
+      "claim_details": {
+        "demographics": {
+          "age": 46,
+          "gender": "male",
+          "location": "Pune"
+        },
+        "medical_details": {
+          "procedure": "knee surgery",
+          "diagnosis": "unknown",
+          "treatment_type": "surgery"
+        },
+        "financial_details": {
+          "claimed_amount": 250000,
+          "currency": "INR",
+          "policy_tenure": "3-month"
+        },
+        "extraction_confidence": "high",
+        "missing_information": [
+          "diagnosis"
+        ]
+      },
+      "query_expansion": {
+        "expanded_queries": [
+          "Find insurance policies covering knee surgery for a 46-year-old male in Pune with a 3-month policy duration and a claimed amount of Rs. 2,50,000.",
+          "What is the typical cost range for knee surgery in Pune for a 46-year-old male?",
+          "What are the common exclusions and pre-existing condition clauses related to knee surgery in 3-month insurance policies?",
+          "Are there any specific requirements or waiting periods for knee surgery claims under 3-month policies?",
+          "What diagnostic tests and medical reports are required to support a knee surgery claim of Rs. 2,50,000?",
+          "What is the reimbursement process for knee surgery claims in Pune under a 3-month policy?",
+          "What are the network hospitals for knee surgery in Pune that are covered under various insurance providers?",
+          "What is the claim settlement ratio for knee surgery claims under 3-month policies in Pune?",
+          "Are there any specific policy terms and conditions related to the diagnosis and treatment of knee surgery?",
+          "What is the impact of a pre-existing condition on the claim amount for knee surgery under a 3-month policy?"
+        ],
+        "key_terms": [
+          "knee surgery",
+          "46-year-old male",
+          "Pune",
+          "3-month policy",
+          "Rs. 2,50,000",
+          "claim amount",
+          "pre-existing conditions",
+          "waiting period",
+          "network hospitals",
+          "claim settlement ratio",
+          "policy terms and conditions",
+          "diagnosis",
+          "medical reports",
+          "reimbursement process"
+        ],
+        "potential_amount_ranges": {
+          "min": 150000,
+          "max": 350000,
+          "currency": "INR",
+          "calculation_basis": "Based on average cost of knee surgery in Pune and potential variations based on hospital, surgeon, and specific procedure."
+        },
+        "expected_documents": [
+          "Insurance policy document",
+          "Claim form",
+          "Medical reports (pre-surgery and post-surgery)",
+          "Doctor's prescription",
+          "Hospital bills and receipts",
+          "Diagnostic test reports (X-rays, MRI, etc.)",
+          "Discharge summary",
+          "Identity proof (Aadhaar card, PAN card, etc.)"
+        ],
+        "coverage_analysis": {
+          "likely_covered": true,
+          "common_exclusions": [
+            "Pre-existing conditions (if applicable)",
+            "Cosmetic surgery",
+            "Experimental treatments",
+            "Injuries caused by self-harm or illegal activities",
+            "Treatment received outside the network hospitals (unless specifically allowed)",
+            "Certain complications not directly related to the surgery"
+          ],
+          "special_conditions": [
+            "Waiting period for pre-existing conditions",
+            "Policy sub-limits for specific procedures",
+            "Requirement for pre-authorization for certain procedures",
+            "Specific requirements for diagnostic tests",
+            "Cashless facility availability at network hospitals"
+          ]
+        }
+      },
+      "decision_analysis": {
+        "decision_analysis": {
+          "coverage_decision": "review",
+          "decision_reason": "The claim requires further review due to missing diagnosis information.  The policy clauses mention various limits and co-payments, but the specific applicability depends on the diagnosis and the details of the knee surgery.  The claimed amount of 250000 INR needs to be compared against the policy's coverage limits for orthopedic procedures and any applicable deductibles or co-payments.  A 3-month policy tenure might also influence the coverage.",
+          "confidence": "medium",
+          "key_factors": [
+            "Missing diagnosis",
+            "Policy limits for knee surgery",
+            "Claimed amount vs. policy limits",
+            "Policy tenure (3 months)"
+          ]
+        },
+        "financial_analysis": {
+          "approved_amount": {
+            "value": null,
+            "currency": "INR",
+            "calculation_basis": "Requires diagnosis and detailed policy information to determine applicable limits, co-payments, and deductibles."
+          },
+          "potential_adjustments": [
+            "Co-payment based on policy zone",
+            "Deductibles based on policy terms",
+            "Adjustment based on specific procedure details within the knee surgery"
+          ],
+          "deductibles_applied": {
+            "amount": null,
+            "reason": "Cannot be determined without diagnosis and full policy details."
+          }
+        },
+        "documentation_analysis": {
+          "required_documents": [
+            "Detailed medical records including diagnosis",
+            "Hospital bills with itemized services",
+            "Surgeon's prescription advising hospitalization",
+            "Policy document with complete terms and conditions"
+          ],
+          "missing_documents": [
+            "Diagnosis"
+          ]
+        },
+        "next_steps": {
+          "immediate_actions": [
+            "Request missing diagnosis information from the claimant",
+            "Review the complete policy document to determine relevant coverage limits and exclusions for knee surgery"
+          ],
+          "long_term_actions": [
+            "Once diagnosis is received, calculate the approved amount based on policy terms",
+            "Communicate the decision and any adjustments to the claimant"
+          ],
+          "customer_communications": [
+            "Contact the claimant to request the missing diagnosis",
+            "Explain the claim review process and timeline",
+            "Provide updates on the claim status"
+          ]
+        },
+        "risk_analysis": {
+          "fraud_risk": "low",
+          "risk_factors": [
+            "Missing diagnosis could indicate an attempt to conceal pre-existing conditions or inflate the claim amount"
+          ],
+          "mitigation_strategies": [
+            "Thoroughly verify the diagnosis and medical records",
+            "Compare the claimed amount with average costs for similar procedures in Pune",
+            "Review the claimant's history for previous claims"
+          ]
+        }
+      },
+      "timestamp": "2025-07-29T21:30:06.777291",
+      "metadata": {
+        "processing_time_ms": 1753804806777,
+        "system_version": "2.1",
+        "confidence": "medium"
+      }
+    },
+    {
+      "processing_type": "general_question",
+      "question_analysis": {
+        "question_type": "coverage",
+        "complexity": "moderate",
+        "information_needs": [
+          "Policy details (policy number, ID), specifics of the cosmetic surgery (procedure, cost), location in Mumbai (to verify service availability), confirmation that the surgery is covered under the policy"
+        ]
+      },
+      "answer_components": {
+        "direct_answer": "A 33F in Mumbai seeking a 1-year policy with a maximum cover of 5L for cosmetic surgery needs to confirm if the specific procedure is covered under the policy.  The claim amount will be deducted from the authorized amount after providing the policy number and ID to the hospital.  Coverage is subject to the availability of services in Mumbai as listed on the insurer's website.",
+        "qualifications": [
+          "Coverage is subject to policy terms and conditions.",
+          "Pre-authorization is likely required.",
+          "The specific cosmetic surgery must be a covered procedure.",
+          "The maximum coverage is 5L, so costs exceeding this amount will be the patient's responsibility.",
+          "Service availability in Mumbai needs to be verified."
+        ],
+        "examples": [
+          "Examples of covered procedures would need to be obtained from the policy document or insurer.",
+          "An example of a claim process would involve pre-authorization, undergoing the procedure, submitting bills with the policy number and ID, and receiving reimbursement up to the policy limit."
+        ],
+        "common_misconceptions": [
+          "That all cosmetic surgeries are automatically covered.",
+          "That the full cost of the surgery will always be covered.",
+          "That the claim process is simple and straightforward without pre-authorization."
+        ]
+      },
+      "source_analysis": {
+        "primary_sources": [
+          "The insurance policy document",
+          "The insurer's website"
+        ],
+        "secondary_sources": [
+          "Insurance comparison websites, independent reviews of the insurer"
+        ],
+        "source_reliability": "medium"
+      },
+      "recommendations": {
+        "next_questions": [
+          "What is the specific cosmetic surgery procedure?",
+          "Is this procedure covered under the policy?",
+          "What is the estimated cost of the surgery?",
+          "Is the hospital in Mumbai where the surgery will be performed listed on the insurer's website as a provider?",
+          "What is the claim process for this type of procedure?"
+        ],
+        "related_topics": [
+          "Cosmetic surgery insurance coverage",
+          "Pre-authorization for medical procedures",
+          "Health insurance claim process",
+          "Insurance policy terms and conditions"
+        ],
+        "action_items": [
+          "Review the policy document carefully.",
+          "Contact the insurer to confirm coverage for the specific procedure.",
+          "Verify the hospital's participation in the insurer's network.",
+          "Obtain pre-authorization before undergoing the surgery."
+        ]
+      },
+      "timestamp": "2025-07-29T21:30:17.550208",
+      "metadata": {
+        "policy_clauses_used": true,
+        "clauses_count": 3
+      }
+    },
+    {
+      "processing_type": "claim",
+      "processing_steps": [
+        "Verify policy details (policy number, coverage, validity)",
+        "Confirm the medical emergency and its location (Delhi)",
+        "Obtain medical records and reports related to the heart bypass surgery",
+        "Assess the claim against the policy terms and conditions",
+        "Determine the payable amount",
+        "Process the payment"
+      ],
+      "claim_details": {
+        "demographics": {
+          "age": 60,
+          "gender": "male",
+          "location": "Delhi"
+        },
+        "medical_details": {
+          "procedure": "emergency heart bypass",
+          "diagnosis": "heart condition",
+          "treatment_type": "surgery"
+        },
+        "financial_details": {
+          "claimed_amount": 60000000,
+          "currency": "INR",
+          "policy_tenure": "6-month"
+        },
+        "extraction_confidence": "medium",
+        "missing_information": [
+          "diagnosis details",
+          "policy number",
+          "pre-existing conditions"
+        ]
+      },
+      "query_expansion": {
+        "expanded_queries": [
+          "Find claim details for a 60-year-old male in Delhi with policy number [Policy Number] for an emergency heart bypass surgery performed on [Date of Surgery], with a claimed amount of INR 60,000,000 under a 6-month policy.",
+          "Verify coverage for an emergency heart bypass surgery for a 60-year-old male patient in Delhi under a 6-month policy with policy number [Policy Number], considering the claimed amount of INR 60,000,000 and pre-existing conditions [Pre-existing Conditions].",
+          "Investigate the claim of INR 60,000,000 for an emergency heart bypass surgery in Delhi for a 60-year-old male patient with policy number [Policy Number] and a 6-month policy duration.  Include details on the specific diagnosis and any pre-existing conditions.",
+          "Determine the validity of a claim for INR 60,000,000 for an emergency heart bypass procedure in Delhi for a 60-year-old male patient under a 6-month policy (policy number [Policy Number]).  Specify the diagnosis, treatment details, and any applicable exclusions."
+        ],
+        "key_terms": [
+          "Emergency Heart Bypass",
+          "Delhi",
+          "60-year-old Male",
+          "6-month Policy",
+          "INR 60,000,000",
+          "Pre-existing Conditions",
+          "Policy Number",
+          "Diagnosis Details",
+          "Treatment Details",
+          "Claim Validity"
+        ],
+        "potential_amount_ranges": {
+          "min": 1000000,
+          "max": 5000000,
+          "currency": "INR",
+          "calculation_basis": "Based on average cost of heart bypass surgery in Delhi and typical coverage limits for 6-month policies.  The original claimed amount is exceptionally high and likely requires further investigation."
+        },
+        "expected_documents": [
+          "Policy Document",
+          "Medical Records (including diagnosis, treatment details, and discharge summary)",
+          "Hospital Bills",
+          "Proof of Payment",
+          "Patient Identification",
+          "Pre-authorization documents (if applicable)"
+        ],
+        "coverage_analysis": {
+          "likely_covered": false,
+          "common_exclusions": [
+            "Pre-existing conditions (if applicable)",
+            "Lack of pre-authorization (if required)",
+            "Unreasonable or inflated medical bills",
+            "Procedures not covered under the policy",
+            "Waiting periods"
+          ],
+          "special_conditions": [
+            "The exceptionally high claimed amount requires thorough investigation.",
+            "The short policy duration (6 months) may impact coverage.",
+            "The lack of diagnosis details and pre-existing conditions information necessitates further inquiry.",
+            "Verification of the emergency nature of the procedure is crucial."
+          ]
+        }
+      },
+      "decision_analysis": {
+        "decision_analysis": {
+          "coverage_decision": "review",
+          "decision_reason": "The claimed amount of 60,000,000 INR significantly exceeds the maximum payable amount indicated in the policy clauses (3,50,000 INR for cardiovascular diseases).  Missing information, including the policy number, diagnosis details, and pre-existing conditions, prevents a definitive decision.  Further investigation is required to verify the claim and determine the actual coverage.",
+          "confidence": "low",
+          "key_factors": [
+            "Claimed amount far exceeds policy limits",
+            "Missing crucial information",
+            "Policy details unclear",
+            "Procedure type matches a sub-limit"
+          ]
+        },
+        "financial_analysis": {
+          "approved_amount": {
+            "value": 350000,
+            "currency": "INR",
+            "calculation_basis": "Based on the policy's sub-limit for cardiovascular diseases, assuming the claim is otherwise valid. This is a preliminary estimate subject to further review."
+          },
+          "potential_adjustments": [
+            "Reduction based on co-payment percentage (if applicable)",
+            "Deduction for pre-existing conditions (if applicable)",
+            "Adjustment based on actual expenses and supporting documentation"
+          ],
+          "deductibles_applied": {
+            "amount": 0,
+            "reason": "No deductible information is available in the provided data."
+          }
+        },
+        "documentation_analysis": {
+          "required_documents": [
+            "Policy number",
+            "Detailed diagnosis report",
+            "Complete hospital bills with itemized expenses",
+            "Discharge summary",
+            "Pre-authorization documents (if applicable)",
+            "Information on pre-existing conditions",
+            "Medical practitioner's certification (if applicable)"
+          ],
+          "missing_documents": [
+            "Policy number",
+            "Diagnosis details",
+            "Pre-existing conditions documentation"
+          ]
+        },
+        "next_steps": {
+          "immediate_actions": [
+            "Request missing documentation from the claimant",
+            "Verify policy details and coverage limits",
+            "Contact the claimant to clarify discrepancies"
+          ],
+          "long_term_actions": [
+            "Conduct a thorough review of the claim against policy terms and conditions",
+            "Assess the validity of the medical expenses",
+            "Determine the final payable amount based on policy terms and supporting documentation"
+          ],
+          "customer_communications": [
+            "Contact the claimant to request missing information and explain the review process",
+            "Keep the claimant updated on the progress of the claim review",
+            "Explain the reasons for any adjustments or denials"
+          ]
+        },
+        "risk_analysis": {
+          "fraud_risk": "medium",
+          "risk_factors": [
+            "Significant discrepancy between claimed amount and policy limits",
+            "Missing information",
+            "High claimed amount"
+          ],
+          "mitigation_strategies": [
+            "Thorough verification of medical records and supporting documentation",
+            "Cross-referencing information with other databases",
+            "Investigating potential inconsistencies in the claim"
+          ]
+        }
+      },
+      "timestamp": "2025-07-29T21:30:59.345824",
+      "metadata": {
+        "processing_time_ms": 1753804859345,
+        "system_version": "2.1",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "timestamp": "20250729_213221"
+}

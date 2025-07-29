@@ -13,13 +13,6 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import spacy
 from spacy.matcher import PhraseMatcher
 
-# Load NLP model (medium model for better performance)
-try:
-    nlp = spacy.load("en_core_web_md")
-except OSError:
-    logger.error("Spacy model 'en_core_web_md' not found. Please install it first.")
-    raise
-
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -30,6 +23,16 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+
+# Load NLP model (medium model for better performance)
+try:
+    nlp = spacy.load("en_core_web_md")
+except OSError:
+    logger.error("Spacy model 'en_core_web_md' not found. Please install it first.")
+    raise
+
+
 
 class InsuranceClauseDetector:
     """Advanced insurance clause detection with NLP-enhanced parsing."""

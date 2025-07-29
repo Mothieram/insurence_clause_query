@@ -1,0 +1,202 @@
+{
+  "test_questions": [
+    "What is the difference between floater and individual health policies?",
+    "How does the claim settlement ratio affect my policy choice?",
+    "Can I port my existing health insurance to your company?"
+  ],
+  "results": [
+    {
+      "processing_type": "general_question",
+      "question_analysis": {
+        "question_type": "coverage",
+        "complexity": "simple",
+        "information_needs": []
+      },
+      "answer_components": {
+        "direct_answer": "A floater health insurance policy covers multiple individuals (usually family members) under a single policy and a single sum insured.  Claims from any covered individual reduce the overall sum insured. An individual health insurance policy covers only one person, with their own separate sum insured.  Claims against one individual's policy do not affect the coverage of others.",
+        "qualifications": [
+          "The specific coverage details, including the sum insured and covered individuals, vary depending on the policy and insurer.",
+          "Floater policies can be more economical than purchasing individual policies for each family member, but the sum insured is shared.",
+          "Individual policies offer greater flexibility and independent coverage for each person."
+        ],
+        "examples": [
+          "A family floater policy with a \u20b9500,000 sum insured might cover a family of four. If one member incurs \u20b9300,000 in claims, only \u20b9200,000 remains for the rest of the family for the policy year.",
+          "Four individual policies, each with a \u20b9125,000 sum insured, would provide each family member with independent coverage of \u20b9125,000."
+        ],
+        "common_misconceptions": [
+          "Floater policies always offer better value than individual policies.",
+          "The sum insured in a floater policy is unlimited for each individual."
+        ]
+      },
+      "source_analysis": {
+        "primary_sources": [],
+        "secondary_sources": [
+          "IRDAI guidelines (if available and relevant to the specific question)",
+          "Insurance company websites"
+        ],
+        "source_reliability": "medium"
+      },
+      "recommendations": {
+        "next_questions": [
+          "What is the sum insured for the floater policy?",
+          "What are the waiting periods for pre-existing conditions?",
+          "What are the exclusions in the policy?",
+          "What is the premium for each type of policy?"
+        ],
+        "related_topics": [
+          "Health insurance premiums",
+          "Health insurance claims process",
+          "Pre-existing conditions",
+          "Waiting periods",
+          "Policy exclusions"
+        ],
+        "action_items": [
+          "Compare quotes from multiple insurers for both floater and individual health insurance policies.",
+          "Carefully review the policy documents before purchasing."
+        ]
+      },
+      "timestamp": "2025-07-29T21:31:55.257385",
+      "metadata": {
+        "policy_clauses_used": true,
+        "clauses_count": 3
+      }
+    },
+    {
+      "processing_type": "general_question",
+      "question_analysis": {
+        "question_type": "claims",
+        "complexity": "moderate",
+        "information_needs": [
+          "Claim settlement ratio of the insurer",
+          "Insurer's financial stability",
+          "Policy features and coverage details beyond the claim settlement ratio"
+        ]
+      },
+      "answer_components": {
+        "direct_answer": "A high claim settlement ratio indicates that an insurer pays a larger percentage of claims filed by its policyholders.  While a higher ratio is generally preferable, it shouldn't be the sole factor in choosing a policy. You should also consider the insurer's financial stability, policy features, and customer service.",
+        "qualifications": [
+          "A high claim settlement ratio doesn't guarantee a quick or easy claims process.",
+          "A low claim settlement ratio doesn't automatically mean the insurer is bad; it could reflect stricter claim assessment processes or a lower proportion of fraudulent claims.",
+          "The claim settlement ratio should be considered alongside other factors like policy coverage, premium cost, and insurer reputation."
+        ],
+        "examples": [
+          "Insurer A has a 95% claim settlement ratio but takes an average of 6 weeks to process claims. Insurer B has a 90% claim settlement ratio but processes claims within 2 weeks.  The choice depends on your priorities.",
+          "An insurer with a high claim settlement ratio might have higher premiums to offset the higher claim payouts."
+        ],
+        "common_misconceptions": [
+          "A high claim settlement ratio guarantees a smooth claims experience.",
+          "A low claim settlement ratio always indicates a bad insurer.",
+          "Claim settlement ratio is the only factor to consider when choosing an insurance policy."
+        ]
+      },
+      "source_analysis": {
+        "primary_sources": [
+          "Insurer's annual reports and financial statements",
+          "IRDAI (Insurance Regulatory and Development Authority of India) website (or equivalent regulatory body in your region)"
+        ],
+        "secondary_sources": [
+          "Independent insurance rating agencies",
+          "Online insurance comparison websites",
+          "Customer reviews and testimonials"
+        ],
+        "source_reliability": "medium"
+      },
+      "recommendations": {
+        "next_questions": [
+          "What is the insurer's financial strength rating?",
+          "What is the average claim processing time?",
+          "What are the policy's exclusions and limitations?",
+          "What is the customer service reputation of the insurer?"
+        ],
+        "related_topics": [
+          "Insurer financial stability",
+          "Claim processing time",
+          "Policy exclusions and limitations",
+          "Customer service",
+          "Premium cost"
+        ],
+        "action_items": [
+          "Compare claim settlement ratios of multiple insurers.",
+          "Check insurer's financial ratings and reviews.",
+          "Read policy documents carefully.",
+          "Contact insurers directly to ask questions about their claims process."
+        ]
+      },
+      "timestamp": "2025-07-29T21:32:14.883243",
+      "metadata": {
+        "policy_clauses_used": true,
+        "clauses_count": 3
+      }
+    },
+    {
+      "processing_type": "general_question",
+      "question_analysis": {
+        "question_type": "eligibility",
+        "complexity": "moderate",
+        "information_needs": [
+          "Policy number of existing health insurance",
+          "Name of existing health insurance provider",
+          "Details of existing coverage (e.g., plan type, benefits)",
+          "Date of inception of existing policy",
+          "Pre-existing conditions (including any physical disabilities)",
+          "Current health status"
+        ]
+      },
+      "answer_components": {
+        "direct_answer": "Whether you can port your existing health insurance to our company depends on several factors, including your current health status, the terms of your existing policy, and our company's underwriting guidelines.  We may not be able to cover all pre-existing conditions immediately.",
+        "qualifications": [
+          "Portability is subject to our company's underwriting process.",
+          "Pre-existing conditions may be subject to waiting periods or exclusions.",
+          "Your existing coverage may not be exactly replicated in our plans.",
+          "The availability of a comparable plan depends on your location and health status."
+        ],
+        "examples": [
+          "A person with a well-managed chronic condition might be eligible for coverage after a waiting period.",
+          "A person with a recently diagnosed serious illness might face limitations or exclusions.",
+          "A person with a stable health history might find a comparable plan with ease."
+        ],
+        "common_misconceptions": [
+          "All pre-existing conditions are automatically covered upon porting.",
+          "Porting is always a seamless process.",
+          "The premium will always be the same or lower."
+        ]
+      },
+      "source_analysis": {
+        "primary_sources": [
+          "Our company's underwriting guidelines",
+          "Our company's policy documents"
+        ],
+        "secondary_sources": [
+          "Industry best practices",
+          "Government regulations regarding health insurance portability"
+        ],
+        "source_reliability": "high"
+      },
+      "recommendations": {
+        "next_questions": [
+          "Can you provide details about your existing health insurance policy?",
+          "Do you have any pre-existing conditions, including the physical disability mentioned?",
+          "What is your desired level of coverage?",
+          "What is your location?"
+        ],
+        "related_topics": [
+          "Pre-existing condition exclusions",
+          "Waiting periods for coverage",
+          "Health insurance underwriting",
+          "Policy portability regulations"
+        ],
+        "action_items": [
+          "Contact our customer service department to discuss your specific situation.",
+          "Gather information about your existing health insurance policy.",
+          "Review our company's health insurance plans and their terms and conditions."
+        ]
+      },
+      "timestamp": "2025-07-29T21:32:21.845510",
+      "metadata": {
+        "policy_clauses_used": true,
+        "clauses_count": 3
+      }
+    }
+  ],
+  "timestamp": "20250729_213221"
+}

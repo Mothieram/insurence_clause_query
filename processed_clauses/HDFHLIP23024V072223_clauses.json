@@ -21,8 +21,8 @@
       "type": "LIMITATION",
       "subtypes": [
         "DEFINITION",
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -1169,8 +1169,8 @@
       "text": "that the insurer will not be liable for a specified rupee amount in case of indemnity policies and\nfor a specified number of days/hours in case of hospital cash policies which will apply before\nany benefits are payable by the insurer. A deductible does not reduce the Sum Insured.\nDef. 14. Dental treatment means a treatment related to teeth or structures supporting teeth\nincluding examinations, filings (where appropriate), crowns, extractions and surgery.\nDef. 15. Domiciliary Hospitalisation means medical treatment for an illness/disease/injury which in\nthe normal course would require a care and treatment at a Hospital but is actually taken while\nconfined at home under any of the following circumstances:",
       "type": "COVERAGE",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION"
+        "DEFINITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -1506,9 +1506,9 @@
       "text": "- it needs ongoing or long-term monitoring through consultations, examinations, check-ups, and\n/ or tests\n\u2014it needs ongoing or long-term control or relief of symptoms\n\u2014 it requires your rehabilitation or for you to be specially trained to cope with it\n\u2014it continues indefinitely\n\u2014it recurs or is likely to recur\nDef. 22. Injury means accidental physical bodily harm excluding illness or disease solely and directly\ncaused by external, violent and visible and evident means which is verified and certified by a\nMedical Practitioner.\nDef. 23. In-patient Care means treatment for which the Insured Person has to stay in a Hospital for\nmore than 24 hours for a covered event.\nDef. 24. Maternity expenses means\ni. medical treatment expenses traceable to childbirth (including complicated deliveries\nand caesarean sections during hospitalization);\nii. expenses towards lawful medical termination of pregnancy during the Policy Period.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -1554,9 +1554,9 @@
       "text": "and caesarean sections during hospitalization);\nii. expenses towards lawful medical termination of pregnancy during the Policy Period.\nDef. 25. Medical Advise means any consultation or advise from a Medical Practitioner including the\nissuance of any prescription or follow up prescription.\nDef. 26. Medical Expenses means those expenses that an Insured Person has necessarily and actually\nincurred for medical treatment on account of illness or Accident on the advice of a Medical\nPractitioner, as long as these are no more than would have been payable if the Insured Person\nhad not been insured and no more than other Hospitals or doctors in the same locality would\nhave charged for the same medical treatment.\nDef. 27. Medically Necessary means any treatment, test, medication, or stay in Hospital or part of\nstay in Hospital which\n\uf0a7 Is required for the medical management of the Illness or injury suffered by the Insured\nPerson;",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -2412,9 +2412,9 @@
       "text": "same insured to share the cost of an indemnity claim on a rateable proportion of Sum Insured.\nThis clause shall not apply to any Benefit offered on fixed benefit basis.\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n7 | P age\nHDFC ERGO General Insurance Company Limited\nDef. 6. Commencement Date means the commencement date of this Policy as specified in the\nSchedule.\nDef. 7. Dependents means only the family members listed below:\ni) Your legally married spouse as long as she continues to be married to You;\nii) Your children / Grandchildren Aged between 91 days and 25 years if they are unmarried",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -2556,10 +2556,10 @@
       "text": "ii) Your children / Grandchildren Aged between 91 days and 25 years if they are unmarried\nand financially dependent with no independent source of income. Children Aged\nbetween 1 to 90 Days can be covered if Newborn Baby Benefit is added by payment of\nadditional premium subject to policy terms and conditions.\niii) Your natural parents or parents that have legally adopted You, provided that the parent was\nbelow 65 years at his initial participation in the Easy Health Policy,\niv) Your Parent -in-law as long as Your spouse continues to be married to You and were below\n65 years at his initial participation in the Easy Health Policy\nv) Your Grandparents provided that the grandparent were below 65 years at his initial\nparticipation in the Easy Health Policy,\nAll Dependent parents, Parent in laws, Grand Parents must be financially dependent on You.\nDef. 8. Dependent Child means a child (natural or legally adopted), who is unmarried, Aged between 91",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "DEFINITION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -2659,10 +2659,10 @@
       "text": "Def. 8. Dependent Child means a child (natural or legally adopted), who is unmarried, Aged between 91\ndays and 25 years, financially dependent on the primary Insured or Proposer and does not\nhave his / her independent sources of income. Children Aged between 1 to 90 Days can be\ncovered if Newborn Baby Benefit is added by payment of additional premium subject to policy\nterms and conditions.\nDef. 9. Family Floater means a Policy described as such in the Schedule where under You and Your\nDependents named in the Schedule are insured under this Policy as at the Commencement\nDate. The Sum Insured for a Family Floater means the sum shown in the Schedule which\nrepresents Our maximum liability for any and all claims made by You and/or all of Your\nDependents during the Policy Year.\nDef. 10. Insured Person means You and the persons named in the Schedule.\nDef. 11. Material Facts means all relevant information sought by the Company in the Proposal Form",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "DEFINITION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3119,8 +3119,8 @@
       "text": "1. Inpatient Benefits: This section of benefits is applicable when\n\u2022 An insured suffers an Accident or Illness, which is covered under this Policy\n\u2022 Hospitalisation is necessary & is done for treatment OR\n\u2022 Day care treatment is necessary and is done OR\n\u2022 Domiciliary treatment is necessary and is done\n1 a. In-Patient Treatment If as per any or all of the Medical references herein\nbelow containing guidelines and protocols for\nThis includes Evidence Based Medicines, the Hospitalisation for\n\u2022 Hospital room rent or boarding; treatment under claim is not necessary or the stay\n\u2022 Nursing; at the hospital is found unduly long:\n\u2022 Intensive Care Unit\n\u2022 Medical Practitioners (Fees) \uf0b7 Medical text books,\n\u2022 Anesthesia \uf0b7 Standard treatment guidelines as stated in\n\u2022 Blood clinical establishment act of Government of\n\u2022 Oxygen India,\n\u2022 Operation theatre \uf0b7 World Health Organisation (WHO)\n\u2022 Surgical appliances; protocols,\n\u2022 Medicines, drugs & consumables; \uf0b7 Published guidelines by healthcare",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3274,8 +3274,8 @@
       "text": "\u2022 Diagnostic procedures. providers,\n\uf0b7 Guidelines set by medical societies like\ncardiological society of India, neurological\nsociety of India etc.\nb. Pre-Hospitalization Medical Expenses for 1. Claims which have NOT been admitted under 1a), 1d)\nconsultations, investigations and medicines and 1e)\nincurred upto 60 days before the date of 2. Expenses not related to the admission and not\nadmission to the Hospital (Inpatient or Day incidental to the treatment for which the admission\nCare or Domiciliary treatment) has taken place\nc. Post-Hospitalization Medical Expenses for\nconsultations, investigations and\nmedicines incurred upto 90 days after\ndischarge from Hospitalisation (Inpatient\nor Day Care or Domiciliary treatment).\nd. Day Care Procedures 1. Treatment that can be and is usually taken on an Out-\nMedical treatment or surgical procedure Patient basis is not covered\nwhich is undertaken under general or local 2. Treatment a NOT taken at a Hospital\nanaesthesia, which require admission in a",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3381,8 +3381,8 @@
       "text": "which is undertaken under general or local 2. Treatment a NOT taken at a Hospital\nanaesthesia, which require admission in a\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n9 | P age\nHDFC ERGO General Insurance Company Limited\nHospital/Day Care Centre for stay less than\n24 hours. Treatment normally taken on out-\npatient basis is not included in the scope of\nthis definition.\ne. Domiciliary Treatment 1. Treatment of less than 3 days (Coverage will be\nMedical treatment for an provided for expenses incurred in first three days\nIllness/disease/injury which in the normal only if treatment period is greater than 3 days)\ncourse would require care and treatment at a",
       "type": "LIMITATION",
       "subtypes": [
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -3530,8 +3530,8 @@
       "text": "Illness/disease/injury which in the normal only if treatment period is greater than 3 days)\ncourse would require care and treatment at a\nHospital but is actually taken while confined\nat home under any of the following\ncircumstances:",
       "type": "LIMITATION",
       "subtypes": [
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -3637,10 +3637,10 @@
       "text": "3. The organ donor\u2019s Pre and Post-Hospitalisation\nIMPORTANT: Expenses incurred by an expenses.\ninsured person while donating an organ is\nNOT covered.\ng. Ambulance: 1. Claims which have NOT been admitted under 1a) and\nExpenses incurred on a transportation of 1d)\nInsured Person to a Hospital for 2. Healthcare or ambulance service provider not\ntreatment in case of an emergency, registered with road traffic authority.\nsubject to Rs. 2000 per Hospitalisation.\nh. Ayush Benefit 1. Claims which have not been admitted under 1a)\nExpenses incurred on treatment taken 2. Hospitalisation for evaluation, Investigation only\nunder Ayurveda, Unani, Sidha and 3. Treatment availed outside India\nHomeopathy in a government hospital or 4. Treatment at a healthcare facility which is NOT a\nin any institute recognized by government Hospital.\nand/or accredited by Quality Council of\nIndia/National Accreditation Board on\nHealth subject to amounts specified in\nthe Schedule of Benefits",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION",
+        "LIMITATION",
         "EXCLUSION",
-        "LIMITATION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3764,9 +3764,9 @@
       "text": "and/or accredited by Quality Council of\nIndia/National Accreditation Board on\nHealth subject to amounts specified in\nthe Schedule of Benefits\ni. Daily Cash for choosing shared 1. Daily Cash Benefit for time spent by the Insured\nAccommodation Person in an intensive care unit\nDaily cash amount will be payable per day 2. Claims which have NOT been admitted under\nas mentioned in schedule of Benefits if 1a).\nthe Insured Person is Hospitalised in\nShared Accommodation in a Network\nHospital for each continuous and\ncompleted period of 24 hours if the\nHospitalisation exceeds 48 hours.\n2) Additional Benefits: The following benefits are available to all Insured Persons during the Policy Period.\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -3926,9 +3926,9 @@
       "text": "Corporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n10 | P age\nHDFC ERGO General Insurance Company Limited\nAny claims made under these benefits will be subject to In-patient Sum Insured and will impact eligibility\nfor a Cumulative Bonus and Health Checkup These benefits are applicable based on the plan variant\nselected, as mentioned in the schedule of benefits.\na. Daily Cash for Accompanying an Insured 1. Daily Cash Benefit for days of admission and\nChild discharge\nIf the Insured Person Hospitalised is a Claims which have NOT been admitted under 1a).\nchild Aged 12 years or less, daily cash\namount will be payable as mentioned in\nschedule of Benefits for 1 accompanying\nadult for each complete period of 24\nhours if Hospitalisation exceeds 72\nhours.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4100,9 +4100,9 @@
       "text": "schedule of Benefits for 1 accompanying\nadult for each complete period of 24\nhours if Hospitalisation exceeds 72\nhours.\nb. Newborn baby 1. Claims which have NOT been admitted under 3a) i.e.\nMedical Expenses for any medically Maternity Expenses\nnecessary treatment described at 1)a) 2. Claims other than those available in Section B-1,\nwhile the Insured Person (the Newborn Section C-1,2,3\nbaby) is Hospitalised during the Policy\nPeriod as an inpatient provided a\nproposal form is submitted for the\ninsurance of the newborn baby within 90\ndays after the birth, and We have\naccepted the same and received the\npremium sought.\nUnder this benefit, Coverage for\nnewborn baby will incept from the date,\nthe premium has been received.\nThe coverage is subject to the policy\nexclusions, terms and conditions.\nThis Benefit is applicable if Maternity\nbenefit is opted and We have accepted\na maternity claim under this Policy.\nc. Recovery Benefit 1. Claims which have NOT been admitted under 1a).",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4196,10 +4196,10 @@
       "text": "benefit is opted and We have accepted\na maternity claim under this Policy.\nc. Recovery Benefit 1. Claims which have NOT been admitted under 1a).\nLumpsum amount will be payable as\nmentioned in schedule of Benefits if the\nInsured Person is Hospitalised as an\ninpatient beyond 10 consecutive and\ncontinuous days\nThis benefit is payable only once per\nIllness/Accident per Policy Year.\nd. Emergency Air Ambulance Cover 1. Claims which have NOT been admitted under\nWe will pay for ambulance Inpatient Treatment or Day Care Procedures.\ntransportation in an airplane or 2. Expenses incurred in return transportation to the\nhelicopter subject to maximum limit insured\u2019s home by air ambulance is excluded.\nprescribed in d(i) , for emergency life\nthreatening health conditions which\nrequire immediate and rapid ambulance\ntransportation to the hospital/medical\ncentre that ground transportation\ncannot provide subject to:",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4385,9 +4385,9 @@
       "text": "\u2022 The insured person is in India and\nthe treatment is required in India only\nand not overseas in any condition\nwhatsoever; and\n\u2022 The air ambulance provider being\nregistered in India.\nd(i)The amount payable in case of Air\nambulance facility shall be either the\nactual expenses or Rs. 2.5 Lacs per\nhospitalization, whichever is lower; upto\nbasic sum insured limit for a year",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4445,9 +4445,9 @@
       "text": "3. Additional Benefit not related to Sum Insured: The following benefit is available to all Insured Persons\nduring the Policy Period. Any claims made under these benefits will not be subject to In-patient Sum Insured\nand will not impact eligibility for a Cumulative Bonus and Health Checkup. These benefits are applicable based\non the plan variant selected, as mentioned in the schedule of benefits.\na. Maternity Expenses 1. Pre- and post-hospitalisation expenses under 1-b)\ni. Medical Expenses for a delivery and 1-c)\n(including caesarean section) as 2. Ectopic pregnancy under this benefit (although it\nmentioned in schedule of Benefits shall be covered under 1a)\nwhile Hospitalised or the lawful medical 3. Claim for Dependents other than Insured Person\u2019s\ntermination of pregnancy during the spouse under this Policy.\nPolicy Period limited to 2 deliveries or\nterminations or either during the\nlifetime of the Insured Person\nii. Medical Expenses for pre-natal and",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4529,9 +4529,9 @@
       "text": "Policy Period limited to 2 deliveries or\nterminations or either during the\nlifetime of the Insured Person\nii. Medical Expenses for pre-natal and\npost-natal expenses per delivery or\ntermination upto the amount stated in\nthe Schedule of Benefits,\niii. Medical Expenses incurred for the\nmedically necessary treatment of the\nnew born baby upto the amount stated\nin the Schedule of Benefits unless the\nnew born baby is covered under 2b),\nand\niv. The Insured Person must have been an\nInsured Person under Our Policy for the\nperiod of time specified in the Schedule\nof Benefits.\n4. Critical Illness (Optional benefit)\nAny claims made under this benefit will not be subject to In-patient Sum Insured and will not impact eligibility\nfor a Cumulative Bonus and Health Checkup. This benefit is optional and effective only if mentioned in the\nSchedule.\n4 a. Critical Illness (Optional benefit) 1. The Insured Person is first diagnosed as suffering",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -4631,8 +4631,8 @@
       "text": "Schedule.\n4 a. Critical Illness (Optional benefit) 1. The Insured Person is first diagnosed as suffering\nWe will pay the Critical Illness Sum from a Critical Illness within 90 days of the\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n12 | P age\nHDFC ERGO General Insurance Company Limited\nInsured as a lump sum in addition to Our commencement of the Policy Period and the Insured\npayment under 1)a), provided that: Person has not previously been insured continuously\nand without interruption under an Easy Health Policy.\ni. The Insured Person is first diagnosed as 2. The Insured Person has already made a claim for the",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5077,8 +5077,8 @@
       "text": "be no impact on the Inpatient Sum Insured, only the accrued cumulative bonus will be decreased.\nd) If the Insured Persons in the expiring policy are covered on individual basis and thus have accumulated\nthe no claim bonus for each member in the expiring policy, and such expiring policy is renewed with Us on a\nFamily Floater basis, then the no claim bonus to be carried forward for credit in the Policy would be the least no\nclaim bonus amongst all the Insured Persons.\ne) Portability/migration benefit will be offered to the extent of sum of previous sum insured and accrued\ncumulative bonus (if opted for), portability/migration benefit shall not apply to any other additional increased\nsum insured.\nf) In policies with a two year Policy Period, the application of above guidelines of Cumulative Bonus shall\nbe post completion of each policy year.\n5.2. Stay Active\nWe will offer a discount at each renewal if the insured member achieves the average step count target",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5136,8 +5136,8 @@
       "text": "5.2. Stay Active\nWe will offer a discount at each renewal if the insured member achieves the average step count target\non the mobile application provided by Us in the specified time interval (calculated from the policy risk\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n13 | P age\nHDFC ERGO General Insurance Company Limited\nstart date) as per the grid below. In an individual policy, the average step count would be calculated per\nadult member and in a floater policy it would be an average of all adult members covered. Dependent\nchildren covered either in individual or floater plan will not be considered for calculation of average\nsteps.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5261,9 +5261,9 @@
       "text": "children covered either in individual or floater plan will not be considered for calculation of average\nsteps.\nThis discount will be accrued at defined time intervals as given in table below. The discount will be\ncumulated and offered as discount on the renewal premium.\nIn individual policies the discount percentage (%) would be applied on premium applicable per insured\nmember (Dependent Children are not eligible for this stay active discount in an individual policy) and in a\nfloater policy it would be applied on premium applicable on policy.\nThe discount grid would be as per the table below:\n1 Year Policy\nTime Interval (calculated from policy risk start date)\nAverage Step Risk start date or date 91-180 days 181-270 days 271-300 Maximum Discount\nTarget of download of mobile days at the end of the year\napplication -90 days\n5000 or below 0% 0% 0% 0% 0%\n5001 to 8000 0.5% 0.5% 0.5% 0.5% 2%\n8001 to 10000 1.25% 1.25% 1.25% 1.25% 5%\nAbove 10000 2% 2% 2% 2% 8%\n2 Year Policy",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -5459,9 +5459,9 @@
       "text": "5000 or below 0% 0% 0% 0% 0%\n5001 to 8000 0.5% 0.5% 0.5% 0.5% 2%\n8001 to 10000 1.25% 1.25% 1.25% 1.25% 5%\nAbove 10000 2% 2% 2% 2% 8%\n2 Year Policy\nTime Interval ((calculated from policy risk start date)\nRisk start 91-180 181-270 271-360 361-450 451-540 541-630 631-660 Maximum\nAverage date or days days days days days days days Discount\nStep date of at the\ntarget download end of 2\nof mobile years\napplication\n-90 days\n5000 or\n0% 0% 0% 0% 0% 0% 0% 0% 0%\nbelow\n5001 to\n0.25% 0.25% 0.25% 0.25% 0.25% 0.25% 0.25% 0.25% 2%\n8000\n8001 to\n0.625% 0.625% 0.625% 0.625% 0.625% 0.625% 0.625% 0.625% 5%\n10000\nAbove\n1% 1% 1% 1% 1% 1% 1% 1% 8%\n10000\nThe mobile app must be downloaded within 30 days of the policy risk start date to avail this\nbenefit. The average step count completed by an Insured member would be tracked on this\nmobile application.\nWe reserve the right to remove or reduce any count of steps if found to be achieved in unfair\nmanner by manipulation.",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6099,9 +6099,9 @@
       "text": "discount %applicable 1.25% 1.25% 0.5% 0.5%\nTotal discount applicable on renewal premium = 3.5%\n5.3. Preventive Health Check-up\na) If You have maintained an Easy Health Policy with Us for the period of time mentioned in the\nSchedule of Benefits without any break, then at the end of each block of continuous years (as\nmentioned in the Schedule of benefits) We will pay upto the percentage (mentioned in the\nSchedule of Benefits) of the Sum Insured for this Policy Year or the subsequent Policy Years\n(whichever is lower) towards the cost of a preventive health check-up for those Insured Persons\nwho were insured for the number of previous Policy Years mentioned in the Schedule.\nNote: If member has changed the plan in subsequent year and in the new plan the waiting\nperiod is less than previous plan then waiting period mentioned in the current plan would be\napplicable.\nPlan Standard Exclusive\nEasy Health Individual Upto 1% of Sum Insured per Upto 1% of Sum Insured subject to a",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6207,10 +6207,10 @@
       "text": "applicable.\nPlan Standard Exclusive\nEasy Health Individual Upto 1% of Sum Insured per Upto 1% of Sum Insured subject to a\nInsured Person upto Rs.5000, only Maximum of Rs.5,000 per Insured Person,\nonce at the end of a block of every only once at the end of a block of every\ncontinuous four claim free years. continuous three policy years\nEasy Health Family Upto 1% of Sum Insured per Policy Upto 1% of Sum Insured per Policy subject\nupto Rs.5000, only once at the end to a Maximum of Rs. 5,000 per Policy, only\nof a block of every continuous four once at the end of a block of every\nclaim free years continuous three policy years\nb) In case of family floater in Standard Variant, if any of the members have made a claim under\nthis Policy, the health check-up benefit will not be offered to the whole family.\nc) We will consider complete policy years for the eligibility of this benefit.\nPreventive Health Check-up means a package of medical test(s) undertaken for general assessment of",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6344,10 +6344,10 @@
       "text": "1. Standard Waiting Period\nAll Illnesses and treatments shall be covered subject to the waiting periods specified below:\ni. 30-day waiting period \u2013 Code \u2013 Excl03\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n15 | P age\nHDFC ERGO General Insurance Company Limited\na) Expenses related to the treatment of any illness within 30 days from the first policy\ncommencement date shall be excluded except claims arising due to an accident, provided\nthe same are covered.\nb) This exclusion shall not, however, apply if the insured person has continuous coverage for\nmore than twelve months.\nc) The within referred waiting period is made applicable to the enhanced sum insured in the",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -6530,8 +6530,8 @@
       "text": "d) The waiting period for listed conditions shall apply even if contracted after the policy or\ndeclared and accepted without a specific exclusion.\ne) If the Insured Person is continuously covered without any break as defined under the\napplicable norms on portability/migration stipulated by IRDAI, then waiting period for the\nsame would be reduced to the extent of prior coverage.\nf) List of specific diseases/procedures: -\nSurgeries/ procedure (irrespective of\nSl. Organ / Organ Illness/Diagnosis (irrespective of\nany illness / diagnosis other than\nNo. System treatments medical or surgical)\ncancers)\n\uf0b7 Adenoidectomy\n\uf0b7 Mastoidectomy\n\uf0b7 Sinusitis\n\uf0b7 Tonsillectomy\n\uf0b7 Rhinitis\n\uf0b7 Tympanoplasty\nEar, Nose, Throat \uf0b7 Tonsillitis\na. \uf0b7 Surgery for nasal septum deviation\n(ENT)\n\uf0b7 Nasal concha resection\n\uf0b7 Nasal polypectomy\n\uf0b7 Surgery for Turbinate hypertrophy\n\uf0b7 Cysts, polyps including\nbreast lumps\nHysterectomy\nb. Gynaecological \uf0b7 Polycystic ovarian\ndisease\n\uf0b7 Fibroids (fibromyoma)\n\uf0b7 Non infective arthritis",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7082,10 +7082,10 @@
       "text": "complications shall be excluded until the expiry of 36 months of continuous coverage after\nthe date of inception of the first policy with insurer.\nb) In case of enhancement of sum insured the exclusion shall apply afresh to the extent of\nsum insured increase.\nc) If the insured person is continuously covered without any break as defined under the\nportability/migration norms of the extant IRDAI (Health Insurance) Regulations, then\nwaiting period for the same would be reduced to the extent of prior coverage.\nd) Coverage under the policy after the expiry of 36 months for any pre-existing disease is\nsubject to the same being declared at the time of application and accepted by insurer.",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7617,9 +7617,9 @@
       "text": "and advanced reproductive technologies such as IVF, ZIFT, GIFT,\nICSI\niii. Gestational Surrogacy\niv. Reversal of sterilization\n15) Excluded Providers: Code \u2013 Excl11\nExpenses incurred towards treatment in any hospital or by any\nMedical Practitioner or any other provider specifically excluded by\nthe Insurer and disclosed in its website / notified to the\npolicyholders are not admissible. However, in case of life\nthreatening situations or following an accident, expenses up to the\nstage of stabilization are payable but not the complete claim.",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -7849,8 +7849,8 @@
       "text": "license. Easy Health UIN: HDFHLIP23024V072223\n19 | P age\nHDFC ERGO General Insurance Company Limited\n13) Congenital external diseases, defects or anomalies\n14) Expenses incurred by the insured on organ donation\n15) Treatment and supplies for analysis and adjustments of spinal\nsubluxation, diagnosis and treatment by manipulation of the skeletal\nstructure; muscle stimulation by any means except treatment of\nfractures (excluding hairline fractures) and dislocations of the\nmandible and extremities.\n16) Dental treatment and surgery of any kind, unless requiring\nHospitalisation\n17) Any non medical expenses mentioned in List 1 of Annexure I\n18) Treatment rendered by a Medical Practitioner which is outside\nhis discipline or the discipline for which he is licensed.\n19) Treatments rendered by a Medical Practitioner who is a\nmember of the Insured Person\u2019s family or stays with him, however\nproven material costs are eligible for reimbursement in accordance\nwith the applicable cover.",
       "type": "COVERAGE",
       "subtypes": [
-        "COVERAGE",
-        "DEFINITION"
+        "DEFINITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8279,8 +8279,8 @@
       "text": "viii) Cashless service: If any treatment, consultation or procedure for which a claim may be\nmade is to be taken at a Network Hospital, then We will provide a cashless service by\nmaking payment to the extent of Our liability direct to the Network Hospital as long as We\nare given notice that the Insured Person wishes to take advantage of a cashless service\naccompanied by full particulars at least 48 hours before any planned treatment or\nHospitalisation or within 24 hours after the treatment or Hospitalisation in the case of an\nemergency.\nix) Healthcare Advisory Benefit: We may suggest alternate Network Provider in specific cases\nof surgical or medical treatment, should the Insured member accept and utilize one of the\nalternatives suggested he would be eligible for a lump sum benefit of Rs 5000.\nPlease note: The acceptance of our recommendation is not obligatory on the Insured\nmember and We are not liable for any outcome of the treatment conducted at the network\ncentre.\nc. Fraud",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8362,9 +8362,9 @@
       "text": "member and We are not liable for any outcome of the treatment conducted at the network\ncentre.\nc. Fraud\nIf any claim made by the Insured Person, is in any respect fraudulent, or if any false statement,\nor declaration is made or used in support thereof, or if any fraudulent means or devices are\nused by the Insured Person or anyone acting on his/her behalf to obtain any benefit under this\nPolicy, all benefits under this policy and the premium paid shall be forfeited.\nAny amount already paid against claims made under this Policy but which are found fraudulent\nlater shall be repaid by all recipient(s)/policyholder(s), who have made that particular claim,\nwho shall be jointly and severally liable for such repayment to the Insurer.\nFor the purpose of this clause, the expression \"fraud\" means any of the following acts committed\nby the Insured Person or by his agent or the hospital/doctor/any other party acting on behalf of",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
         "DEFINITION",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -8881,8 +8881,8 @@
       "text": "policies will be applicable.\nii. For all other payment options, 50% of current instalment premium will be refunded when the\ncurrent period elapsed is less than 6 months from the commencement of the Policy Year. For\ninstalment after 6 months, no refund will be payable.\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n22 | P age\nHDFC ERGO General Insurance Company Limited\niii. In case of admissible claim under the Policy, future instalment for the current Policy Year will\nbe adjusted in the claim amount and no refund of any premium will be applicable during the\nPolicy Year.\nNotwithstanding anything contained herein or otherwise, no refunds of premium shall be",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -9036,8 +9036,8 @@
       "text": "Policy Year.\nNotwithstanding anything contained herein or otherwise, no refunds of premium shall be\nmade in respect of Cancellation where, any claim has been admitted or has been lodged or\nany benefit has been availed by the Insured Person under the Policy.\nii) The Company may cancel the policy at any time on grounds of misrepresentation non-\ndisclosure of material facts, fraud by the insured person by giving 15 days\u2019 written notice.\nThere would be no refund of premium on cancellation on grounds of misrepresentation,\nnon-disclosure of material facts or fraud.\ng. Free Look Period\nThe Free Look Period shall be applicable on new individual health insurance policies and not on\nrenewals or at the time of porting/migrating the Policy.\nThe Insured Person shall be allowed free look period of fifteen days from date of receipt of the\npolicy document to review the terms and conditions of the policy, and to return the same if not\nacceptable.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -9123,8 +9123,8 @@
       "text": "event of misrepresentation, mis description or non-disclosure of any material fact by the\npolicyholder.\ni. Complete Discharge\nAny payment to the Policyholder, Insured Person or his/ her nominees or his/ her legal\nrepresentative or assignee or to the Hospital, as the case may be, for any benefit under the\nPolicy shall be a valid discharge towards payment of claim by the Company to the extent of that\namount for the particular claim.\nj. Moratorium Period\nAfter completion of eight continuous years under the policy, no look back to be applied. This period\nof eight years is called as Moratorium Period. The moratorium would be applicable for the sums\ninsured of the first policy and subsequently completion of 8 continuous years would be applicable\nfrom date of enhancement of sums insured only on the enhanced limits. After the expiry of\nMoratorium Period no health insurance claim shall be contestable except for proven fraud and",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -9319,8 +9319,8 @@
       "text": "Insurer to port the entire policy along with all the members of the family, if any, at least 45 days\nbefore, but not earlier than 60 days from the policy renewal date as per IRDAI guidelines related\nto Portability. If such person is presently covered and has been continuously covered without\nany lapses under any health insurance policy with an Indian General/Health insurer, the\nproposed Insured Person will get the accrued continuity benefits in waiting periods as per IRDAI\nguidelines on portability.\nFor Detailed Guidelines on Portability, kindly refer the link\nhttps://www.irdai.gov.in/ADMINCMS/cms/frmGuidelines_Layout.aspx?page=PageNo3987\nl. Migration\nThe Insured Person will have the option to migrate the Policy to other health insurance\nproducts/plans offered by the Company by applying for Migration of the policyatleast30 days\nbefore the policy renewal date as per IRDAI guidelines on Migration. If such person is presently",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -9378,8 +9378,8 @@
       "text": "before the policy renewal date as per IRDAI guidelines on Migration. If such person is presently\ncovered and has been continuously covered without any lapses under any health insurance\nproduct/plan offered by the Company, the Insured Person will get the accrued continuity\nbenefits in waiting periods as per IRDAI guidelines on Migration.\nFor Detailed Guidelines on Migration, kindly refer the link\nhttps://www.irdai.gov.in/ADMINCMS/cms/frmGuidelines_Layout.aspx?page=PageNo3987\nm. Possibility of Revision of terms of the Policy including the Premium Rates\nThe Company, with prior approval of IRDAI, may revise or modify the terms of the Policy\nincluding the premium rates. The Insured Person shall be notified three months before the\nchanges are effected.\nn. Withdrawal of Policy\ni. In the likelihood of this product being withdrawn in future, the Company will intimate the\nInsured Person about the same 90 days prior to expiry of the policy.",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -9679,8 +9679,8 @@
       "text": "license. Easy Health UIN: HDFHLIP23024V072223\n24 | P age\nHDFC ERGO General Insurance Company Limited\ni. Grace Period as mentioned in the table below would be given to pay the installment premium due\nfor the Policy\nOptions Instalment Premium Option Grace Period applicable\nOption 1 Multi-Year / Yearly 30 days\nOption 2 Half Yearly 30 days\nOption 3 Quarterly 30 days\n15 Days\nOption 4 Monthly\nii. During such Grace Period, coverage will not be available from the due date of installment premium\ntill the date of receipt of premium by Company\niii. The Insured Person will get the accrued continuity benefit in respect of the \u201cWaiting Periods\u201d,\n\u201cSpecific Waiting Periods\u201d in the event of payment of premium within the stipulated Grace Period\niv. No interest will be charged If the installment premium is not paid on due date\nv. In case of installment premium due not received within the Grace Period, the Policy will get\ncancelled",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -9792,8 +9792,8 @@
       "text": "v. In case of installment premium due not received within the Grace Period, the Policy will get\ncancelled\nvi. In the event of a claim, all subsequent premium installments shall immediately become due and\npayable\nvii. The Company has the right to recover and deduct all the pending installments from the claim\namount due under the Policy.\nInstalment premium payment through Auto Debit/ECS Facility\ni. If Option of Premium payment by instalment is opted through auto Debit/ECS facility, Electronic\nClearing Service (ECS) Mandate form needs to be completely filled & signed by the Insured Person.\nii. The Premium amount which would be auto debited & frequency of instalment should be duly filled\nin the ECS Mandate form.\niii. New ECS Mandate Form is required to be filled in case of any change in the Premium due to change\nof Sum Insured / age / plan /coverages/revision in premium.\niv. The Company should be informed at least 15 days prior to the due date of instalment premium if the",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10321,8 +10321,8 @@
       "text": "2. Specific General Terms & Conditions\na. Geography\nThis Policy only covers medical treatment taken within India. All payments under this Policy will\nonly be made in Indian Rupees within India.\nThe premium will be computed basis the city of residence provided by the insured person in the\napplication form. The premium that would be applicable zone wise and the cities defined in\neach zone are as under:\n\uf0b7 Tier 1 : Delhi, NCR, Mumbai, Thane, Mumbai Suburban and Navi Mumbai, Surat, Ahmedabad\n& Vadodara\n\uf0b7 Tier 2 : Rest of India- All other cities\nThe premium will be modified in case of mid -term address change involving migration from one\nzone to another and would be calculated on pro-rata basis.\nb. Insured Person\nOnly those persons named as Insured Persons in the Schedule shall be covered under this Policy.\nAny eligible person may be added during the Policy Period after his application has been accepted",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10446,9 +10446,9 @@
       "text": "Any eligible person may be added during the Policy Period after his application has been accepted\nby Us and additional premium has been received. Insurance cover for this person shall only\ncommence once We have issued an endorsement confirming the addition of such person as an\nInsured Person.\nAny Insured Person in the policy has the option to migrate to similar indemnity health insurance\npolicy available with us at the time of renewal subject to underwriting with continuity benefit of\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n26 | P age\nHDFC ERGO General Insurance Company Limited",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10572,9 +10572,9 @@
       "text": "license. Easy Health UIN: HDFHLIP23024V072223\n26 | P age\nHDFC ERGO General Insurance Company Limited\nwaiver of waiting period. provided the policy has been maintained without a break as per\nportability/migration guidelines.\nIf an Insured Person dies, he will cease to be an Insured Person upon Us receiving all relevant\nparticulars in this regard. We will return a rateable part of the premium received for such person IF\nAND ONLY IF there are no claims in respect of that Insured Person under the Policy.\nc. Loadings & Discounts\nWe may apply a risk loading on the premium payable (based upon the declarations made in the\nproposal form and the health status of the persons proposed for insurance). The maximum risk\nloading applicable for an individual shall not exceed above 100% per diagnosis / medical condition\nand an overall risk loading of over 150% per person. These loadings are applied from\nCommencement Date of the Policy including subsequent renewal(s) with Us or on the receipt of the",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
         "CONDITION",
-        "LIMITATION"
+        "LIMITATION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10632,8 +10632,8 @@
       "text": "Commencement Date of the Policy including subsequent renewal(s) with Us or on the receipt of the\nrequest of increase in Sum Insured (for the increased Sum Insured).\nWe will inform You about the applicable risk loading through a counter offer letter. You need to\nrevert to Us with consent and additional premium (if any), within 7 days of the receipt of such\ncounter offer letter. In case, you neither accept the counter offer nor revert to Us within 7days, We\nshall cancel Your application and refund the premium paid within next 7 days.\nPlease note that We will issue Policy only after getting Your consent and additional premium (if\nany). Please visit our nearest branch to refer our underwriting guidelines if required.\n\uf0a7\nWe will provide a Family Discount of 5% if 2 members are covered and 10% if 3 or more family\nmembers are covered under a single Easy Health Individual Health Insurance Plan. An additional",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -10715,8 +10715,8 @@
       "text": "members are covered under a single Easy Health Individual Health Insurance Plan. An additional\ndiscount of 7.5% will be provided if insured person is paying two year premium, in advance as a\nsingle premium. These discounts shall be applicable at inception and renewal of the policy\nd. Notification of Claim\nTreatment, Consultation or Procedure: We must be notified:\ni. If any treatment for which a claim may be made is to Immediately and in any event at least 48 hours\nbe taken and that treatment requires prior to the Insured Person\u2019s admission.\nHospitalisation:\nii. If any treatment for which a claim may be made is Within 24 hours of the start of the Insured\nto be taken and that treatment requires Person\u2019s Hospitalisation.\nHospitalisation in an Emergency:\niii. For all benefits which are contingent on Our prior Within 7 days of the Insured Person\u2019s discharge\nacceptance of a claim under Section B-1)a): post-hospitalisation.\ne. Cashless Service:",
       "type": "CONDITION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -13847,9 +13847,9 @@
       "text": "Maharashtra,\nC.T.S. No.s. 195 to 198,\nArea of Navi Mumbai and Thane\nN.C. Kelkar Road, Narayan Peth,\nexcluding Mumbai Metropolitan Region.\nPune \u2013 411 030.\nTel.: 020-41312555\nEmail: bimalokpal.pune@cioins.co.in\nThis Policy is subject to regulation 12 of IRDAI (Protection of Policyholder\u2019s Interests) Regulations 2017.\nSchedule of Benefits \u2013 Easy Health Individual\nStandard Exclusive\nSum Insured per 15.00,20.00,\n1.00, 1.50, 2.00, 2.50,\nInsured Person 3.00, 4.00, 25.00, 50.00\n3.00, 4.00, 7.50,10.00\nper Policy Year 5.00\n5.00,7.5,10,15\n(Rs. in Lakh)\n1 a) In-patient\nCovered Covered\nTreatment\n1 b) Pre-\nCovered Covered\nhospitalization\n1 c) Post-\nCovered Covered\nhospitalization\n1 d) Day Care\nCovered Covered\nProcedures\n1 e) Domiciliary\nCovered Covered\nTreatment\n1 f) Organ\nCovered Covered\nDonor\n1 g)) Emergency Upto Rs.2000 per\nUpto Rs.2000 per hospitalisation\nAmbulance hospitalisation\n1 h) Ayush Upto Rs\nUpto Rs 20,000 Upto Rs 25,000\nBenefit 50,000\n1 i) Daily Cash Rs.500 per Rs.1000 per",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14129,9 +14129,9 @@
       "text": "Ambulance hospitalisation\n1 h) Ayush Upto Rs\nUpto Rs 20,000 Upto Rs 25,000\nBenefit 50,000\n1 i) Daily Cash Rs.500 per Rs.1000 per\nRs.800 per day,\nfor choosing Rs.500 per day, day, day,\nMaximum\nShared Maximum Rs.3,000 Maximum Maximum\nRs.4,800\nAccommodation Rs.3,000 Rs.6,000\n2 a) Daily Cash Rs.300 per Rs.500 per day, Rs.800 per\nNot Covered\nfor day, Maximum day,\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n33 | P age\nHDFC ERGO General Insurance Company Limited\naccompanying Maximum Rs.15,000 Maximum\nan insured child Rs.9,000 Rs.24,000\n2 b) Newborn Additional Benefit on payment of additional\nNot Covered\nbaby premium\n2 c) Recovery\nNot Covered Not Covered",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14327,10 +14327,10 @@
       "text": "2 b) Newborn Additional Benefit on payment of additional\nNot Covered\nbaby premium\n2 c) Recovery\nNot Covered Not Covered\nBenefit Rs 10,000\nUpto Rs.2.5\n2 d) Emergency\nNot covered Not covered Lacs per\nAir Ambulance\nhospitalisation\nNormal Normal\nDelivery Rs. Delivery Rs.\n15,000* Normal Delivery 30,000*\nCaesarean Rs. 25,000* Caesarean\nDelivery Rs. Caesarean Delivery Rs.\n25,000* Delivery Rs. 50,000*\n(* Including 40,000* (* Including\n3 a) Maternity\nPre/Post Natal (* Including Pre/Post Natal\nExpenses Not Covered\nlimit of Pre/Post Natal limit of Rs.\nRs.1,500 and limit of Rs. 2,500 5,000 and\nNew Born and New Born New Born\nlimit of limit of Rs.3,500) limit of\nRs.2,000) [Waiting Period Rs.5,000)\n[Waiting of 6 years] [Waiting\nPeriod of 6 Period of 4\nyears] Years]\nOptional, if\nopted then\nOptional, if opted then the Critical\nthe Critical Illness Sum Illness Sum\n4 Critical Illness Insured 50% or 100% of Optional, if opted then the Critical Insured will be",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "CONDITION",
+        "LIMITATION",
         "EXCLUSION",
-        "LIMITATION"
+        "CONDITION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14472,9 +14472,9 @@
       "text": "the Critical Illness Sum Illness Sum\n4 Critical Illness Insured 50% or 100% of Optional, if opted then the Critical Insured will be\n(Optional In-patient Sum Insured Illness Sum Insured will be 50% or 50% or 100%\nbenefit) subject to minimum of 100% of In-patient Sum Insured of In-patient\nRs 100,000 upto a Sum Insured\nmaximum of Rs. 10 Lacs upto a\nmaximum of\nRs 10 Lacs\nAdditional 10% of Base Sum Insured on continuous renewal for each claim free\n5.1 .Cumulative\nyear subject to maximum 100% of Base Sum Insured. Reduced by 10% of Base\nBonus\nSum Insured in event of a claim each year\nUpto 8% discount on renewal premium subject to insured member achieving\nthe average number of steps in each time interval prescribed in the grid by\n5.2. Stay Active\neither walking or running regularly to keep fit. Dependent children covered will\nnot be considered for calculation of average steps.\nUpto 1% of Sum Insured\nper Insured Person upto Upto 1% of Sum Insured subject to a Maximum of",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -14622,8 +14622,8 @@
       "text": "not be considered for calculation of average steps.\nUpto 1% of Sum Insured\nper Insured Person upto Upto 1% of Sum Insured subject to a Maximum of\n5.3. Health Rs.5000, only once at Rs.5,000 per Insured Person, only once at the end\nCheckup the end of a block of of a block of every continuous three policy years\nevery continuous four\nclaim free years.\nBenefits under 5.1, 5.2, 5.3 are subject to pre-authorisation by HDFC ERGO General Insurance\nLimited\nSchedule of Benefits \u2013 Easy Health Family\nStandard Exclusive\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n34 | P age\nHDFC ERGO General Insurance Company Limited\nSum Insured per 15.00,20.00,",
       "type": "LIMITATION",
       "subtypes": [
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -14813,9 +14813,9 @@
       "text": "license. Easy Health UIN: HDFHLIP23024V072223\n34 | P age\nHDFC ERGO General Insurance Company Limited\nSum Insured per 15.00,20.00,\nPolicy per Policy 2.00, 3.00, 4.00, 3.00, 4.00, 25.00, 50.00\n7.50,10.00\nYear (Rs. in 5.00,7.50,10.00,15.00 5.00\nLakh)\n1 a) In-patient\nCovered Covered\nTreatment\n1 b) Pre-\nCovered Covered\nhospitalization\n1 c) Post-\nCovered Covered\nhospitalization\n1 d) Day Care\nCovered Covered\nProcedures\n1 e) Domiciliary\nCovered Covered\nTreatment\n1 f) Organ\nCovered Covered\nDonor\n1 g)) Emergency Upto Rs.2000 per\nUpto Rs.2000 per hospitalisation\nAmbulance hospitalisation\n1 h) Ayush Upto Rs 50,000\nUpto Rs 20,000 Upto Rs 25,000\nBenefit\n1 i) Daily Cash Rs.500 per Rs.800 per Rs.1000 per day,\nfor choosing Rs.500 per day, day, day, Maximum Rs.6,000\nShared Maximum Rs.3,000 Maximum Maximum\nAccommodation Rs.3,000 Rs.4,800\n2 a) Daily Cash Rs.300 per Rs.500 per Rs.800 per day,\nfor day, day, Maximum Rs.24,000\nNot Covered\naccompanying Maximum Maximum\nan insured child Rs.9,000 Rs.15,000",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "EXCLUSION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -15011,10 +15011,10 @@
       "text": "for day, day, Maximum Rs.24,000\nNot Covered\naccompanying Maximum Maximum\nan insured child Rs.9,000 Rs.15,000\n2 b) Newborn\nNot Covered Additional Benefit on payment of additional premium\nbaby\n2 c) Recovery\nNot Covered Not Covered Rs 10,000\nBenefit\n2 d) Emergency Upto Rs.2.5 Lacs per\nNot covered Not covered\nAir Ambulance hospitalisation\nNormal Normal Normal Delivery Rs.\nDelivery Rs. Delivery Rs. 30,000*\n15,000* 25,000* Caesarean Delivery Rs.\nCaesarean Caesarean 50,000*\nDelivery Rs. Delivery Rs. (* Including Pre/Post\n25,000* 40,000* Natal limit of Rs. 5,000\n(* Including (* Including and New Born limit of\n3 a) Maternity\nPre/Post Pre/Post Rs.5,000)\nExpenses Not Covered\nNatal limit of Natal limit [Waiting Period of 3\nRs.1,500 and of Rs. 2,500 Years]\nNew Born and New\nlimit of Born limit of\nRs.2,000) Rs.3,500)\n[Waiting [Waiting\nPeriod 4 Period 4\nyears] years]\n4 Critical Illness Optional, if opted Optional, if opted then the Optional, if opted then",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
         "EXCLUSION",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -15168,9 +15168,9 @@
       "text": "[Waiting [Waiting\nPeriod 4 Period 4\nyears] years]\n4 Critical Illness Optional, if opted Optional, if opted then the Optional, if opted then\n(Optional then the Critical Critical Illness Sum Insured the Critical Illness Sum\nbenefit) Illness Sum Insured will be 50% or 100% of In- Insured will be 50% or\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered &\nCorporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400\n020. Trade Logo displayed above belongs to HDFC Ltd and ERGO International AG and used by the Company under\nlicense. Easy Health UIN: HDFHLIP23024V072223\n35 | P age\nHDFC ERGO General Insurance Company Limited\n50% or 100% of In- patient Sum Insured 100% of In-patient Sum\npatient Sum Insured Insured upto a maximum\nsubject to minimum of Rs 10 Lacs\nof Rs 100,000 upto a\nmaximum of Rs 10\nLacs\nAdditional 10% of Base Sum Insured on continuous renewal for each claim free",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "LIMITATION",
         "CONDITION",
-        "LIMITATION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -15366,9 +15366,9 @@
       "text": "of Rs 100,000 upto a\nmaximum of Rs 10\nLacs\nAdditional 10% of Base Sum Insured on continuous renewal for each claim free\nyear subject to maximum 100% of Base Sum Insured. Reduced by 10% of Base\n5.1. Cumulative Sum Insured in event of a claim each year. In relation to a Family Floater, the\nbonus cumulative bonus so applied will only be available in respect of claims made by\nthose Insured Persons who were Insured Persons in the claim free Policy Year\nand continue to be Insured Persons in the subsequent Policy Year.\nUpto 8% discount on renewal premium subject to insured member achieving the\naverage number of steps in each time interval prescribed in the grid by either\n5.2. Stay Active walking or running regularly to keep fit. In a floater policy it would be an average\nof all adult members covered. Dependent children covered will not be\nconsidered for calculation of average steps.\nUpto 1% of Sum\nInsured per Policy Upto 1% of Sum Insured per Policy subject to a",
       "type": "LIMITATION",
       "subtypes": [
-        "COVERAGE",
+        "CONDITION",
         "LIMITATION",
-        "CONDITION"
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -15480,8 +15480,8 @@
       "text": "considered for calculation of average steps.\nUpto 1% of Sum\nInsured per Policy Upto 1% of Sum Insured per Policy subject to a\nupto Rs.5000, only Maximum of Rs. 5,000 per Insured Person, only once at\n5.3. Health\nonce at the end of a the end of a block of every continuous three policy\nCheckup\nblock of every years.\ncontinuous four claim\nfree years\nBenefits under 5.1,5.2,5.3 are subject to pre-authorisation by HDFC ERGO General Insurance\nLimited\nAnnexure I \u2013\nList I - Items for which coverage is not available in the policy\nS. Item S. Item\nNo. No.\n1 BABY FOOD 35 OXYGEN CYLINDER (FOR USAGE OUTSIDE THE\nHOSPITAL)\n2 BABY UTILITIES CHARGES 36 SPACER\n3 BEAUTY SERVICES 37 SPIROMETRE\n4 BELTS/ BRACES 38 NEBULIZER KIT\n5 BUDS 39 STEAM INHALER\n6 COLD PACK/HOT PACK 40 ARMSLING\n7 CARRY BAGS 41 THERMOMETER\n8 EMAIL / INTERNET CHARGES 42 CERVICAL COLLAR\n9 FOOD CHARGES (OTHER THAN 43 SPLINT\nPATIENT'S DIET PROVIDED BY\nHOSPITAL)\n10 LEGGINGS 44 DIABETIC FOOT WEAR",
       "type": "LIMITATION",
       "subtypes": [
-        "LIMITATION",
-        "CONDITION"
+        "CONDITION",
+        "LIMITATION"
       ],
       "entities": [
         {
@@ -15925,8 +15925,8 @@
       "text": "HDFC ERGO General Insurance Company Limited\n18 EYELET COLLAR 52 PRIVATE NURSES CHARGES- SPECIAL NURSING\nCHARGES\n19 SLINGS 53 SUGAR FREE TABLETS\n20 BLOOD GROUPING AND CROSS 54 CREAMS POWDERS LOTIONS (TOILETRIES ARE\nMATCHING OF DONORS SAMPLES NOT PAYABLE, ONLY PRESCRIBED MEDICAL\nPHARMACEUTICALS PAYABLE)\n21 SERVICE CHARGES WHERE NURSING 55 ECG ELECTRODES\nCHARGE ALSO CHARGED\n22 TELEVISION CHARGES 56 GLOVES\n23 SURCHARGES 57 NEBULISATION KIT\n24 ATTENDANT CHARGES 58 ANY KIT WITH NO DETAILS MENTIONED\n[DELIVERY KIT, ORTHOKIT, RECOVERY KIT, ETC]\n25 EXTRA DIET OF PATIENT (OTHER THAN 59 KIDNEY TRAY\nTHAT WHICH FORMS PART OF BED\nCHARGE)\n26 BIRTH CERTIFICATE 60 MASK\n27 CERTIFICATE CHARGES 61 OUNCE GLASS\n28 COURIER CHARGES 62 OXYGEN MASK\n29 CONVEYANCE CHARGES 63 PELVIC TRACTION BELT\n30 MEDICAL CERTIFICATE 64 PAN CAN\n31 MEDICAL RECORDS 65 TROLLY COVER\n32 PHOTOCOPIES CHARGES 66 UROMETER, URINE JUG\n33 MORTUARY CHARGES 67 AMBULANCE\n34 WALKING AIDS CHARGES 68 VASOFIX SAFETY",
       "type": "EXCLUSION",
       "subtypes": [
-        "COVERAGE",
-        "EXCLUSION"
+        "EXCLUSION",
+        "COVERAGE"
       ],
       "entities": [
         {
@@ -17239,12 +17239,12 @@
     },
     "risk_keywords": [
       "accident",
-      "claim",
-      "damage",
-      "liability",
-      "injury",
       "loss",
-      "risk"
+      "liability",
+      "risk",
+      "damage",
+      "injury",
+      "claim"
     ],
     "document_stats": {
       "sentences": 991,

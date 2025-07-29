@@ -37,7 +37,7 @@ class InsuranceQueryProcessor:
         
         try:
             # Initialize NLP and AI components
-            self.nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
+            self.nlp = spacy.load("en_core_web_md", disable=["parser", "ner"])
             
             self.embedder = GoogleGenerativeAIEmbeddings(
                 model="models/embedding-001",
